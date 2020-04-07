@@ -198,6 +198,7 @@
 【中国】<br>
 * 中国工程院院士、中国疾病预防控制中心传染病预防控制所所长徐建国接受[大公报](http://www.takungpao.com/news/232108/2020/0105/400593.html#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)采访时表示，从目前看，未发现明显的人传人证据，未发现医务人员感染，且没有发生死亡案例，说明病毒威胁水平有限。徐建国还强调，中国的传染病控制有多年的积累，绝不会出现因为春运发生大扩散的可能性。<br>
 * 国家疾控中心研制出对新型冠状病毒高特异性的PCR检测试剂。<br>
+* 据[新华社公布的时间线](http://www.xinhuanet.com/2020-04/06/c_1125819214.htm)，中国疾控中心负责人与美国疾控中心主任通电话，介绍疫情有关情况。据《纽约时报》调查报道[The lost month: How a Failure to test blinded the U.S. to COVID-19](https://www.nytimes.com/2020/03/28/us/testing-coronavirus-pandemic.html)，美国疾控中心主任Dr. Robert Redfield的此次通话时间很长，而几天后，两人再次通话时，高福哭了。据新华社时间线，两人再次通话为1月8日。<br>
 * 当地时间1月4日，世界卫生组织[发推](https://twitter.com/WHO/status/1213523866703814656)称，收到中国报告，武汉出现一撮肺炎患者。世界卫生组织总部、亚洲地区以及中国的工作人员密切关注此事。此条推文无配图。<br>
 * [香港特区政府公布](https://www.info.gov.hk/gia/general/202001/04/P2020010400175.htm)[《对公共卫生有重要性的新型传染病准备及应变计划》](https://www.chp.gov.hk/files/pdf/govt_preparedness_and_response_plan_for_novel_infectious_disease_of_public_health_significance_chi.pdf)，并同时启用严重应变级别，即时生效。
 
