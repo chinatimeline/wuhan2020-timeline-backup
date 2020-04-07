@@ -1390,7 +1390,7 @@
 * [Reuters](https://uk.reuters.com/article/uk-health-coronavirus-poland-military/top-polish-general-has-coronavirus-defence-ministry-idUKKBN20X1YH?il=0)：当地时间3月10日，波兰国防部称波兰武装部队总司令雅罗斯瓦夫·米卡（Jarosław Mika）确诊感染新冠肺炎。军方发言人称，米卡近日在德国参加军事会议，与会人员包括北约各欧洲成员国陆军指挥官，回到波兰不久后收到提醒，称一名与会人员确诊感染了新冠肺炎，随后在3月9日米卡被确诊。目前米卡病情稳定，正在医院接受隔离治疗。<br>
 * [brusselstimes](https://www.brusselstimes.com/all-news/business/99697/council-of-state-scraps-27-export-licences-for-arms-to-saudi-arabia-humanitarian-law-civil-war-yemen-fn-herstal-mecar/)：比利时通报首例新冠肺炎死亡病例，患者90岁。<br>
 * 中美国家[洪都拉斯卫生部](https://covid19honduras.org/?q=primeros-casos-confirmados)首次通报2例新冠肺炎确诊病例，分别从西班牙和瑞士回国。<br>
-* 世界卫生组织WHO总干事谭德塞在周三的记者会上宣布，世卫组织经过疫情评估后认为新冠肺炎已构成“全球性流行病”。<br>
+* 世界卫生组织WHO总干事谭德塞在周三的记者会上宣布，[世卫组织经过疫情评估后认为新冠肺炎已构成“全球性流行病”](https://twitter.com/WHO/status/1237776967526764544)。<br>
 
 ## 2020年3月12日
 【武汉-湖北】<br>
