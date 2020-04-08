@@ -217,7 +217,7 @@
 * 同日，武汉同济医院急诊科医生陆俊出现“无明显病因”发热症状，右肺CT片有片状磨玻璃影。见2月3日[财新网 · 封面报道之一现场篇：武汉围城](https://github.com/Pratitya/wuhan2020-timeline/issues/56#issue-558835473)刘力采访回忆内容。<br>
 
 【中国】<br>
-* 凌晨，上海市公共卫生临床中心张永振研究团队从武汉市疾控中心所获得的“不明原因发热”患者样本中检测出类SARS病毒，经高通量测序获得病毒的全基因组，序列分析发现该病毒与类SARS冠状病毒同源性高达89.11%【参见12月20日及1月11日条目】。该机构随即向上海市卫健委和国家卫健委等主管部门[报告](https://github.com/Pratitya/wuhan2020-timeline/issues/87#issue-562438815)，由于新病毒与SARS同源，该机构判断病毒应是经呼吸道传播，建议在公共场合采取相应疾控防疫措施。见2月25日[剥洋葱people · 公卫专家：临床角度不讲拐点，以疫情宣告结束为准](https://mp.weixin.qq.com/s/kmb_iimguyYqZeoMr6uVBQ)及2月26日[财新网 · 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)。<br>
+* 凌晨，上海市公共卫生临床中心张永振研究团队从武汉市疾控中心所获得的“不明原因发热”患者样本中检测出类SARS病毒，经高通量测序获得病毒的全基因组，序列分析发现该病毒与类SARS冠状病毒同源性高达89.11%【参见12月20日及1月11日条目】。该机构随即向上海市卫健委和国家卫健委等主管部门[报告](https://github.com/Pratitya/wuhan2020-timeline/issues/87)，由于新病毒与SARS同源，该机构判断病毒应是经呼吸道传播，建议在公共场合采取相应疾控防疫措施。见2月25日新京报和2月27日三联生活周刊对上海市公共卫生临床中心党委书记卢洪洲的[采访](https://github.com/Pratitya/wuhan2020-timeline/issues/178)，以及2月26日[财新网 · 新冠病毒基因测序溯源：警报是何时拉响的](https://github.com/Pratitya/wuhan2020-timeline/issues/132)。<br>
 
 【国际】<br>
 * 当地时间1月5日，世界卫生组织发[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)，总结一月初的情况：12月31日接到中国报告未明原因肺炎；1月3日已接到中国汇报共计44例疑似患者。同时，世界卫生组织[发推](https://twitter.com/WHO/status/1213795226072109058)的配图是：武汉肺炎。<br>
