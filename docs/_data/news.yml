@@ -196,7 +196,7 @@
   - item_name: news
     content: "同日，国家卫健委获悉武汉市发生了聚集性不明原因的病毒性肺炎，着手组织国家工作组和专家组赴武汉指导支持相关疫情的防治工作。见1月22日国务院[新闻办就新型冠状病毒感染的肺炎防控工作有关情况举行发布会](http://www.gov.cn/xinwen/2020-01/22/content_5471560.htm)。<br>"
   - item_name: news
-    content: "又据经济学家华生称，因为中国疾控中心主任高福有临睡前在网络上搜索有关传染病信息的习惯，当日偶然发现了有关武汉市卫健委内部发出了不明原因肺炎紧急通知的相关传闻，连夜给国家卫健委多名领导分别打电话报警。见2月17日[华生2010 · 如果群殴高福是搞错了对象](https://www.weibo.com/ttarticle/p/show?id=2309404472606035148979)及2月22日[华生2010 · 让事实说话——我们要从这次疫情真正总结什么（⼆）](https://www.weibo.com/ttarticle/p/show?id=2309404474594747613260)。<br>"
+    content: "又据经济学家华生称，中国疾控中心主任高福当晚在网上发现了有关武汉市卫健委内部发出了不明原因肺炎紧急通知的相关传闻，随即打电话给武汉市疾控中心负责人了解情况，问他们为什么这么多天来从未向网络系统直报，并连夜给国家卫健委多名领导分别打电话报警。见2月17日[华生2010 · 如果群殴高福是搞错了对象](https://www.weibo.com/ttarticle/p/show?id=2309404472606035148979)及2月22日[华生2010 · 让事实说话——我们要从这次疫情真正总结什么（⼆）](https://www.weibo.com/ttarticle/p/show?id=2309404474594747613260)。<br>"
 
 - date: 2019年12月31日
   items:
@@ -217,7 +217,7 @@
   - item_name: news
     content: "[微博大V江宁婆婆](https://github.com/Pratitya/wuhan2020-timeline/issues/27#issue-557983731)表示武汉拥有全国第一个p4级病毒研究所，“如果武汉搞不定，没人搞得定”，对武汉不明肺炎表示乐观。<br>"
   - item_name: news
-    content: "3名武汉市民出现病症（事后确诊，事后知2名与华南海鲜城有关）。即日起，把从12月16日住院的疑似患者转移到金银潭医院进行隔离（共转移了59位疑似患者，住院日期从12月16日到1月1日。后有41位确诊）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, Jan. 24, 2020（中国武汉地区2019年新型冠状病毒感染者的临床特征）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。<br>*"
+    content: "3名武汉市民出现病症（事后确诊，事后知2名与华南海鲜城有关）。即日起，把从12月16日住院的疑似患者转移到金银潭医院进行隔离（共转移了59位疑似患者，住院日期从12月16日到1月1日。后有41位确诊）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, Jan. 24, 2020（中国武汉地区2019年新型冠状病毒感染者的临床特征）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -260,7 +260,7 @@
   - item_name: news
     content: "世界卫生组织要求中国当局提供更多信息、评估风险。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200101-1017466?utm_source=ZB_iPhone&utm_medium=share)：武汉陆续接治不明原因肺炎病人，网络流传疑SARS再度爆发。卫健委强调，到目前为止，调查未出现明显人传人现象，也未发现医务人员受感染。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200101-1017466)：武汉陆续接治不明原因肺炎病人，网络流传疑SARS再度爆发。卫健委强调，到目前为止，调查未出现明显人传人现象，也未发现医务人员受感染。<br>"
 
 - date: 2020年1月2日
   items:
@@ -283,7 +283,7 @@
   - item_name: news
     content: "[新加坡健康部](https://www.moh.gov.sg/news-highlights/details/precautionary-measures-in-response-to-severe-pneumonia-cases-in-wuhan-china)发公告称密切关注武汉不明肺炎，并且决定从1月3日起，在樟宜机场对所有从武汉进入新加坡的人进行温度筛查。<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200102-1017696?utm_source=ZB_iPhone&utm_medium=share)：（武汉/香港/台北综合讯）疑是武汉肺炎疫情源头，华南海鲜市场被令休市。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200102-1017696)：（武汉/香港/台北综合讯）疑是武汉肺炎疫情源头，华南海鲜市场被令休市。<br>"
 
 - date: 2020年1月3日
   items:
@@ -302,7 +302,7 @@
   - item_name: news
     content: "国家卫健委相关负责人就来到武汉市江汉区某社区卫生中心，当时的陪同人员有武汉市卫健委主任，还有江汉区区长。据该中心院长方涵（化名）回忆，当时大家都没戴口罩，他们观看了预检分诊台和发热诊室，问了我们防控不明肺炎的情况。见3月7日[八点健闻 · 武汉疫情第一道防线——社区卫生服务中心是怎样失守的？](https://github.com/Pratitya/wuhan2020-timeline/issues/150#issue-577432320)。<br>"
   - item_name: news
-    content: "17时，武汉市卫健委发布[第二份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010309017)，首次提出“不明原因的病毒性肺炎”概念。表示“发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定。目前所有病例均在武汉市医疗机构接受隔离治疗”，指出“截至目前，初步调查表明，未发现明显的人传人证据，未发现医务人员感染”。[央视新闻](https://weibo.com/2656274875/InMYgwUhZ?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580459087573)转发报道。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211279.html)转发公告。且通知了[世界卫生组织](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。<br>"
+    content: "17时，武汉市卫健委发布[第二份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010309017)，首次提出“不明原因的病毒性肺炎”概念。表示“发现符合不明原因的病毒性肺炎诊断患者44例，其中重症11例，其余患者生命体征总体稳定。目前所有病例均在武汉市医疗机构接受隔离治疗”，指出“截至目前，初步调查表明，未发现明显的人传人证据，未发现医务人员感染”。[央视新闻](https://weibo.com/2656274875/InMYgwUhZ)转发报道。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211279.html)转发公告。且通知了[世界卫生组织](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。<br>"
   - item_name: news
     content: "武汉市中心医院呼吸内科学科带头人、主任医师赵苏认为从急诊科转诊病人感染症状比较独特【参见12月16日条目】，根据科研课题设计，武汉市中心医院收集病人呼吸道样本，由武汉疾控中心在本日下午转交给上海公共卫生临床中心的一个团队。见3月16日[环球时报 · 武汉市中心医院医护人员吐真情：疫情是面照妖镜](https://github.com/Pratitya/wuhan2020-timeline/issues/167#issue-583545656)。<br>"
   - item_name: news
@@ -320,11 +320,11 @@
   - item_name: news
     content: "中方开始向美方通报疫情信息和防控措施。见[央视新闻微博](https://github.com/Pratitya/wuhan2020-timeline/issues/59#issue-559484510)报道（博文已被删除）。<br>"
   - item_name: news
-    content: "[台北中央社](http://www.rfi.fr/cn/20200103-nicolas-%E4%B8%AD%E5%9B%BD-%E8%82%BA%E7%82%8E-%E5%8F%B0%E6%B9%BE-desk-internet-chine-pneumonie-un-virus-grippal-se-propage)：针对中国武汉出现的不明原因肺炎疫情，疾管署副署长当天表示，现已受到大陆方面回复：已排除流感、禽流感及腺病毒感染，但无法排除是新型冠状病毒疾病。目前累计有44个病例，没有明显人传人迹象。<br>"
+    content: "[台北中央社](https://www.cna.com.tw/news/firstnews/202001030261.aspx)：针对中国武汉出现的不明原因肺炎疫情，疾管署副署长当天表示，现已受到大陆方面回复：已排除流感、禽流感及腺病毒感染，但无法排除是新型冠状病毒疾病。目前累计有44个病例，没有明显人传人迹象。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200103-1017977?utm_source=ZB_iPhone&utm_medium=share)：武汉华南海鲜市场出现不明原因的肺炎持续发酵，相关病患已全部转入当地一家医院集中隔离治疗，截止发稿，官方未对此次肺炎的病原检测结果进行通告说明。香港、台湾等地则已提高防控层级，希望阻绝疫情入境。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200103-1017977)：武汉华南海鲜市场出现不明原因的肺炎持续发酵，相关病患已全部转入当地一家医院集中隔离治疗，截止发稿，官方未对此次肺炎的病原检测结果进行通告说明。香港、台湾等地则已提高防控层级，希望阻绝疫情入境。<br>"
   - item_name: news
     content: "[BBC](https://www.bbc.com/news/world-asia-china-50984025)：中国肺炎爆发：神秘疫情调查在武汉。<br>"
 
@@ -353,9 +353,9 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200104-1018241?utm_source=ZB_iPhone&utm_medium=share)：（中新社）武汉肺炎个案增至44例，重症11例港疑似个案增至五人。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200104-1018241)：（中新社）武汉肺炎个案增至44例，重症11例港疑似个案增至五人。<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200104-1018246?utm_source=ZB_iPhone&utm_medium=share)：（中通社）武汉肺炎恐慌蔓延到港。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200104-1018246)：（中通社）武汉肺炎恐慌蔓延到港。<br>"
 
 - date: 2020年1月5日
   items:
@@ -364,7 +364,7 @@
   - item_name: news
     content: "武汉病毒研究所成功分离到了病毒毒株。见中国科学院武汉病毒研究所[武汉病毒所全力开展新型冠状病毒肺炎科研攻关](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)。<br>"
   - item_name: news
-    content: "武汉市卫健委发布[第三份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020)，表示“不明原因的病毒性肺炎诊断患者59例，其中重症患者7例，其余患者生命体征总体稳定，目前所有患者均在武汉市医疗机构接受隔离治疗，无死亡病例”，指出“部分患者为武汉市华南海鲜城（华南海鲜批发市场）经营户。截至目前，初步调查表明，未发现明确的人传人证据，未发现医务人员感染”。[央视新闻](https://weibo.com/2656274875/Io79mqVhM?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580459106117)全文转载公告，并强调“武汉不明原因肺炎已排除SARS病原”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211273.html)全文转载公告。<br>"
+    content: "武汉市卫健委发布[第三份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020)，表示“不明原因的病毒性肺炎诊断患者59例，其中重症患者7例，其余患者生命体征总体稳定，目前所有患者均在武汉市医疗机构接受隔离治疗，无死亡病例”，指出“部分患者为武汉市华南海鲜城（华南海鲜批发市场）经营户。截至目前，初步调查表明，未发现明确的人传人证据，未发现医务人员感染”。[央视新闻](https://weibo.com/2656274875/Io79mqVhM)全文转载公告，并强调“武汉不明原因肺炎已排除SARS病原”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211273.html)全文转载公告。<br>"
   - item_name: news
     content: "第一批专家组成员之一，中日友好医院的曹彬教授跟金银潭医院提到了克立芝，说在2003年SARS末期的时候，香港的袁国勇院士用这个药治疗了一部分SARS病人，通过和历史数据对比，可以看得这个药能够抑制SARS冠状病毒。金银潭医院是管艾滋病的，全省的艾滋病药全部在这里，所以有一定先天优势。用药大概五、六天的时候，有个主任打电话给张定宇院长，称吃了药的几个病人的片子拿起来对比了一下，好像确实肺的吸收要快一些，病人的病灶区全部在往吸收方面好转。见3月17日[中国之声 · 【口述实录】张定宇：我在风暴之眼｜武汉武汉](https://github.com/Pratitya/wuhan2020-timeline/issues/168#issue-583557307)"
   - item_name: news
@@ -384,7 +384,7 @@
   - item_name: news
     content: "同日，世界卫生组织[发推](https://twitter.com/WHO/status/1213847304186343424)称，中国已排除流感，禽流感，腺病毒，SARS或MERS。疾病具体原因还在核查中。目前已有59位疑似。（此59位应该就是1月24日发表[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, Jan. 24, 2020（中国武汉地区2019年新型冠状病毒感染者的临床特征）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)）论文中的59位。）<br>"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/05/mystery-illness-to-strike-chinese-city-is-not-sars-say-authorities-wuhan?CMP=Share_iOSApp_Other)：中国官方宣布新型神秘病毒不是SARS，同时在武汉已经有59人患有新型疾病的特征，7人病重。<br>"
+    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/05/mystery-illness-to-strike-chinese-city-is-not-sars-say-authorities-wuhan)：中国官方宣布新型神秘病毒不是SARS，同时在武汉已经有59人患有新型疾病的特征，7人病重。<br>"
 
 - date: 2020年1月6日
   items:
@@ -411,7 +411,7 @@
   - item_name: news
     content: "美国卫生与公共服务部向中国提出可以派遣一支疾控小组协助中国的公共卫生防疫努力。见[1月28日美国公共卫生机构就新冠病毒疫情举行的新闻发布会](https://github.com/Pratitya/wuhan2020-timeline/issues/30#issue-558084328)<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200106-1018675?utm_source=ZB_iPhone&utm_medium=share)：（香港中通社）再有八人从武汉返港后感不适，肺炎个案增至16宗。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200106-1018675)：（香港中通社）再有八人从武汉返港后感不适，肺炎个案增至16宗。<br>"
 
 - date: 2020年1月7日
   items:
@@ -459,9 +459,9 @@
   - item_name: news
     content: "美国疾控中心通知医院，注意从武汉回来的有呼吸道症状的病人。见美国疾控中心1月30日[新闻](https://www.cdc.gov/media/releases/2020/p0130-coronavirus-spread.html)。<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/forum/zaodian/hai-qiang-xin-diao/story20200108-1019221?utm_source=ZB_iPhone&utm_medium=share)： 杨丹旭：神秘肺炎来袭后。新加坡严阵以待，从武汉飞抵新加坡樟宜机场的旅客需要接受体温检测，但大陆媒体没有对武汉肺炎的大规模报道，除武汉外也没有公布不明原因肺炎案例。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/forum/zaodian/hai-qiang-xin-diao/story20200108-1019221)： 杨丹旭：神秘肺炎来袭后。新加坡严阵以待，从武汉飞抵新加坡樟宜机场的旅客需要接受体温检测，但大陆媒体没有对武汉肺炎的大规模报道，除武汉外也没有公布不明原因肺炎案例。<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200108-1019222?utm_source=ZB_iPhone&utm_medium=share)：港府规定未明呼吸传染病例须呈报 患者及有接触者可禁离港。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200108-1019222)：港府规定未明呼吸传染病例须呈报 患者及有接触者可禁离港。<br>"
 
 - date: 2020年1月9日
   items:
@@ -474,17 +474,17 @@
   - item_name: news
     content: "王广发在武汉开始工作，“重点关注病人的救治问题，每天很忙，工作到凌晨三四点钟也是有的”。见2月2日[冰点周刊 · 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)<br>"
   - item_name: news
-    content: "疫情爆发后出现第一例死亡病例，其妻子为第一例通报的“人传染人”病例（见12月20日及1月15日条目）。由于死者妻子反对，死者并未进行尸体化验。见国家卫健委发[1月23日新型冠状病毒感染的肺炎疫情情况](http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml)及东网电视1月15日报道[武汉患者无去市场亦染肺炎　防护中心：病毒或人传人](https://hk.on.cc/hk/bkn/cnt/news/20200115/bkn-20200115144306567-0115_00822_001_cn.html)。<br>。"
+    content: "疫情爆发后出现第一例死亡病例，其妻子为第一例通报的“人传染人”病例（见12月20日及1月15日条目）。由于死者妻子反对，死者并未进行尸体化验。见国家卫健委发[1月23日新型冠状病毒感染的肺炎疫情情况](http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml)及东网电视1月15日报道[武汉患者无去市场亦染肺炎　防护中心：病毒或人传人](https://hk.on.cc/hk/bkn/cnt/news/20200115/bkn-20200115144306567-0115_00822_001_cn.html)。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "上午，[新华网](http://www.xinhuanet.com/2020-01/09/c_1125438971.htm)发布，对病原检测结果初步评估专家组组长、中国工程院院士徐建国的采访。徐建国表示，“实验室检出一种新型冠状病毒，获得该病毒的全基因组序列，经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒，电镜下呈现典型的冠状病毒形态”，“本次不明原因的病毒性肺炎的病原体初步判定为新型冠状病毒”，“下一步需结合病原学研究、流行病学调查和临床表现进行专家研判。”当天，[央视新闻](https://weibo.com/2656274875/IoE0ZyrWd?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580360125077)有公开报道。<br>"
+    content: "上午，[新华网](http://www.xinhuanet.com/2020-01/09/c_1125438971.htm)发布，对病原检测结果初步评估专家组组长、中国工程院院士徐建国的采访。徐建国表示，“实验室检出一种新型冠状病毒，获得该病毒的全基因组序列，经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒，电镜下呈现典型的冠状病毒形态”，“本次不明原因的病毒性肺炎的病原体初步判定为新型冠状病毒”，“下一步需结合病原学研究、流行病学调查和临床表现进行专家研判。”当天，[央视新闻](https://weibo.com/2656274875/IoE0ZyrWd)有公开报道。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
     content: "世界卫生组织[发推](https://twitter.com/WHO/status/1215320529059688449)，介绍冠状病毒、SARS、MERS及个人防护措施。此条推文配图为：冠状病毒。"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/science/2020/jan/09/china-pneumonia-outbreak-may-be-caused-by-sars-type-virus-who?CMP=Share_iOSApp_Other): 据世界卫生组织（WHO）宣布：造成新型中国肺炎的病毒可能来源于SARS的同种类型。<br>"
+    content: "[英国卫报](https://www.theguardian.com/science/2020/jan/09/china-pneumonia-outbreak-may-be-caused-by-sars-type-virus-who): 据世界卫生组织（WHO）宣布：造成新型中国肺炎的病毒可能来源于SARS的同种类型。<br>"
 
 - date: 2020年1月10日
   items:
@@ -509,7 +509,7 @@
   - item_name: news
     content: "深圳市福田区疾控中心即举办了严重呼吸道传染病应急处置人员个人防护培训班。彼时，新冠肺炎的传染源、传播途径、易感人群等信息尚未确定。当晚，港大深圳医院接诊两名发热患者。这是深圳报告的首诊病例，且首诊病例即为家庭聚集性传染。深圳拉响了警报。见3月1日[财新网 · 特稿·深圳“人传人”结论是如何得出的](http://china.caixin.com/2020-03-01/101522553.html)。<br>"
   - item_name: news
-    content: "晚间，王广发接受新华社采访时表示，目前病人的病情和整体疫情处于可控状态，大部分患者病情属于轻到中度。次日[新华网微博](https://weibo.com/2810373291/IoXuKxSPG?from=page_1002062810373291_profile&wvr=6&mod=weibotime&type=comment#_rnd1581221222135)转载报道。<br>"
+    content: "晚间，王广发接受新华社采访时表示，目前病人的病情和整体疫情处于可控状态，大部分患者病情属于轻到中度。次日[新华网微博](https://weibo.com/2810373291/IoXuKxSPG)转载报道。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -517,14 +517,14 @@
   - item_name: news
     content: "世界卫生组织发布[Surveillance case definitions for human infection with novel coronavirus（关于新冠状病毒的监控案例定义）](https://apps.who.int/iris/bitstream/handle/10665/330376/WHO-2019-nCoV-Surveillance-v2020.1-eng.pdf?sequence=5&isAllowed=y)，以及[Laboratory testing of human suspected cases of novel coronavirus (nCoV) infection（疑似新型冠状病毒病例的实验准则）](https://apps.who.int/iris/bitstream/handle/10665/330374/WHO-2019-nCoV-laboratory-2020.1-eng.pdf)。第一份文件明确了主要监控目的为监测并确定被新冠状病毒感染的案例，并寻找扩大或持续人传人的证据(amplified or sustained human-to-human transmission)。报告表明疾病的临床表征，轻重光谱，病程，还需进一步确定；病毒的流行病学特征，如如何传播，风险系数，需要跟进观察。第二份文件指出武汉肺炎的病原体还没有最后确证，但是已从至少一名肺炎病人处培育出新β属冠狀病毒，并通过电子显微镜和基因序列进行了特征描述。通过聚合酶链式反应在另15位病人身上检测出了同样的病毒。完整的基因组序列和关于推定病原的其他信息以及针对该病毒的探测方法，将会很快给出。<br>"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/09/chinas-sars-like-illness-worries-health-experts?CMP=Share_iOSApp_Other): 据中国官方宣布，新型肺炎在人与人之间并没有表现出像SARS一样的高传染性，也没有表现中东热（Mers）一样的35%的致死率，目前无人死亡。<br>"
+    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/09/chinas-sars-like-illness-worries-health-experts): 据中国官方宣布，新型肺炎在人与人之间并没有表现出像SARS一样的高传染性，也没有表现中东热（Mers）一样的35%的致死率，目前无人死亡。<br>"
 
 - date: 2020年1月11日
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "凌晨，武汉市卫健委发布[第四份公告](http://www.nhc.gov.cn/yjb/s3578/202001/1beb46f061704372b7ca41ef3e682229.shtml)，表示“对现有患者标本进行了检测，截至2020年1月10日24时，已完成病原核酸检测”（国家疾控中心向武汉提供PCR试剂），“初步诊断有新型冠状病毒感染的肺炎病例41例，其中已出院2例、重症7例、死亡1例，其余患者病情稳定”，表示“自2020年1月3日以来未发现新发病例。目前，未发现医务人员感染，未发现明确的人传人证据”。[央视新闻](https://weibo.com/2656274875/IoWrwpsE1?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580459236661)全文转载公告。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211274.html)全文转载公告。"
+    content: "凌晨，武汉市卫健委发布[第四份公告](http://www.nhc.gov.cn/yjb/s3578/202001/1beb46f061704372b7ca41ef3e682229.shtml)，表示“对现有患者标本进行了检测，截至2020年1月10日24时，已完成病原核酸检测”（国家疾控中心向武汉提供PCR试剂），“初步诊断有新型冠状病毒感染的肺炎病例41例，其中已出院2例、重症7例、死亡1例，其余患者病情稳定”，表示“自2020年1月3日以来未发现新发病例。目前，未发现医务人员感染，未发现明确的人传人证据”。[央视新闻](https://weibo.com/2656274875/IoWrwpsE1)全文转载公告。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211274.html)全文转载公告。"
   - item_name: news
     content: "同时，武汉市卫健委发布[专家解读不明原因的病毒性肺炎最新通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036)，表示“截止目前所有密切接触者包括医务人员都未发现相关病例”。<br>"
   - item_name: news
@@ -540,7 +540,7 @@
   - item_name: news
     content: "世界卫生组织[发推](https://twitter.com/WHO/status/1215981049869668353)，为医护人员提供跟踪患者、实验室化验、疾病控制、信息公开等方面提出指导办法。<br>"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/11/china-mystery-illness-outbreak-causes-first-death?CMP=Share_iOSApp_Other): 据武汉官方宣布，一名61岁的感染者去世，并且有41人确诊，2人治愈，据称有739人与确诊的患者有过接触。<br>"
+    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/11/china-mystery-illness-outbreak-causes-first-death): 据武汉官方宣布，一名61岁的感染者去世，并且有41人确诊，2人治愈，据称有739人与确诊的患者有过接触。<br>"
 
 - date: 2020年1月12日
   items:
@@ -556,6 +556,8 @@
     content: "武汉市疾控部门开始给各大医院下发文件和表格，要求医院上报门诊发热情况。起初要求每天下午四点前上报，后来逐渐改成晚上8—10点之间上报。见2月11日[八点健闻 · 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。<br>"
   - item_name: news
     content: "20时，武汉市卫健委发布[第五份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011209037)，表示截止11号24时，“无新增新型冠状病毒感染的肺炎病例，治愈出院4例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211276.html)全文转载公告。<br>"
+  - item_name: news
+    content: "深夜十一时许，台湾疾管署派出的传染病防治医疗网指挥官庄银清、疾管署防疫医师洪敏南二位到达武汉。两名台湾专家15日返台。见1月16日[台湾中央社 · 武汉肺炎感染源未厘清 疾管署提升旅游警示](https://www.cna.com.tw/news/firstnews/202001160189.aspx)<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -565,7 +567,7 @@
   - item_name: news
     content: "世界卫生组织发布[疾病爆发新闻](https://www.who.int/csr/don/12-january-2020-novel-coronavirus-china/en/)，称收到中国报告的最新信息：没有明确证据表明此病毒容易在人之间传播、武汉市以外没有发现病例。武汉在跟踪的763位亲密接触者之中，没有发现新的感染者。<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200112-1020428?utm_source=ZB_iPhone&utm_medium=share)：广州报道武汉61岁男子成为新型冠状病毒肺炎首起死亡案例，该男子死于2020年1月9日（星期四），这名男子长年在湖北省武汉市的华南海鲜市场采购货物。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200112-1020428)：广州报道武汉61岁男子成为新型冠状病毒肺炎首起死亡案例，该男子死于2020年1月9日（星期四），这名男子长年在湖北省武汉市的华南海鲜市场采购货物。<br>"
 
 - date: 2020年1月13日
   items:
@@ -588,6 +590,8 @@
 
 - date: 2020年1月14日
   items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
   - item_name: news
     content: "凌晨，武汉市卫健委发布[第七份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011409039)，表示截止13号24时，“无新增新型冠状病毒感染的肺炎病例，无治愈出院病例，无新增死亡病例报告”。同时指出“泰国通报诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。目前在泰国隔离治疗，其回国的密切接触者正开展追踪医学观察。”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211278.html)全文转载公告。<br>"
   - item_name: news
@@ -601,7 +605,7 @@
   - item_name: news
     content: "IJID《国际传染病杂志》发表[关于2019-nCoV疫情对国际健康的持续影响](https://www.ijidonline.com/article/S1201-9712(20)30011-4/fulltext)的社论称中国卫健委向国际卫生组织通报新型冠状病毒后，香港，澳门，台湾的卫生部门提高了边境审查力度，并恐新型病毒会威胁国际公共卫生。截至1月10日，已有41名患者感染新型冠状病毒，症状为发热(>90%)，腹泻，干咳(80%)，气短(20%),和呼吸困难(15%)。虽然自1月3日气武汉没有新增病例，但是泰国的第一名病例发现于1月13日。该病例从未与华南海鲜市场有过直接接触。<br>"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/14/case-of-mystery-coronavirus-found-outside-china-for-the-first-time-thailand?CMP=Share_iOSApp_Other):据泰国官方宣布，在中国境外发现的第一例武汉新型肺炎确诊病例被发现，这名女性在当地时间1月5日发病，并于1月8日被送往医院，该女性曾经有过直接接触与武汉的一所农贸市场，但该市场并没有被武汉官方确定为疾病的传染源。<br>"
+    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/14/case-of-mystery-coronavirus-found-outside-china-for-the-first-time-thailand):据泰国官方宣布，在中国境外发现的第一例武汉新型肺炎确诊病例被发现，这名女性在当地时间1月5日发病，并于1月8日被送往医院，该女性曾经有过直接接触与武汉的一所农贸市场，但该市场并没有被武汉官方确定为疾病的传染源。<br>"
 
 - date: 2020年1月15日
   items:
@@ -620,7 +624,7 @@
   - item_name: news
     content: "同日，国家卫健委主任马晓伟主任专程赴当地指导湖北省武汉市进一步落实各项防控措施。见1月22日[国新办举行新型冠状病毒感染的肺炎防控工作新闻发布会](http://www.scio.gov.cn/xwfbh/xwbfbh/wqfbh/42311/42470/index.htm)李斌发言。<br>"
   - item_name: news
-    content: "武汉“百步亭”社区某居委会的工作人员江强（化名）跟居委会领导反映，最好取消万家宴，但没成功。见2月12日[澎湃新闻 · 武汉百步亭社工：曾和居委会领导反映取消万家宴，但没成功]。<br>"
+    content: "武汉“百步亭”社区某居委会的工作人员江强（化名）跟居委会领导反映，最好取消万家宴，但没成功。见2月12日[澎湃新闻 · 武汉百步亭社工：曾和居委会领导反映取消万家宴，但没成功](https://new.qq.com/omn/20200212/20200212A0EDHG00.html)。<br>"
   - item_name: news
     content: "武汉天河机场通知各航司对将发热病人进行临时隔离。<br>"
   - item_name: group
@@ -632,7 +636,7 @@
   - item_name: news
     content: "同日，国家卫健委委印发了第一版新型冠状病毒感染的肺炎诊疗、防控方案，规范病例监测、报告、诊疗、管理、密切接触者管理、实验室检测。见1月15日[国家卫生健康委办公厅关于印发新型冠状病毒感染的肺炎诊疗和防控等方案的通知](https://github.com/Pratitya/wuhan2020-timeline/issues/126)。<br>"
   - item_name: news
-    content: "香港大学“新发传染性疾病国家重点实验室”主任管轶接受大公报专访表示，基于武汉卫健委所公布的数据，冠状病毒最长潜伏期是十五天，自3日后内地无新增传染病例，可以判断此次疫情已经得到控制。即使人传人，也非常有限。<br>"
+    content: "香港大学“新发传染性疾病国家重点实验室”主任管轶接受[《大公报》专访](http://www.takungpao.com.hk/news/232108/2020/0115/404731.html)表示，基于武汉卫健委所公布的数据，冠状病毒最长潜伏期是十五天，自3日后内地无新增传染病例，可以判断此次疫情已经得到控制。即使人传人，也非常有限。<br>"
   - item_name: news
     content: "同日，随香港专家来访的香港记者在医院范围拍摄期间被截查，之后被带入医院内的派出所，香港电台、商业电台、无线电视、NOW新闻台记者及摄影师其后亦被带到同一个派出所。<br>"
   - item_name: news
@@ -640,7 +644,7 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200115-1021202?utm_source=ZB_iPhone&utm_medium=share):（日内瓦/武汉/香港/台北综合讯）世界卫生组织于1月14日表示：虽然引发中国武汉肺炎疫情的新型冠状病毒“有限度人传人”，但不排除疫情有可能扩大蔓延。并且，世卫已向全球医院发出防疫指导方针。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200115-1021202):（日内瓦/武汉/香港/台北综合讯）世界卫生组织于1月14日表示：虽然引发中国武汉肺炎疫情的新型冠状病毒“有限度人传人”，但不排除疫情有可能扩大蔓延。并且，世卫已向全球医院发出防疫指导方针。<br>"
 
 - date: 2020年1月16日
   items:
@@ -655,15 +659,17 @@
   - item_name: news
     content: "16时，武汉市疾控中心派出2名工作人员进行采样，对武汉市中心医院院内48例疑似病例进行采样。见2月8日武汉中心医院公共卫生科某医生[《疫情处置情况说明》](https://github.com/Pratitya/wuhan2020-timeline/issues/149#issue-577432227)。<br>"
   - item_name: news
-    content: "第二批专家组成员王广发返回北京，当时判断“疫情可能比较严重了”。事后回忆，“主要根据的是（武汉）发热门诊的情况。当时一到北京，专家组就马上开会。我那时还没发烧，也不知道有医务人员感染、人传人的情况”。见2月2日[冰点周刊 · 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)。2月4日[王广发微博](https://weibo.com/2700877354/IsyDi8THo?ref=collection&type=comment)回复网友也重申，“我从来没有说过没有人传人，但我当时拿到的资料确实无法证实人传人。”<br>"
+    content: "第二批专家组成员王广发返回北京，当时判断“疫情可能比较严重了”。事后回忆，“主要根据的是（武汉）发热门诊的情况。当时一到北京，专家组就马上开会。我那时还没发烧，也不知道有医务人员感染、人传人的情况”。见2月2日[冰点周刊 · 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)。2月4日[王广发微博](https://weibo.com/2700877354/IsyDi8THo)回复网友也重申，“我从来没有说过没有人传人，但我当时拿到的资料确实无法证实人传人。”<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
     content: "当地时间15日，中美双方在美国华盛顿签署[《中华人民共和国政府和美利坚合众国政府经济贸易协议》](http://www.mof.gov.cn/zhengwuxinxi/caizhengxinwen/202001/t20200116_3460124.htm)。<br>"
+  - item_name: news
+    content: "下午，[台湾疾管署举行记者会](https://www.cna.com.tw/news/firstnews/202001160189.aspx)，12日赴武汉的台湾医师介绍，参访行程由大陆方面安排，和港澳专家一起，13日到武汉市疾控中心听取相关疫情调查、讨论流行病学，14日到医院了解病人的临床表现、重症负压隔离病房的感控措施。他们发现41例病例中，有2起家庭群聚，一起是夫妻（太太沒有去过市场，且发病时间在先生的5天后，有限度人传人很难推翻），另一起是父亲、儿子和侄子（都在市场上班，且发病日相隔在2天之內，可能是因接触某些不明原因的感染源而感染）。"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/16/japan-confirms-first-case-of-new-china-coronavirus-strain?CMP=Share_iOSApp_Other): 据日本官方宣布，在日本发现第一例确诊武汉新型肺炎病例，该名男子30岁，曾到过武汉。昨日，1月15日美国宣布对中国武汉地区的旅游警告。<br>"
+    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/16/japan-confirms-first-case-of-new-china-coronavirus-strain): 据日本官方宣布，在日本发现第一例确诊武汉新型肺炎病例，该名男子30岁，曾到过武汉。昨日，1月15日美国宣布对中国武汉地区的旅游警告。<br>"
 
 - date: 2020年1月17日
   items:
@@ -672,7 +678,7 @@
   - item_name: news
     content: "武汉文化旅游局发布[《购买2020春节文化旅游惠民活动氛围布置服务的公告》](http://wlj.wuhan.gov.cn/html/gsgg/20200117/13258.html)。<br>"
   - item_name: news
-    content: "上午，[湖北省十三届人大三次会议](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200118_1997134.shtml)圆满完成各项议程，在武昌洪山礼堂胜利闭幕。[长江日报](https://weibo.com/1898268644/IpWqlENhX?ref=collection&type=comment)记者采访来自孝感的省人大代表杨晶表示：这次大会的亮点很多，给我感受最深的就是效率高，对我们代表建议的收集、采纳、反应速度也很快。<br>"
+    content: "上午，[湖北省十三届人大三次会议](http://www.hubei.gov.cn/zwgk/hbyw/hbywqb/202001/t20200118_1997134.shtml)圆满完成各项议程，在武昌洪山礼堂胜利闭幕。[长江日报](https://weibo.com/1898268644/IpWqlENhX)记者采访来自孝感的省人大代表杨晶表示：这次大会的亮点很多，给我感受最深的就是效率高，对我们代表建议的收集、采纳、反应速度也很快。<br>"
   - item_name: news
     content: "武汉优抚医院冯云（化名）主任邀请另一个医院的主任来汇总、分析院内出现的大量肺炎病例，得出判断，是病毒性肺炎，不是细菌性肺炎。下午取消院内春节联欢会，开始建隔离病房。此时，该院已有大量的疑似病例因为不符合国家卫健委专家组制定华南市场接触史、发热的上报标准而没有上报。见2月11日[八点健闻 · 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。<br>"
   - item_name: news
@@ -707,18 +713,18 @@
   - item_name: news
     content: "同日，[泰国、日本各通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011809065)诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。泰国诊断病例正在住院治疗中，密切接触者观察；日本诊断病例已康复出院。<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200118-1022055?utm_source=ZB_iPhone&utm_medium=share)载香港报道，由于武汉新型肺炎疫情有扩大蔓延的迹象，港府扩大监测范围，防武汉新型肺炎蔓延。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200118-1022055)载香港报道，由于武汉新型肺炎疫情有扩大蔓延的迹象，港府扩大监测范围，防武汉新型肺炎蔓延。<br>"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/17/corona-second-death-in-china-after-sars-like-outbreak?CMP=Share_iOSApp_Other): 武汉新型肺炎的第二例死亡病例被中国官方确认。"
+    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/17/corona-second-death-in-china-after-sars-like-outbreak): 武汉新型肺炎的第二例死亡病例被中国官方确认。"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/18/coronavirus-what-airport-measures-are-in-place-to-detect-for-sick-passengers?CMP=Share_iOSApp_Other)：美国的三座机场（洛杉矶国际机场、旧金山国际机场以及纽约的肯尼迪国际机场）设立体温监测设施针对从武汉来的旅客，同时旅客会监测是否具有武汉新型肺炎的体征。<br>"
+    content: "[英国卫报](https://www.theguardian.com/world/2020/jan/18/coronavirus-what-airport-measures-are-in-place-to-detect-for-sick-passengers)：美国的三座机场（洛杉矶国际机场、旧金山国际机场以及纽约的肯尼迪国际机场）设立体温监测设施针对从武汉来的旅客，同时旅客会监测是否具有武汉新型肺炎的体征。<br>"
 
 - date: 2020年1月19日 年廿五
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "凌晨，武汉市卫健委发布[第十一份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011909074)及[新增病例有关情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011909075)，表示截止17号24时“治愈出院4例，新增病例17例，无死亡病例”，根据流行病学分析发现“部分病例没有华南海鲜批发市场接触史”。“采用优化后的检测试剂盒，提出“将继续扩大搜索范围，确定疑似病例，并开展采样检测”。[央视新闻微博](https://weibo.com/2656274875/Iq7jtiXv2?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580459280582)全文转载。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211271.html)在前一天全文转载公告。<br>"
+    content: "凌晨，武汉市卫健委发布[第十一份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011909074)及[新增病例有关情况通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011909075)，表示截止17号24时“治愈出院4例，新增病例17例，无死亡病例”，根据流行病学分析发现“部分病例没有华南海鲜批发市场接触史”。“采用优化后的检测试剂盒，提出“将继续扩大搜索范围，确定疑似病例，并开展采样检测”。[央视新闻微博](https://weibo.com/2656274875/Iq7jtiXv2)全文转载。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211271.html)在前一天全文转载公告。<br>"
   - item_name: news
     content: "凌晨，武汉市卫健委举行新闻发布会，针对武汉市新型冠状病毒感染的肺炎综合防控答记者问。武汉市疾病预防控制中心主任李刚表示“对本次的疫情初步印象是新型冠状病毒的传染力不强，不排除有限人传人的可能，但持续人传人的风险较低。随着各项防控措施的实施与落实，疫情是可防可控的”。武汉市人民政府副市长陈邂馨、武汉市金银潭医院副院长黄朝林亦出席发布会。另，值得注意的是1月17日黄朝林即已感到身体异样，1月22日通过核酸检测确诊为新冠肺炎患者，但当时的新闻发布会上三人皆未戴口罩。见1月19日[央视新闻 · 武汉市就新型冠状病毒感染的肺炎综合防控答记者问](http://m.news.cctv.com/2020/01/19/ARTIUP2dOqJkOoNNkzJpXOQy200119.shtml)以及2月9日[长江日报 · 黄朝林：42天用6种身份与病毒较量](http://cjrb.cjn.cn/html/2020-02/09/content_164342.htm)。<br>"
   - item_name: news
@@ -745,13 +751,13 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "8时30分，高级别专家组来到了中南海，孙春兰副总理详细听取了高级别专家组每个人对疫情研判的汇报，她十分重视专家组的意见。见3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744?hotComm=true)。<br>"
+    content: "8时30分，高级别专家组来到了中南海，孙春兰副总理详细听取了高级别专家组每个人对疫情研判的汇报，她十分重视专家组的意见。见3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744)。<br>"
   - item_name: news
-    content: "10时，[央视新闻微博](https://weibo.com/2656274875/IqkydFW0z?from=page_1002062656274875_profile&wvr=6&mod=weibotime)报道浙江发现5例武汉来浙发热呼吸道症状患者。<br>"
+    content: "10时，[央视新闻微博](https://weibo.com/2656274875/IqkydFW0z)报道浙江发现5例武汉来浙发热呼吸道症状患者。<br>"
   - item_name: news
-    content: "上午，国务院总理李克强主持召开国务院常务会议，专门加了一项部署新型冠状病毒感染的肺炎疫情防控工作，钟南山与李兰娟亦列席。根据李兰娟的建议，会议决定将新型冠状病毒感染的肺炎纳入《中华人民共和国传染病防治法》规定的乙类传染病，并采取甲类传染病的预防、控制措施。她同时还建议武汉要采取“不进不出”的措施。见1月20日[国家卫健委公告](http://www.nhc.gov.cn/jkj/s7916/202001/44a3b8245e8049d2837a4f27529cd386.shtml)，1月23日[钱江晚报·小时新闻 · 李兰娟：昨天建议武汉封城，今天国家行动了](https://www.thehour.cn/news/339129.html)，2月20日[新华网 · 中国感染病学女院士李兰娟：和大家一起奋战](http://www.zj.xinhuanet.com/2020-02/20/c_1125601526.htm)及3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744?hotComm=true)。<br>"
+    content: "上午，国务院总理李克强主持召开国务院常务会议，专门加了一项部署新型冠状病毒感染的肺炎疫情防控工作，钟南山与李兰娟亦列席。根据李兰娟的建议，会议决定将新型冠状病毒感染的肺炎纳入《中华人民共和国传染病防治法》规定的乙类传染病，并采取甲类传染病的预防、控制措施。她同时还建议武汉要采取“不进不出”的措施。见1月20日[国家卫健委公告](http://www.nhc.gov.cn/jkj/s7916/202001/44a3b8245e8049d2837a4f27529cd386.shtml)，1月23日[钱江晚报·小时新闻 · 李兰娟：昨天建议武汉封城，今天国家行动了](https://www.thehour.cn/news/339129.html)，2月20日[新华网 · 中国感染病学女院士李兰娟：和大家一起奋战](http://www.zj.xinhuanet.com/2020-02/20/c_1125601526.htm)及3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744)。<br>"
   - item_name: news
-    content: "下午，国务院和国家卫生健康委召开全国电视电话会，孙春兰副总理布置全国联防联控的要求。晚上又召集会议，专题研究部署防控工作。见1月22日[国新办举行新型冠状病毒感染的肺炎防控工作新闻发布会](http://www.scio.gov.cn/xwfbh/xwbfbh/wqfbh/42311/42470/index.htm)李斌发言及3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744?hotComm=true)。<br>"
+    content: "下午，国务院和国家卫生健康委召开全国电视电话会，孙春兰副总理布置全国联防联控的要求。晚上又召集会议，专题研究部署防控工作。见1月22日[国新办举行新型冠状病毒感染的肺炎防控工作新闻发布会](http://www.scio.gov.cn/xwfbh/xwbfbh/wqfbh/42311/42470/index.htm)李斌发言及3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744)。<br>"
   - item_name: news
     content: "同时，针对“新型冠状病毒感染的肺炎疫情”有关防控情况，国家卫健委高级别专家组组长钟南山院士、国家卫健委高级别专家组成员高福、李兰娟、袁国勇、曾光等就公众关心的问题回答了记者提问。 其间钟南山证实了有人传人的传染以及有医务人员的感染，但这一消息并未立刻公开。见1月20日[央视新闻 · 国家卫健委高级别专家组就新型冠状病毒肺炎答记者问](http://m.news.cctv.com/2020/01/20/ARTIF4Fl7LEu8TRqIsnde93B200120.shtml)。<br>"
   - item_name: news
@@ -786,7 +792,7 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/australia-news/2020/jan/21/australian-man-tested-for-coronavirus-after-returning-from-china-with-respiratory-illness?CMP=Share_iOSApp_Other): 澳大利亚发现第一例武汉新型肺炎疑似病例，该名男子从武汉返回澳大利亚。<br>"
+    content: "[英国卫报](https://www.theguardian.com/australia-news/2020/jan/21/australian-man-tested-for-coronavirus-after-returning-from-china-with-respiratory-illness): 澳大利亚发现第一例武汉新型肺炎疑似病例，该名男子从武汉返回澳大利亚。<br>"
 
 - date: 2020年1月22日 年廿八
   items:
@@ -813,9 +819,9 @@
   - item_name: news
     content: "10时，国务院新闻办公室就新型冠状病毒感染的肺炎防控工作有关情况举行[发布会](http://www.gov.cn/xinwen/2020-01/22/content_5471560.htm)，请国家卫生健康委员会副主任李斌，国家卫生健康委员会应急办主任许树强，国家卫生健康委员会医政医管局负责人焦雅辉，中国科学院院士、中国疾病预防控制中心主任高福介绍新型冠状病毒感染的肺炎防控工作有关情况，并答记者问。<br>"
   - item_name: news
-    content: "深夜，浙江省卫健委主任张平致电李兰娟称，近期有大量的人从武汉返回浙江，不仅引起了第二代感染，还引发了聚集性疫情，接下来可能会有更多的人回来，会造成更大的疫情扩散。李兰娟再次紧急向国家建议武汉必须严格地“封城”。见1月23日[钱江晚报·小时新闻 · 李兰娟：昨天建议武汉封城，今天国家行动了](https://www.thehour.cn/news/339129.html)及3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744?hotComm=true)。<br>"
+    content: "深夜，浙江省卫健委主任张平致电李兰娟称，近期有大量的人从武汉返回浙江，不仅引起了第二代感染，还引发了聚集性疫情，接下来可能会有更多的人回来，会造成更大的疫情扩散。李兰娟再次紧急向国家建议武汉必须严格地“封城”。见1月23日[钱江晚报·小时新闻 · 李兰娟：昨天建议武汉封城，今天国家行动了](https://www.thehour.cn/news/339129.html)及3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744)。<br>"
   - item_name: news
-    content: "23时，专家组成员之一北京大学第一医院呼吸内科主任[王广发在微博](https://weibo.com/2700877354/IqIAA8dmL?from=page_1005052700877354_profile&wvr=6&mod=weibotime&type=comment)表示“病情好转了”，“疫情真的可防可控”。解释自己或许在武汉金银潭医院，或许在回京前2天去了几家医院的发热门诊和临时隔离病房感染。<br>"
+    content: "23时，专家组成员之一北京大学第一医院呼吸内科主任[王广发在微博](https://weibo.com/2700877354/IqIAA8dmL)表示“病情好转了”，“疫情真的可防可控”。解释自己或许在武汉金银潭医院，或许在回京前2天去了几家医院的发热门诊和临时隔离病房感染。<br>"
   - item_name: news
     content: "[稳健医疗](http://www.winnermedical.cn/cn/newsdetail/106/666.html)决定，稳健医疗总部、全棉时代、津梁生活总监以上的干部和子公司总经理、副总经理春节期间随时待命，手机必须保持畅通，确保随时沟通，必要时随时参加会议。<br>"
 
@@ -834,9 +840,9 @@
   - item_name: news
     content: "晚间，定点收治发热病人的武汉红十字医院刚开诊，大约2000多人把医院挤得水泄不通。外面搭着帐篷，江汉区的发热病人很多都被引导到那里去了。哪怕是普通的发热，居民都要去医院搞搞清楚是不是新冠病毒。平时，这家医院的接诊能力也就是几百人，这就大大超出医院的运转能力。医院满走廊都是垃圾没人收，有的人排着队就倒下了。见3月7日[八点健闻 · 武汉疫情第一道防线——社区卫生服务中心是怎样失守的？](https://github.com/Pratitya/wuhan2020-timeline/issues/150#issue-577432320)江汉区某社区卫生服务中心院长方涵回忆。<br>"
   - item_name: news
-    content: "21时，[《楚天都市报》](https://weibo.com/2656274875/IqVg4toO2?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580444929062)报道湖北武汉将以“小汤山”模式开建急救医院，建筑面积达到2.5万平方米，可容纳1000张病床，医院将在6天内建成。<br>"
+    content: "21时，[《楚天都市报》](https://weibo.com/2656274875/IqVg4toO2)报道湖北武汉将以“小汤山”模式开建急救医院，建筑面积达到2.5万平方米，可容纳1000张病床，医院将在6天内建成。<br>"
   - item_name: news
-    content: "湖北省长王晓东在封城首日接受[央视](https://weibo.com/2656274875/IqRSLEnXs?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)采访称“尽管市场出现波动，但武汉储备和市场供应是充足的”。<br>"
+    content: "湖北省长王晓东在封城首日接受[央视](https://weibo.com/2656274875/IqRSLEnXs)采访称“尽管市场出现波动，但武汉储备和市场供应是充足的”。<br>"
   - item_name: news
     content: "[三联生活周刊 · 武汉肺炎重症患者：一床难求](https://github.com/Pratitya/wuhan2020-timeline/issues/22#issue-557909390)<br>"
   - item_name: group
@@ -856,7 +862,7 @@
   - item_name: news
     content: "武汉病毒所石正丽团队在bioRxiv预印版平台上发表文章《一种新型冠状病毒的发现及其可能的蝙蝠起源》（“Discovery of a novel coronavirus associated with the recent pneumonia outbreak in humans and its potential bat origin”），提出新型肺炎病毒或来源于蝙蝠。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>"
   - item_name: news
-    content: "[英国卫报](https://www.theguardian.com/science/2020/jan/22/coronavirus-who-steps-back-from-declaring-public-health-emergency?CMP=Share_iOSApp_Other):世界卫生组织（WHO）宣布推后对中国武汉发生的新型肺炎确定为国际关注的突发公共卫生事件（a public health  emergency of intenational concern）的决定。<br>"
+    content: "[英国卫报](https://www.theguardian.com/science/2020/jan/22/coronavirus-who-steps-back-from-declaring-public-health-emergency):世界卫生组织（WHO）宣布推后对中国武汉发生的新型肺炎确定为国际关注的突发公共卫生事件（a public health  emergency of intenational concern）的决定。<br>"
 
 - date: 2020年1月24日 除夕
   items:
@@ -871,7 +877,7 @@
   - item_name: news
     content: "陈秋实律师以独立公民记者身份前往武汉当地的医院，超市，殡仪馆，饭馆，火神山工地和方舱医院等地进行报道，并拍成视频上传至他的[YouTube频道](https://www.youtube.com/watch?v=CuT0aalqP04&t=1s)里。他采访的对象包括医生，护士，志愿者，普通居民，病人及遇难者的家属等等。<br>"
   - item_name: news
-    content: "下午，微博魔女小希称武汉市红十字会医院内尸体无人处理，并附有视频。（内容已清空）次日被[共青团中央微博](https://weibo.com/3937348351/Ir64dChZA?from=page_1001063937348351_profile&wvr=6&mod=weibotime&type=comment#_rnd1581248513793)辟谣称“相关视频为配音再制作，情况不属实”。然而据1月30日[剥洋葱people · 武汉某定点医院被隔离的医生：曾一晚接诊200名患者](https://archive.ph/DiLpu)采访武汉某定点医生王阳（化名），尸体长时间滞留医院情况的确存在。又2月9日[财新网 · 援鄂专家口述:如何让爆满重压中的定点医院上轨道](http://china.caixin.com/2020-02-08/101513121.html)采访援鄂的四川省人民医院重症医学科主任黄晓波回忆到，红会医院很多遗体处理不过来，有时候遗体会在病床上摆几个小时甚至十几个小时才被运走。<br>"
+    content: "下午，微博魔女小希称武汉市红十字会医院内尸体无人处理，并附有视频。（内容已清空）次日被[共青团中央微博](https://weibo.com/3937348351/Ir64dChZA)辟谣称“相关视频为配音再制作，情况不属实”。然而据1月30日[剥洋葱people · 武汉某定点医院被隔离的医生：曾一晚接诊200名患者](https://archive.ph/DiLpu)采访武汉某定点医生王阳（化名），尸体长时间滞留医院情况的确存在。又2月9日[财新网 · 援鄂专家口述:如何让爆满重压中的定点医院上轨道](http://china.caixin.com/2020-02-08/101513121.html)采访援鄂的四川省人民医院重症医学科主任黄晓波回忆到，红会医院很多遗体处理不过来，有时候遗体会在病床上摆几个小时甚至十几个小时才被运走。<br>"
   - item_name: news
     content: "[三联生活周刊 · 湖北黄冈：一家四口疑似病例难确诊](https://github.com/Pratitya/wuhan2020-timeline/issues/23#issue-557910141)<br>"
   - item_name: news
@@ -887,9 +893,9 @@
   - item_name: news
     content: "国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第四份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/c5da49c4c5bf4bcfb320ec2036480627.shtml)，境外通报确诊新增越南，新加坡。<br>"
   - item_name: news
-    content: "17时，B站up主林晨同学发布[《武汉UP实拍，封城后的24小时，“空城”武汉的物价、交通 、生活状态》](https://www.bilibili.com/video/av84850049)，26日被[人民日报官方微博](https://weibo.com/2803301701/IrbuC3Q2d?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment)转发。<br>"
+    content: "17时，B站up主林晨同学发布[《武汉UP实拍，封城后的24小时，“空城”武汉的物价、交通 、生活状态》](https://www.bilibili.com/video/av84850049)，26日被[人民日报官方微博](https://weibo.com/2803301701/IrbuC3Q2d)转发。<br>"
   - item_name: news
-    content: "20时，2020年中央广播电视总台第38届春节联欢晚会播出，其中加入历史上首次没有彩排节目[《爱是桥梁》](https://weibo.com/tv/v/Ir0mamcty?fid=1034:4464361318842420)，白岩松创作脚本，与其他一线主持人参与表演，为武汉加油。<br>"
+    content: "20时，2020年中央广播电视总台第38届春节联欢晚会播出，其中加入历史上首次没有彩排节目[《爱是桥梁》](https://weibo.com/tv/v/Ir0mamcty)，白岩松创作脚本，与其他一线主持人参与表演，为武汉加油。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -899,7 +905,7 @@
   - item_name: news
     content: "同日，《柳叶刀》发表题为[2019新冠肺炎家族性研究(A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster)](https://github.com/Pratitya/wuhan2020-timeline/issues/28)的文章，确认病毒感染一家, 病毒基因序列均不同 (意味着病毒在不同人体内出现不同程度变异)，同时病毒在与病毒库中的冠状病毒进行对比, 是从未见过的 (暂不了解病毒结构)。<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/znews/international/story20200124-1023619?utm_source=ZB_iPhone&utm_medium=share)：英国专家警告，至少有4,000人，武汉最坏情况为近万人染病。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/znews/international/story20200124-1023619)：英国专家警告，至少有4,000人，武汉最坏情况为近万人染病。<br>"
   - item_name: news
     content: "中国新型冠状病毒课题组的朱娜等人在NEJM《新英格兰医学期刊》发表[A Novel Coronavirus from Patients with Pneumonia in China, 2019（《2019年从中国肺炎患者分离出的新型冠状病毒》）](https://www.nejmqianyan.cn/article/YXQYoa2001017)一文，通报了在从三名与华南海鲜市场有过接触的病例的气道上皮细胞中分离出来了新型冠状病毒，并命名为2019-nCov。 新型病毒属于β冠状病毒属，常见于人类，蝙蝠，和其他野生动物体内。关于该病毒更新的信息，已从830位患者身上取得。"
 
@@ -910,7 +916,7 @@
   - item_name: news
     content: "湖北省卫健委举行[新型冠状病毒感染的肺炎疫情防控工作新闻发布会（第四场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016541.shtml)，称“累计报告新型冠状病毒感染的肺炎病例729例，已治愈出院32例，死亡39例。目前仍在院治疗658例，其中重症100例、危重症57例，均在定点医疗机构接受隔离治疗”。<br>"
   - item_name: news
-    content: "下午，[《人民日报》](https://weibo.com/2656274875/Ir8qN9zci?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580444928660)报道武汉市防疫指挥部举行调度会，决定在武汉蔡甸火神山医院之外，半个月之内再建一所“小汤山医院”——武汉“雷神山医院”，新增床位1300张。<br>"
+    content: "下午，[《人民日报》](https://weibo.com/2656274875/Ir8qN9zci)报道武汉市防疫指挥部举行调度会，决定在武汉蔡甸火神山医院之外，半个月之内再建一所“小汤山医院”——武汉“雷神山医院”，新增床位1300张。<br>"
   - item_name: news
     content: "黄冈市卫健委转载[《黄冈日报》发表的《深夜碰头会》](http://wjw.hg.gov.cn/art/2020/1/25/art_6082_892885.html)，文章记录了唐志红主任在疫情前鞠躬尽瘁的奉献精神。"
   - item_name: group
@@ -920,9 +926,9 @@
   - item_name: news
     content: "中共中央政治局常务委员会召开会议，成立应对疫情工作领导小组，在中央政治局常务委员会领导下开展工作。<br>"
   - item_name: news
-    content: "[央视新闻](https://weibo.com/2656274875/IralNjcyN?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)采访传染病学专家李兰娟表示，武汉实施进出人员管控是因为疫情已到刻不容缓的程度，只有严格控制传染源，才能不让传染病发生大流行。<br>"
+    content: "[央视新闻](https://weibo.com/2656274875/IralNjcyN)采访传染病学专家李兰娟表示，武汉实施进出人员管控是因为疫情已到刻不容缓的程度，只有严格控制传染源，才能不让传染病发生大流行。<br>"
   - item_name: news
-    content: "同日，腾讯新闻[较真查证实时辟谣平台](https://vp.fact.qq.com/home?from=timeline&isappinstalled=0&dt_platform=douban_broadcast&dt_dapp=1)上线。<br>"
+    content: "同日，腾讯新闻[较真查证实时辟谣平台](https://vp.fact.qq.com/home)上线。<br>"
   - item_name: news
     content: " [香港特区政府](https://www.info.gov.hk/gia/general/202001/26/P2020012600013.htm)公布在《对公共卫生有重要性的新型传染病预备及应变计划》下提升应变级别至紧急，即时生效。"
 
@@ -947,7 +953,7 @@
   - item_name: news
     content: "中国国务院疫情发布会，武汉向工信部发出的需求清单中，每天需要10万套医用防护服，一个月就需要300万套。现在用的是库存和储备，供需矛盾很大。全国有40个左右厂家分布在14个省市区，现在产能恢复了40%左右，每天能供给1.3万件，远远不够。出口产能每天5万件，但是跟国标对接有问题，现在还在对接CE、美国标准中。现在还有海外采购的22万件（已采购，到货未明确）。其后，武汉和湖北省各医院开始向社会各界征集医疗物资。据医疗网站丁香园统计，截至1月29日，湖北省有近136家医院发布了医疗物资申援信息。<br>"
   - item_name: news
-    content: "14时，广东发布严格[防疫通告](https://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655627252&idx=1&sn=530ab731f325f7916eb832e68f0b92aa&chksm=8bf2a6efbc852ff961183b205005332fa8e00d701138da0f762f586effaaa2edff2b5f8581eb&dt_platform=douban_broadcast&dt_dapp=1#rd)，公共场所不戴口罩将被处罚。<br>"
+    content: "14时，广东发布严格[防疫通告](https://mp.weixin.qq.com/s?__biz=MzA5NDM2OTkwOA==&mid=2655627252&idx=1&sn=530ab731f325f7916eb832e68f0b92aa)，公共场所不戴口罩将被处罚。<br>"
   - item_name: news
     content: "[香港特区政府宣布](https://www.info.gov.hk/gia/general/202001/26/P2020012600713.htm)自1月27日起，除香港居民外，限制湖北省居民以及任何过去14日到过湖北省的人士进入香港。"
 
@@ -956,9 +962,9 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "下午，武汉市长周先旺接受[央视](http://m.china.caixin.com/m/2020-01-27/101508817.html?cxw=IOS&Sfrom=WechatMoments&from=timeline)专访，称“传染病有传染病防治法，要依法披露，作为地方政府，我获得信息之后，授权之后才能披露，这一点在当时不被理解。”并表示愿意革职以谢天下。<br>"
+    content: "下午，武汉市长周先旺接受[央视](http://m.china.caixin.com/m/2020-01-27/101508817.html)专访，称“传染病有传染病防治法，要依法披露，作为地方政府，我获得信息之后，授权之后才能披露，这一点在当时不被理解。”并表示愿意革职以谢天下。<br>"
   - item_name: news
-    content: "晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会](https://weibo.com/1638782947/IrBUT4c6g?type=comment)。湖北省委副书记、武汉市委书记马国强指出，所有捐赠的物资一定要通过红十字会。<br>"
+    content: "晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会](https://weibo.com/1638782947/IrBUT4c6g)。湖北省委副书记、武汉市委书记马国强指出，所有捐赠的物资一定要通过红十字会。<br>"
   - item_name: news
     content: "[武汉ICU主任胡明](https://github.com/Pratitya/wuhan2020-timeline/issues/43#issue-558509418)表示，因为要忙于救治重症病人，他经常要忙到凌晨两三点才能吃上一口饭，一天仅能休息两三个小时。同行用文件袋遮脑袋，垃圾袋套鞋子。患者1小时住满一病区，因恐慌到医院排队没必要。<br>"
   - item_name: group
@@ -974,7 +980,7 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[世卫组织在26日、27日的新型冠状病毒报告中，将新型冠状病毒疫情全球范围风险改为高风险。](https://weibo.com/2656274875/IryC5cLh5?type=comment#_rnd1580291594764)<br>"
+    content: "[世卫组织在26日、27日的新型冠状病毒报告中，将新型冠状病毒疫情全球范围风险改为高风险。](https://weibo.com/2656274875/IryC5cLh5)<br>"
 
 - date: 2020年1月28日 初四
   items:
@@ -993,11 +999,11 @@
   - item_name: news
     content: "12时，环球时报微博转发环球网社评《官员皆凡人，要给记者会进步留下空间》，随后删除博文。<br>"
   - item_name: news
-    content: " 17时 [林郑月娥：内地暂停发出来港个人游签注；高铁香港段、城际直通车、内地航班暂停。](https://weibo.com/1618051664/IrAAW5QTK?type=comment#_rnd1580291171708) <br>"
+    content: " 17时 [林郑月娥：内地暂停发出来港个人游签注；高铁香港段、城际直通车、内地航班暂停。](https://weibo.com/1618051664/IrAAW5QTK) <br>"
   - item_name: news
     content: " 晚间，[央视新闻联播](https://mp.weixin.qq.com/s/-z1Yz0VmKdhPE0QkpFea6g)报道，习近平会见世界卫生组织总干事谭德塞，表示自己一直亲自指挥、亲自部署，相信只要我们坚定信心、同舟共济、科学防治、精准施策，我们一定会战胜这一次疫情。31日起，豆瓣平台“亲自”成为敏感词。<br>"
   - item_name: news
-    content: " 22时 [林俊杰发布新歌《I’ll Stay With You》，为武汉加油。](https://weibo.com/1195354434/IrCDH0SUn?type=comment)<br>"
+    content: " 22时 [林俊杰发布新歌《I’ll Stay With You》，为武汉加油。](https://weibo.com/1195354434/IrCDH0SUn)<br>"
   - item_name: news
     content: " 广电总局宣传司每天统筹全国卫视节目编排，指导加强疫情防控报道，减少娱乐性节目，并及时发布36家卫视全天节目指引。除湖北外，湖南、浙江、安徽、重庆等多家省级卫视均开设了抗击疫情新闻直播节目和特别报道，及时发布权威信息。"
   - item_name: group
@@ -1012,9 +1018,9 @@
   - item_name: news
     content: "14时，[平安武汉](https://weibo.com/2418542712/IrISGCgs6)发再次发布关于8人造谣的情况通报。<br>"
   - item_name: news
-    content: "20时，央直播武汉火神山医院发生斗殴事件。当晚[武汉市城乡建设局](https://baijiahao.baidu.com/s?id=1657214500285625277&wfr=spider&for=pc)澄清是一家施工单位晚上8点20分左右准备开挖现场施工道路铺设排污水管，该施工道路是现场施工材料和设备进出的主路，挖断了现场箱式房吊装施工就会中断，严重影响火神山项目施工建设，另一家施工单位管理人员遂上前阻止，由于双方人员对道路开挖时间存在误会，导致争执推搡，被周围人员迅速劝阻分开，无人受伤。<br>"
+    content: "20时，央直播武汉火神山医院发生斗殴事件。当晚[武汉市城乡建设局](https://baijiahao.baidu.com/s?id=1657214500285625277)澄清是一家施工单位晚上8点20分左右准备开挖现场施工道路铺设排污水管，该施工道路是现场施工材料和设备进出的主路，挖断了现场箱式房吊装施工就会中断，严重影响火神山项目施工建设，另一家施工单位管理人员遂上前阻止，由于双方人员对道路开挖时间存在误会，导致争执推搡，被周围人员迅速劝阻分开，无人受伤。<br>"
   - item_name: news
-    content: "晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会（第八场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016544.shtml)，报告“截至1月28日24时，我省累计报告新型冠状病毒感染的肺炎确诊病例3554例，其中重症671例，危重症228例。死亡125例，治愈出院80例”。湖北省省长王晓东表示[医疗物资保障很紧缺，不仅武汉及周边城市存在短缺，全省其他地方普遍严重不足](https://weibo.com/1644114654/IrLPF9QQY?ref=collection)，并[向医护人员鞠躬](https://weibo.com/2656274875/IrLLnxlV6?ref=collection&type=comment)。<br>"
+    content: "晚间，湖北省召开[新型冠状病毒感染的肺炎疫情防疫工作例行新闻发布会（第八场）](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016544.shtml)，报告“截至1月28日24时，我省累计报告新型冠状病毒感染的肺炎确诊病例3554例，其中重症671例，危重症228例。死亡125例，治愈出院80例”。湖北省省长王晓东表示[医疗物资保障很紧缺，不仅武汉及周边城市存在短缺，全省其他地方普遍严重不足](https://weibo.com/1644114654/IrLPF9QQY)，并[向医护人员鞠躬](https://weibo.com/2656274875/IrLLnxlV6)。<br>"
   - item_name: news
     content: "[河南菜农捐50吨菜支援武汉](https://weibo.com/6004281123/IrJB4xBw3)"
   - item_name: news
@@ -1028,15 +1034,15 @@
   - item_name: news
     content: "本日全国31个省份已经全部启动重大突发公共卫生事件Ⅰ级响应。<br>"
   - item_name: news
-    content: "16时，[韩红微博](https://weibo.com/1922542315/IrJQn3rLs?from=page_1004061922542315_profile&wvr=6&mod=weibotime&type=comment)提供北京韩红爱心慈善基金会捐款地址，表示“信得过，您就捐”。<br>"
+    content: "16时，[韩红微博](https://weibo.com/1922542315/IrJQn3rLs)提供北京韩红爱心慈善基金会捐款地址，表示“信得过，您就捐”。<br>"
   - item_name: news
-    content: "[央视《今日关注》栏目](https://weibo.com/3266943013/IrTfb2NqJ?refer_flag=1001030103_&type=comment)报道中国疾控中心流行病学首席科学家曾光表示：疫情初期8名武汉市民是可敬的，他们是忧国忧民，有一定见解的。作为公共卫生专家，希望同他们对话，希望从他们身上学点东西。据传8人是疫情早期的一线医生，见[图片信息](https://github.com/Pratitya/wuhan2020-timeline/issues/13#issue-557477266)。<br>"
+    content: "[央视《今日关注》栏目](https://weibo.com/3266943013/IrTfb2NqJ)报道中国疾控中心流行病学首席科学家曾光表示：疫情初期8名武汉市民是可敬的，他们是忧国忧民，有一定见解的。作为公共卫生专家，希望同他们对话，希望从他们身上学点东西。据传8人是疫情早期的一线医生，见[图片信息](https://github.com/Pratitya/wuhan2020-timeline/issues/13#issue-557477266)。<br>"
   - item_name: news
-    content: "[央视新闻](https://weibo.com/2656274875/IrPHuzIcR?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment)报道新型冠状病毒感染肺炎上海医疗救治专家组组长张文宏在接受采访时表示，他将新年到现在值班的感染科一线医生进行换岗，换成共产党员医生到一线工作。<br>"
+    content: "[央视新闻](https://weibo.com/2656274875/IrPHuzIcR)报道新型冠状病毒感染肺炎上海医疗救治专家组组长张文宏在接受采访时表示，他将新年到现在值班的感染科一线医生进行换岗，换成共产党员医生到一线工作。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "《新英格兰医学杂志》发表论文[《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2001316?articleTools=true&utm_source=wechat_session&utm_medium=social&utm_oi=780862704100319232&from=singlemessage)，通讯作者是中国疾控中心副主任冯子健与湖北省疾控中心主任杨波，中国疾控中心主任高福是共同作者。论文根据截至2020年1月23日上报的425例确诊病例（包括15名医务人员）分析，得出结论：12月底时已有明确人传人特征。文中表示1月1日至11日武汉已有医务人员感染。次日，[NEJM医学前沿微信公众号](https://mp.weixin.qq.com/s/4MrNMiGWdvEDlyKyHviDiQ)转载摘要，在国内网络传布。据《新英格兰医学杂志》总编辑埃里克·鲁实透露，此篇论文从提交到发表仅用48小时。<br>"
+    content: "《新英格兰医学杂志》发表论文[《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》](https://www.nejm.org/doi/pdf/10.1056/NEJMoa2001316)，通讯作者是中国疾控中心副主任冯子健与湖北省疾控中心主任杨波，中国疾控中心主任高福是共同作者。论文根据截至2020年1月23日上报的425例确诊病例（包括15名医务人员）分析，得出结论：12月底时已有明确人传人特征。文中表示1月1日至11日武汉已有医务人员感染。次日，[NEJM医学前沿微信公众号](https://mp.weixin.qq.com/s/4MrNMiGWdvEDlyKyHviDiQ)转载摘要，在国内网络传布。据《新英格兰医学杂志》总编辑埃里克·鲁实透露，此篇论文从提交到发表仅用48小时。<br>"
 
 - date: 2020年1月30日 初六
   items:
@@ -1051,7 +1057,7 @@
   - item_name: news
     content: "[武汉协和医院](https://github.com/Pratitya/wuhan2020-timeline/issues/42#issue-558508293)宣布物资“没有了”。网友质疑湖北红十字会[《物资使用情况》](https://github.com/Pratitya/wuhan2020-timeline/issues/14)，东湖生态旅游风景区城乡工作办事处（33人）获得1万个口罩，武汉仁爱医院（植发、无痛人流、不孕不育）获得1.6万个口罩，协和医院获得3000个。<br>"
   - item_name: news
-    content: "21时，[黄冈市政府](https://weibo.com/2803301701/IrVii613L?from=page_1002062803301701_profile&wvr=6&mod=weibotime&type=comment#_rnd1580442133983)公报黄冈卫健委唐志红主任被火速免职。<br>"
+    content: "21时，[黄冈市政府](https://weibo.com/2803301701/IrVii613L)公报黄冈卫健委唐志红主任被火速免职。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -1059,7 +1065,7 @@
   - item_name: news
     content: "中国疾控中心流行病学首席专家曾光接受胡锡进采访，其中一段对话可看作是回应。曾光表示，武汉此次面对疫情行动有些慢主要是科学认识的问题，但也不排除一些决策上的犹豫，对自己是不是自信。公共卫生人员的决策考虑的就是科学性的问题，是一个科学的视角，但政府官员考虑问题并不单纯是科学的视角，这只是他们决策依据的一部分。“他要考虑政治视角，考虑维稳的问题，他要考虑经济的问题，他要考虑春节老百姓的天伦之乐，满意不满意的问题。我们说的话往往只是他们决策中采纳的一部分。”<br>"
   - item_name: news
-    content: "下午，[澎湃新闻](https://weibo.com/5044281310/IrT2gv3MJ?refer_flag=1001030103_&type=comment#_rnd1580460349008)记者从地坛医院现场了解到，王广发感染的肺炎已治愈，于13时50分左右出院。<br>"
+    content: "下午，[澎湃新闻](https://weibo.com/5044281310/IrT2gv3MJ)记者从地坛医院现场了解到，王广发感染的肺炎已治愈，于13时50分左右出院。<br>"
   - item_name: news
     content: "18时，[浙江大学王立铭](https://github.com/Pratitya/wuhan2020-timeline/issues/18)质疑中国疾控中心专家组在1月初已得知“人传人”结论，却刻意向大众隐瞒，提前发表文章，舆论哗然。署名作者之一的高福院士登上微博热搜。<br>"
 
@@ -1068,7 +1074,7 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "12时，被控造谣者武汉市中心医院眼科医生[李文亮](https://weibointl.api.weibo.cn/share/118323293.html?weibo_id=4466768535861595)首次在微博发声。"
+    content: "12时，被控造谣者武汉市中心医院眼科医生[李文亮](https://weibo.com/1139098205/Is0XboARR)首次在微博发声。"
   - item_name: news
     content: "15时，[湖北省红十字会公告](http://www.hbsredcross.org.cn/xxgk/8667.jhtml)更正“N95口罩36000个”为“KN95口罩36000个”接收使用情况并致歉。1月29日和1月30日，湖北省红十字会分别在“博爱荆楚”微信公众号和门户网站上公布了第一批次防控新型冠状肺炎捐赠物资使用情况。有网友对《物资使用情况公布表（一）》中第14 条记录“N95口罩36000个”的接收和使用提出疑问。<br>"
   - item_name: news
@@ -1076,7 +1082,7 @@
   - item_name: news
     content: "19时，武汉协和医院西院发布以黄色垃圾袋做防护服手工制口罩辟谣声明（已删除）。网传红十字会要求辟谣，否则不发放物资。【信息太多，根据公众号整理。可以参考[微博资料](https://github.com/Pratitya/wuhan2020-timeline/issues/41#issue-558507665)汇集梳理。】<br>"
   - item_name: news
-    content: "21时，[央视新闻《新闻1+1》栏目](https://www.bilibili.com/video/av86005897?t=770)白岩松连线采访武汉市委书记马国强。马国强称，“我现在是一种内疚、愧疚、自责的心态，如果早采取严厉的管控措施，结果会比现在好，对全国各地的影响要小，也会让党中央、国务院少操心”。同时表示以后慈善机构每3天公布一次接受物资捐赠情况。<br>"
+    content: "21时，[央视新闻《新闻1+1》栏目](https://www.bilibili.com/video/av86005897)白岩松连线采访武汉市委书记马国强。马国强称，“我现在是一种内疚、愧疚、自责的心态，如果早采取严厉的管控措施，结果会比现在好，对全国各地的影响要小，也会让党中央、国务院少操心”。同时表示以后慈善机构每3天公布一次接受物资捐赠情况。<br>"
   - item_name: news
     content: "[红十字会物资分配风波](https://github.com/Pratitya/wuhan2020-timeline/issues/33)：武汉仁爱医院院长回应，医院27-31日共用一万两千只口罩，暂无发热门诊。<br>"
   - item_name: news
@@ -1086,23 +1092,23 @@
   - item_name: news
     content: "凌晨，国家卫健委发布[第十一份公告](http://www.nhc.gov.cn/xcs/yqfkdt/202001/a53e6df293cc4ff0b5a16ddf7b6b2b31.shtml)，截至1月30日24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例1982例，累计报告确诊病例9692例（四川省累计确诊病例核减1例），累计死亡病例213例。<br>"
   - item_name: news
-    content: "上午，[中国疾病预防控制中心](https://weibo.com/1618051664/IrZME2tAE?ref=collection&type=comment#_rnd1580438466992)回应，在新英格兰杂志发表了题为《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》的论文是根据截至2020年1月23日上报的425例确诊病例（包括15名医务人员）所做的回顾性分析，所有病例在论文撰写前已向社会公布。论文提出的“2019年12月份即在密切接触者中发生了人际传播”的观点，是基于425例病例流行病学调查资料做出的回顾性推论。<br>"
+    content: "上午，[中国疾病预防控制中心](https://weibo.com/1618051664/IrZME2tAE)回应，在新英格兰杂志发表了题为《新型冠状病毒感染的肺炎在中国武汉的初期传播动力学》的论文是根据截至2020年1月23日上报的425例确诊病例（包括15名医务人员）所做的回顾性分析，所有病例在论文撰写前已向社会公布。论文提出的“2019年12月份即在密切接触者中发生了人际传播”的观点，是基于425例病例流行病学调查资料做出的回顾性推论。<br>"
   - item_name: news
     content: "9时，新华网微信推送文章[《快忙防控，别抢论文了！》](https://mp.weixin.qq.com/s/U1MRt76s0GLVDwj9Q3dlSg)，表示“在全国人民众志成城抗击疫情的紧要关头，少数科研人员千万别让私心杂念分散了精力，影响了当前抗击疫情工作的开展”。没有明示论文事件当事人。<br>"
   - item_name: news
     content: "14时，[财新网](https://github.com/Pratitya/wuhan2020-timeline/issues/24#issue-557963108)就《新英格兰医学杂志》论文事件采访中国疾控中心原副主任杨功焕，杨表示“究竟是专家知道了实情不报告，还是报告了但未及时采取措施，两者区别很大，关键的事实需要澄清。‘如果只责怪专家，事情就变味了’”。<br>"
   - item_name: news
-    content: "[第一财经](https://weibo.com/1618051664/Is1VoEVyb?from=page_1002061618051664_profile&wvr=6&mod=weibotime&type=comment)记者采访了国家卫健委高级别专家组成员、中国疾控中心主任高福。高福就论文事件回应，“这是一篇回顾性分析！12月中旬还不知道是什么病，病原不清，都是调查四百多例流行病学的推论！Onset的日子都是推测，这个大家没有看明白！把流行病学调查和临床诊断混在一起。”他也表示，回顾性调查的工作正是CDC的职责之一，找到元凶，回顾性调查，指导未来防控。“我们的防控一直没有停，一个月来大家都没有觉睡。” <br>"
+    content: "[第一财经](https://weibo.com/1618051664/Is1VoEVyb)记者采访了国家卫健委高级别专家组成员、中国疾控中心主任高福。高福就论文事件回应，“这是一篇回顾性分析！12月中旬还不知道是什么病，病原不清，都是调查四百多例流行病学的推论！Onset的日子都是推测，这个大家没有看明白！把流行病学调查和临床诊断混在一起。”他也表示，回顾性调查的工作正是CDC的职责之一，找到元凶，回顾性调查，指导未来防控。“我们的防控一直没有停，一个月来大家都没有觉睡。” <br>"
   - item_name: news
-    content: "14时，[胡锡进](https://weibo.com/1989660417/Is1JOyy5R?type=comment)就论文事件发表评论，“不同意一些人从道德角度抨击高福等人发表论文的动机，指责他们在明知道疫情已经很严重的情况下却故意向国内隐瞒而把病例在外刊上和盘托出，沽名钓誉”。<br>"
+    content: "14时，[胡锡进](https://weibo.com/1989660417/Is1JOyy5R)就论文事件发表评论，“不同意一些人从道德角度抨击高福等人发表论文的动机，指责他们在明知道疫情已经很严重的情况下却故意向国内隐瞒而把病例在外刊上和盘托出，沽名钓誉”。<br>"
   - item_name: news
     content: "17时，《新英格兰医学杂志》论文事件通讯作者之一、中国疾控中心副主任冯子健接受[新京报记者专访](https://github.com/Pratitya/wuhan2020-timeline/issues/31#issue-558086593)时表示，上述推论是1月23日获得病例数据后做出的，没有隐瞒。病毒人传人早有推论，保守下结论有原因。并表示“不是特别清楚”CDC有无接到医务人员疑似感染的消息。据他介绍，数据上报层级很多，包括国家级、省级、市级、区级。“数据上报有个过程，这个过程我没有详细了解”。由此也说明，此时传染病直报系统并没有启动。<br>"
   - item_name: news
     content: "《知识分子》微信公众号发布[“瞒报”还是“保守”？一篇论文引发武汉疫情争议](https://mp.weixin.qq.com/s/HWYGQ_SfvblAORygJwMs1w)。<br>"
   - item_name: news
-    content: "18时，界面新闻微博发布文章[饭圈女孩驰援武汉：我们“每一天都在解决困难”](https://weibo.com/5182171545/Is3ds1b9a?ref=collection)。<br>"
+    content: "18时，界面新闻微博发布文章[饭圈女孩驰援武汉：我们“每一天都在解决困难”](https://weibo.com/5182171545/Is3ds1b9a)。<br>"
   - item_name: news
-    content: "22时，[人民日报微博](https://weibo.com/2803301701/Is58Rg5zr?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布，上海药物所、武汉病毒所联合发现：双黄连可抑制新型冠状病毒，此研究牵头人为蒋华良院士。当晚引发全民抢购“双黄连”风波。<br>"
+    content: "22时，[人民日报微博](https://weibo.com/2803301701/Is58Rg5zr)发布，上海药物所、武汉病毒所联合发现：双黄连可抑制新型冠状病毒，此研究牵头人为蒋华良院士。当晚引发全民抢购“双黄连”风波。<br>"
   - item_name: news
     content: "同日13时，Political理论志转载旧文《传播的畸变对“SARS”传言的社会心理学分析》节选[周晓虹 · 传播的畸变：对“非典型性肺炎”传言的社会心理学分析](https://mp.weixin.qq.com/s/sXrlF9lMbeDmNAfcTl86NQ)。<br>"
   - item_name: group
@@ -1110,24 +1116,24 @@
   - item_name: news
     content: "当地时间晚间，[世界卫生组织（WHO）](https://www.who.int/news-room/detail/30-01-2020-statement-on-the-second-meeting-of-the-international-health-regulations-(2005)-emergency-committee-regarding-the-outbreak-of-novel-coronavirus-(2019-ncov))在瑞士日内瓦召开新闻发布会，世界卫生组织总干事谭德塞宣布新型冠状病毒疫情构成国际关注的突发公共卫生事件。<br>"
   - item_name: news
-    content: "当地下午，柏林中心区，两名女性辱骂并袭击了一名23岁的中国女生，称呼她为中国病毒、向她吐口水、撕扯她的头发将她撕倒在地上，随后殴打并踢了她腿部、躯干和头部。警方将这一罪行归定性“种族歧视袭击”。2月2日经由[雅伦Yalun](https://weibo.com/1762734052/IsfkI80jK?from=page_1005051762734052_profile&wvr=6&mod=weibotime&type=comment#_rnd1580870258462)微博转知国内。<br>"
+    content: "当地下午，柏林中心区，两名女性辱骂并袭击了一名23岁的中国女生，称呼她为中国病毒、向她吐口水、撕扯她的头发将她撕倒在地上，随后殴打并踢了她腿部、躯干和头部。警方将这一罪行归定性“种族歧视袭击”。2月2日经由[雅伦Yalun](https://weibo.com/1762734052/IsfkI80jK)微博转知国内。<br>"
 
 - date: 2020年2月1日 初八
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "11时，李兰娟受国家卫生健康委派遣，立即组建“援鄂重症新冠肺炎诊治李兰娟院士医疗队”驰援武汉，用了短短2、3个小时，集合了感染病学科、人工肝、重症医学科等方面的精兵强将的10人团队，带上三大“技术”：“李氏人工肝”、干细胞、微生态，以及相关的医疗设备和耗材、制剂共30多箱物资。次日入驻武汉大学人民医院东院区。见3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744?hotComm=true)。<br>"
+    content: "11时，李兰娟受国家卫生健康委派遣，立即组建“援鄂重症新冠肺炎诊治李兰娟院士医疗队”驰援武汉，用了短短2、3个小时，集合了感染病学科、人工肝、重症医学科等方面的精兵强将的10人团队，带上三大“技术”：“李氏人工肝”、干细胞、微生态，以及相关的医疗设备和耗材、制剂共30多箱物资。次日入驻武汉大学人民医院东院区。见3月27日[中国卫生杂志 · 【中卫专访】解封在即，李兰娟首次披露武汉封城细节](https://www.thepaper.cn/newsDetail_forward_6715744)。<br>"
   - item_name: news
-    content: "14时，[央视新闻](https://weibo.com/2656274875/IsbpTqTiN?refer_flag=1001030103_&type=comment#_rnd1580560578579)转载黄冈发布，湖北黄冈市民每户家庭每两天可指派1人上街采购生活物资，其他人员除生病就医、疫情防控工作需要、在商超和药店上班外，不得外出。<br>"
+    content: "14时，[央视新闻](https://weibo.com/2656274875/IsbpTqTiN)转载黄冈发布，湖北黄冈市民每户家庭每两天可指派1人上街采购生活物资，其他人员除生病就医、疫情防控工作需要、在商超和药店上班外，不得外出。<br>"
   - item_name: news
     content: "14时30分左右，武汉红十字会借用武汉市国际博览中心临时仓库外，一男子从中心提出一箱3M口罩，放入[鄂A0260W汽车](https://github.com/Pratitya/wuhan2020-timeline/issues/47#issue-558664754)，称给领导配送。晚间被全网删帖。<br>"
   - item_name: news
-    content: "下午，[央视](https://weibo.com/2615417307/Isd2AAQVs?ref=collection)探访武汉红十字会。记者试图探访仓库物资分发处受到保安阻拦，保安大叔称“不能放你们进来，不要为难我，否则我的饭碗就丢了”。交涉过程中直播被切断。采访过程得知协和医院一个科室只有4个N95口罩。<br>"
+    content: "下午，[央视](https://weibo.com/2615417307/Isd2AAQVs)探访武汉红十字会。记者试图探访仓库物资分发处受到保安阻拦，保安大叔称“不能放你们进来，不要为难我，否则我的饭碗就丢了”。交涉过程中直播被切断。采访过程得知协和医院一个科室只有4个N95口罩。<br>"
   - item_name: news
     content: "16时，[湖北省红十字会网站](http://www.hbsredcross.org.cn/xxgk/18031.jhtml)发布关于捐赠物资分配有关情况的说明，称我们对物资分配中存在的问题深感痛心、自责和内疚，并将对直接责任人依纪依规追责。<br>"
   - item_name: news
-    content: "晚间，湖北省召开[新闻发布会](https://weibo.com/2656274875/IsdXSo1hU?ref=collection&type=comment)，黄冈市市长说前期认知准备都不足，一些干部重视不够作风不实，导致防控工作存在短板和弱项，已处理处分党员干部337人。同时医疗救治能力仍然不足，农村的疫情防控也很薄弱。<br>"
+    content: "晚间，湖北省召开[新闻发布会](https://weibo.com/2656274875/IsdXSo1hU)，黄冈市市长说前期认知准备都不足，一些干部重视不够作风不实，导致防控工作存在短板和弱项，已处理处分党员干部337人。同时医疗救治能力仍然不足，农村的疫情防控也很薄弱。<br>"
   - item_name: news
     content: "[豆瓣日记 · 普通武汉家庭真实的肺炎遭遇](https://github.com/Pratitya/wuhan2020-timeline/issues/49#issue-558666793)<br>"
   - item_name: news
@@ -1139,7 +1145,7 @@
   - item_name: news
     content: "[澎湃新闻 · 双黄连，一夜抢空](https://github.com/Pratitya/wuhan2020-timeline/issues/38#issue-558503896)<br>"
   - item_name: news
-    content: "[人民日报微博](https://weibo.com/2803301701/Is8xy5pp0?from=page_1002062803301701_profile&wvr=6&mod=weibotime)发布抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。<br>"
+    content: "[人民日报微博](https://weibo.com/2803301701/Is8xy5pp0)发布抑制并不等于预防和治疗！特别提醒请勿抢购自行服用双黄连口服液。<br>"
   - item_name: news
     content: "[中科院上海药物所：中草药洗液“洁尔阴”预防非典是良方](https://github.com/Pratitya/wuhan2020-timeline/issues/34) (原文连接显示：该内容已经被撤销。）<br>"
   - item_name: news
@@ -1170,15 +1176,15 @@
   - item_name: news
     content: "武汉市人民政府发布[《关于防疫专班工作人员领取防护口罩的情况通报》](http://www.wuhan.gov.cn/hbgovinfo/zwgk_8265/tzgg/202002/t20200202_304352.html)，鄂A事件中称“给领导配送”者，只是“该工作人员参加市应急物资储备与管理工作会议时，找市应急物资储存仓库管理人员领取了口罩等相关防护用品”。<br>"
   - item_name: news
-    content: "[财经 · 统计数字之外的人：他们死于“普通肺炎”？](https://bbs.pku.edu.cn/v2/post-read.php?bid=244&threadid=17525182&page=a&postid=21791334&dt_dapp=1)<br>"
+    content: "[财经 · 统计数字之外的人：他们死于“普通肺炎”？](https://github.com/Pratitya/wuhan2020-timeline/issues/46)<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "9时，B站up主回形针PaperClip发布[《关于新冠肺炎的一切》科普视频](https://www.bilibili.com/video/av86216616?from=search&seid=2510510290363151909)，从感染、传播、致死率、如何降低被感染的可能性等方面做普及，并以“人类的赞歌是勇气的赞歌”作结。同时登上微博热搜。<br>"
+    content: "9时，B站up主回形针PaperClip发布[《关于新冠肺炎的一切》科普视频](https://www.bilibili.com/video/av86216616)，从感染、传播、致死率、如何降低被感染的可能性等方面做普及，并以“人类的赞歌是勇气的赞歌”作结。同时登上微博热搜。<br>"
   - item_name: news
-    content: "14时，GEM邓紫棋发布新歌[《平凡天使》](https://weibo.com/1705586121/Islraim0Q?ref=collection)。<br>"
+    content: "14时，GEM邓紫棋发布新歌[《平凡天使》](https://weibo.com/1705586121/Islraim0Q)。<br>"
   - item_name: news
-    content: "[天津新型肺炎防控工作新闻发布会](https://www.bilibili.com/video/av86483602?from=search&seid=12512306030472408317)上，疾控中心传染病预防控制室主任张颖对此进行详细分析，解开层层迷雾，在发布会现场10多分钟的讲述中，几乎全程脱稿。次日以福尔摩斯式破解病毒传染迷局登上热搜，被[央视新闻微博](https://weibo.com/2656274875/Iswy4bxlt?ref=collection&type=comment)转载。<br>"
+    content: "[天津新型肺炎防控工作新闻发布会](https://www.bilibili.com/video/av86483602)上，疾控中心传染病预防控制室主任张颖对此进行详细分析，解开层层迷雾，在发布会现场10多分钟的讲述中，几乎全程脱稿。次日以福尔摩斯式破解病毒传染迷局登上热搜，被[央视新闻微博](https://weibo.com/2656274875/Iswy4bxlt?ref=collection&type=comment)转载。<br>"
   - item_name: news
     content: "晚间，网传中国大陆开始管制民间媒体，[不允许民间自媒体采访](https://github.com/Pratitya/wuhan2020-timeline/issues/52#issue-558687451)武汉一线防疫。<br>"
   - item_name: news
@@ -1193,9 +1199,9 @@
   - item_name: news
     content: "上午，[武汉大学中南医院张笑春](https://github.com/Pratitya/wuhan2020-timeline/issues/57#issue-558946441)建议不要迷信核酸检测，推荐以CT影像做目前2019nCOV肺炎判定的主要依据。<br>"
   - item_name: news
-    content: "19时，[长江日报记者](https://weibo.com/1898268644/Iswmfo4uz?from=page_1002061898268644_profile&wvr=6&mod=weibotime&type=comment)从武汉市城市管理执法委员会获悉，为最大限度减少病毒滋生蔓延，按照市防疫指挥部要求，全市城管、卫健、市场等多部门联合开展城市消毒工作。<br>"
+    content: "19时，[长江日报记者](https://weibo.com/1898268644/Iswmfo4uz)从武汉市城市管理执法委员会获悉，为最大限度减少病毒滋生蔓延，按照市防疫指挥部要求，全市城管、卫健、市场等多部门联合开展城市消毒工作。<br>"
   - item_name: news
-    content: "晚间，武汉市新型冠状病毒感染的肺炎疫情防控指挥部视频调度会透露，武汉市将在江汉区、武昌区、东西湖区建设“方舱医院”，用于收治新型冠状病毒感染的肺炎轻症患者。[《长江日报》](https://weibo.com/1898268644/IsxFSy8kf?ref=collection&type=comment)报道。<br>"
+    content: "晚间，武汉市新型冠状病毒感染的肺炎疫情防控指挥部视频调度会透露，武汉市将在江汉区、武昌区、东西湖区建设“方舱医院”，用于收治新型冠状病毒感染的肺炎轻症患者。[《长江日报》](https://weibo.com/1898268644/IsxFSy8kf)报道。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -1205,9 +1211,9 @@
   - item_name: news
     content: "17时，[央视新闻微博](https://github.com/Pratitya/wuhan2020-timeline/issues/59#issue-559484510)报道：外交部辟谣美方称对疫情提供巨大帮助，称美方迄今为止没有提供任何实质性帮助。并提及1月3日起共30次向美方通报疫情信息和防控措施。引发舆论反弹，随后央视删除博文。<br>"
   - item_name: news
-    content: "晚间，[教育部](https://weibo.com/2810373291/Isx6TlPi5?ref=collection&type=comment#_rnd1580790342236)发布原定近期举行的自划线高校硕士研究生复试录取工作和有关招生单位博士研究生考试招生工作等推迟举行。<br>"
+    content: "晚间，[教育部](https://weibo.com/2810373291/Isx6TlPi5)发布原定近期举行的自划线高校硕士研究生复试录取工作和有关招生单位博士研究生考试招生工作等推迟举行。<br>"
   - item_name: news
-    content: "《财新周刊》发布[《封面报道 · 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html?cxw=IOS&Sfrom=WechatMoments&originReferrer=iOSshare&from=timeline)。<br>"
+    content: "《财新周刊》发布[《封面报道 · 37位记者四万字全景调查：新冠病毒何以致此？》](http://weekly.caixin.com/2020-01-23/101507778.html)。<br>"
   - item_name: news
     content: "[立场新闻](https://www.thestandnews.com/society/%E9%86%AB%E7%AE%A1%E5%B1%80-%E4%BB%8A%E6%97%A5%E9%80%BE-2700-%E4%BA%BA%E7%BD%B7%E5%B7%A5-%E6%9C%89-icu-%E9%80%BE%E5%8D%8A%E8%AD%B7%E5%A3%AB%E7%BC%BA%E5%8B%A4-%E5%A4%9A%E9%A0%85%E6%89%8B%E8%A1%93%E5%BB%B6%E6%9C%9F)：香港醫管局員工陣線宣布，今日第一阶段的罢工有超过2700人参与，有新生儿ICU、隔离病房等人手不足，多项手术都要延期。此次罢工的主要诉求是向政府施压要求所有旅客由大陆入境，防止病毒蔓延。"
   - item_name: news
@@ -1232,7 +1238,7 @@
   - item_name: news
     content: "[澎湃新闻：武汉一志愿者感染后去世，曾义务接医护上下班](https://mp.weixin.qq.com/s/yigRCNdk8_aWy7w3UJGE9g)报道武汉志愿者车队，今年54岁的何辉，于昨日下午4时许在同济医院中法新城院区死亡。<br>"
   - item_name: news
-    content: "[二次六七八微博](https://weibo.com/2158017273/IsFhm8uKM?ref=collection&type=comment)发布：我在疫区建医院《我的火神山建造日记》8集视频。<br>"
+    content: "[二次六七八微博](https://weibo.com/2158017273/IsFhm8uKM)发布：我在疫区建医院《我的火神山建造日记》8集视频。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -1242,9 +1248,9 @@
   - item_name: news
     content: "[“晋江毒王”事件](https://archive.li/Wc9Ns)在网上发酵。福建晋江市英林镇嘉排村张方一家人明知自己来自武汉，却对村民谎称来自菲律宾，未按规定进行居家隔离，还几次参加宴请，频繁外出活动。2月1日，张方被确诊为新冠肺炎，当地已对相关91人实行居家医学观察，对3557名一般接触者实行医学随访并全程管控。<br>"
   - item_name: news
-    content: "[香港无线新闻](https://weibo.com/2615417307/IsD6eAXWN?ref=collection&type=comment)消息，澳门特区行政长官贺一诚表示，为防止疫情扩散，澳门决定暂停博彩业及相关娱乐行业半个月。<br>"
+    content: "[香港无线新闻](https://weibo.com/2615417307/IsD6eAXWN)消息，澳门特区行政长官贺一诚表示，为防止疫情扩散，澳门决定暂停博彩业及相关娱乐行业半个月。<br>"
   - item_name: news
-    content: "晚间，南京市新型冠状病毒感染的肺炎疫情联防联控工作指挥部发布[通告](https://mp.weixin.qq.com/s/_OAx06R2M9OVTKNIPCVdnw)，全面实施小区封闭式管理。同日[哈尔滨](https://weibo.com/2803301701/IsFJ20EXU?ref=collection&type=comment#_rnd1580871835889)对已发生确诊病例、疑似病例的小区、村屯要实行挂牌管理，禁止人员和车辆出入。<br>"
+    content: "晚间，南京市新型冠状病毒感染的肺炎疫情联防联控工作指挥部发布[通告](https://mp.weixin.qq.com/s/_OAx06R2M9OVTKNIPCVdnw)，全面实施小区封闭式管理。同日[哈尔滨](https://weibo.com/2803301701/IsFJ20EXU)对已发生确诊病例、疑似病例的小区、村屯要实行挂牌管理，禁止人员和车辆出入。<br>"
   - item_name: news
     content: "南京大学[孙江：即使明天重新开始，也不能原谅](https://mp.weixin.qq.com/s/dXl87F2V3skO7J9PYVICsw)<br>"
   - item_name: news
@@ -1259,21 +1265,21 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "财新网发布[《武汉百步亭社区多个门栋现发热患者 中老年人为主》](http://m.china.caixin.com/m/2020-02-05/101511619.html?from=timeline&isappinstalled=0)。<br>"
+    content: "财新网发布[《武汉百步亭社区多个门栋现发热患者 中老年人为主》](http://m.china.caixin.com/m/2020-02-05/101511619.html)。<br>"
   - item_name: news
-    content: "武汉方舱医院收治首批患者。[新华社](https://m.weibo.cn/status/4469012366538691?)记者拍到一位患者躺在病床上正在阅读福山的《政治秩序的起源》。<br>"
+    content: "武汉方舱医院收治首批患者。[新华社](https://m.weibo.cn/status/4469012366538691)记者拍到一位患者躺在病床上正在阅读福山的《政治秩序的起源》。<br>"
   - item_name: news
-    content: "湖北洪湖市市场监督管理局对洪湖市华康大药房涉嫌哄抬口罩价格行为立案调查。经查，洪湖市华康大药房销售一次性口罩38000个，购进价格0.6元/只，销售价格1元/只，其购销差价额高过《省市场监管局关于新型冠状病毒感染的肺炎防控期间有关价格违法行为认定与处理的指导意见》（鄂市监竞争[2020]3号）文件规定的15%标准，涉嫌哄抬价格。目前，洪湖市市场监督管理局已对该案调查终结，没收违法所得14210元，罚款人民币42630元。见2月12日[报道](https://weibo.com/1638782947/ItQDky4D4?sudaref=2019ncov.tk&display=0&retcode=6102&type=comment#_rnd1581493478703)。<br>"
+    content: "湖北洪湖市市场监督管理局对洪湖市华康大药房涉嫌哄抬口罩价格行为立案调查。经查，洪湖市华康大药房销售一次性口罩38000个，购进价格0.6元/只，销售价格1元/只，其购销差价额高过《省市场监管局关于新型冠状病毒感染的肺炎防控期间有关价格违法行为认定与处理的指导意见》（鄂市监竞争[2020]3号）文件规定的15%标准，涉嫌哄抬价格。目前，洪湖市市场监督管理局已对该案调查终结，没收违法所得14210元，罚款人民币42630元。见2月12日[报道](https://weibo.com/1638782947/ItQDky4D4)。<br>"
   - item_name: news
     content: "21时，湖北省[新型冠状病毒感染肺炎疫情防控指挥部](http://www.hubei.gov.cn/zhuanti/2020/gzxxgzbd/zxtb/202002/t20200205_2019807.shtml)下达命令：全省新型冠状病毒感染肺炎定点医院和各级各类医疗机构对发现的疑似和确诊病例，尽最大努力收治。不能收治的，按照相关规定进行登记，及时通知所在县（市、区）疫情防控指挥部或辖区转运队，由县（市、区）疫情防控指挥部或辖区转运队安排车辆转运至集中隔离点，确保疑似和确诊病例“应收尽收、应治尽治”，确保一个都不放过。违反此条者，按照《传染病防治法》相关规定，严格追究责任。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "下午，国家卫健委发布[《新型冠状病毒感染的肺炎的诊疗方案（试行第五版）》](http://www.nhc.gov.cn/yzygj/s7652m/202002/e84bd30142ab4d8982326326e4db22ea.shtml?wYNOrhhjiR4y=1580902501017)。诊疗方案在“疑似病例”和“确诊病例”之外新增了一个“临床诊断病例”，并将“疑似病例具备肺炎影像特征者”作为其诊断标准（只限于湖北省之内），这也意味着CT影像结果成为了“临床诊断病例”的判定依据，武汉大学中南医院影像科副主任张笑春此前朋友圈呼吁得到落实。<br>"
+    content: "下午，国家卫健委发布[《新型冠状病毒感染的肺炎的诊疗方案（试行第五版）》](http://www.nhc.gov.cn/yzygj/s7652m/202002/e84bd30142ab4d8982326326e4db22ea.shtml)。诊疗方案在“疑似病例”和“确诊病例”之外新增了一个“临床诊断病例”，并将“疑似病例具备肺炎影像特征者”作为其诊断标准（只限于湖北省之内），这也意味着CT影像结果成为了“临床诊断病例”的判定依据，武汉大学中南医院影像科副主任张笑春此前朋友圈呼吁得到落实。<br>"
   - item_name: news
     content: "香港浸会大学内地学生宿舍用作新冠病毒隔离区。见[微博香港浸会大学内地生_波杰克马](https://github.com/Pratitya/wuhan2020-timeline/issues/77#issue-560862330)<br>"
   - item_name: news
-    content: "[央视新闻](https://weibo.com/2656274875/IsO5RBy2p?ref=collection&type=comment)报道福建晋江英林镇嘉排村村民张某某从武汉归来后，隐瞒行程参加当地民俗活动及宴会聚餐。2月1日张某某被确诊。当地已对91人实行居家医学观察，并对3557名一般接触者实行医学随访并全程管控。<br>"
+    content: "[央视新闻](https://weibo.com/2656274875/IsO5RBy2p)报道福建晋江英林镇嘉排村村民张某某从武汉归来后，隐瞒行程参加当地民俗活动及宴会聚餐。2月1日张某某被确诊。当地已对91人实行居家医学观察，并对3557名一般接触者实行医学随访并全程管控。<br>"
   - item_name: news
     content: "晚间，辽宁省人民政府印发[《关于印发全省城乡社区（村）疫情严查严控措施30条的通知》](http://www.ln.gov.cn/zfxx/jrln/wzxx2018/202002/t20200205_3734347.html)，要求对村庄、居民小区实行封闭管理。<br>"
   - item_name: news
@@ -1329,15 +1335,15 @@
   - item_name: news
     content: "同日，武汉市人民政府发布[公告](http://www.wh.gov.cn/hbgovinfo/zwgk_8265/tzgg/202002/t20200207_304499.html)对李文亮去世深表哀悼，万分惋惜，对其坚守一线抗击疫情表示敬意，对其家人表示诚挚慰问。<br>"
   - item_name: news
-    content: "[湖北日报](https://weibo.com/2827102952/It8Gra90D?from=page_1002062827102952_profile&wvr=6&mod=weibotime&type=comment#_rnd1581927186964)：省委书记、省新型冠状病毒感染肺炎疫情防控指挥部指挥长蒋超良在武汉市督导疫情防控工作，将确诊患者、疑似患者集中隔离收治作为当前刻不容缓的工作。<br>"
+    content: "[湖北日报](https://weibo.com/2827102952/It8Gra90D)：省委书记、省新型冠状病毒感染肺炎疫情防控指挥部指挥长蒋超良在武汉市督导疫情防控工作，将确诊患者、疑似患者集中隔离收治作为当前刻不容缓的工作。<br>"
   - item_name: news
     content: "武汉市优抚医院的相关医生，被疾控部门约谈。疾控部门认为他们在12月底、1月初时，漏报少报病例。这位医生反对：“卫健委要求同时具备三个条件才能上报，当时确实不符合这三个条件。”见2月11日[八点健闻 · 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。<br>"
   - item_name: news
-    content: "黄石市黄石港区、下陆区纪检监察部门分别通报3起典型案例，其中两名党员临阵脱逃被通报。见2月11日[观察者网](https://weibo.com/1887344341/ItBgdu4wT?type=comment#_rnd1581354735875)报道。<br>"
+    content: "黄石市黄石港区、下陆区纪检监察部门分别通报3起典型案例，其中两名党员临阵脱逃被通报。见2月11日[观察者网](https://weibo.com/1887344341/ItBgdu4wT)报道。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "成都、深圳、广州全市小区院落实行封闭管理。见[成都发布](https://mp.weixin.qq.com/s/r3pIkc3cmjpeyIf58wnhBw)，[深圳新闻网](https://www.sznews.com/news/content/2020-02/07/content_22839185.htm)，[广州市防控新型冠状病毒感染的肺炎疫情工作指挥部三号通告](http://t.cn/A6PrONEK)<br>"
+    content: "成都、深圳、广州全市小区院落实行封闭管理。见[成都发布](https://mp.weixin.qq.com/s/r3pIkc3cmjpeyIf58wnhBw)，[深圳新闻网](https://www.sznews.com/news/content/2020-02/07/content_22839185.htm)，[广州市防控新型冠状病毒感染的肺炎疫情工作指挥部三号通告](http://www.gz.gov.cn/xw/tzgg/content/post_5655563.html)<br>"
   - item_name: news
     content: "钟南山表示，不能完全证明拐点到来，估计还有几天。<br>"
   - item_name: news
@@ -1364,7 +1370,7 @@
   - item_name: news
     content: "同日，国家卫建委发布[关于印发新型冠状病毒肺炎诊疗方案（试行第五版 修正版）的通知](http://www.nhc.gov.cn/yzygj/s7653p/202002/d4b895337e19445f8d728fcaf1e3e13a.shtml)。<br>"
   - item_name: news
-    content: "[上海疫情防控工作发布会](https://weibo.com/2656274875/ItfKK3qJv?display=0&retcode=6102&sudaref=passport.weibo.com&type=comment#_rnd1581148148354)介绍：卫生防疫专家强调，目前可以确定的新冠肺炎传播途径主要为直接传播、气溶胶传播和接触传播。气溶胶传播是指飞沫混合在空气中，形成气溶胶，吸入后导致感染。<br>"
+    content: "[上海疫情防控工作发布会](https://weibo.com/2656274875/ItfKK3qJv)介绍：卫生防疫专家强调，目前可以确定的新冠肺炎传播途径主要为直接传播、气溶胶传播和接触传播。气溶胶传播是指飞沫混合在空气中，形成气溶胶，吸入后导致感染。<br>"
   - item_name: news
     content: "财政部、税务总局：受疫情影响较大的困难行业企业2020年度发生的亏损，最长结转年限由5年延长至8年。<br>"
   - item_name: news
@@ -1383,7 +1389,7 @@
   - item_name: news
     content: "湖北省召开第十九场疫情防控工作新闻发布会，中国工程院院士、湖北省新冠肺炎疫情防控科研攻关组专家、华中农业大学张焕春教授称“新型冠状病毒属于SARS冠状病毒”，央视新闻微博晚21时报道。后张焕春改口称是“口误”，二者存在相关性并不相同，央视新闻微博删除相关博文。同晚，钟南山接受第一财经电话采访表示二者平行，同类不同种。中国疾控中心病毒所所长许文波接受[第一财经](https://news.sina.cn/gn/2020-02-09/detail-iimxyqvz1559555.d.html)电话采访时表示，新型冠状病毒是一个新的病毒，不是SARS病毒。<br>"
   - item_name: news
-    content: "武汉软件工程职业学院自7日收到武汉市防控办通知，被紧急征用作新冠肺炎隔离点，校职工返校清理时随意丢弃学生私人物品，引发网络热议。23时，[武汉软件工程职业学院团委微博](https://weibo.com/2619766381/ItsVqprci?from=page_1001062619766381_profile&wvr=6&mod=weibotime&type=comment#_rnd1581307912852)发布致歉信。<br>"
+    content: "武汉软件工程职业学院自7日收到武汉市防控办通知，被紧急征用作新冠肺炎隔离点，校职工返校清理时随意丢弃学生私人物品，引发网络热议。23时，[武汉软件工程职业学院团委微博](https://weibo.com/2619766381/ItsVqprci)发布致歉信。<br>"
   - item_name: news
     content: "网传江苏医疗队行李丢失，援湖北医疗队物资被扣。随后江苏共青团等官微辟谣。<br>"
   - item_name: group
@@ -1418,11 +1424,11 @@
   - item_name: news
     content: "晚，湖北省召开[新冠肺炎疫情防控新闻发布会](https://weibo.com/1784473157/ItAYkdT3p)，武汉市金银潭医院党委副书记、院长张定宇介绍，新冠肺炎实际是一种自限性疾病。“目前在我们医院的治愈率还是很高的，目前我们医院收治的新冠肺炎的患者累计超过了1500余例，绝大部分患者，包括重症及危重症患者，经过各种氧疗、对症治疗和免疫调节治疗以后，均可以顺利出院，市民不必过分恐慌。”<br>"
   - item_name: news
-    content: "22时许，湖北武汉一医院门口，一名女孩跟着殡仪馆车辆哭喊着“妈妈”。拍摄者介绍，女孩的母亲是新型冠状病毒肺炎的疑似患者，被送到湖北省中西医结合医院，经抢救无效后去世。因疫情的缘故，母亲只能被拉走直接火化。见2月2日[搜狐新闻微博](https://m.weibo.cn/status/4467530297485162?)。<br>"
+    content: "22时许，湖北武汉一医院门口，一名女孩跟着殡仪馆车辆哭喊着“妈妈”。拍摄者介绍，女孩的母亲是新型冠状病毒肺炎的疑似患者，被送到湖北省中西医结合医院，经抢救无效后去世。因疫情的缘故，母亲只能被拉走直接火化。见2月2日[搜狐新闻微博](https://m.weibo.cn/status/4467530297485162)。<br>"
   - item_name: news
     content: "[央视网](http://m.news.cctv.com/2020/02/11/ARTIQgaF2lo0Z5V3TsfDrwMG200211.shtml)：中央指导组国务院副秘书长、国务院办公厅督查室主任高雨先后约谈了武汉市武昌区区长余松、武汉市副市长陈邂馨、武汉市洪山区区长林文书。<br>"
   - item_name: news
-    content: "同时，武汉市委书记马国强10日晚在[湖北省新闻发布会](https://weibo.com/1784473157/ItANRyFDf?refer_flag=1001030103_)上介绍，近期武汉开展了全民健康普查，截至2月9日，共排查3371个社区、村，按户数算排查了421万户，1059万人，户数排查比例达到98.6%，人数排查比例达99%，到明天，要完成所有疑似患者检测清零。但同时大量武汉市民在网上表示并没有接受到排查，是否自己属于未排查的1%。<br>"
+    content: "同时，武汉市委书记马国强10日晚在[湖北省新闻发布会](https://weibo.com/1784473157/ItANRyFDf)上介绍，近期武汉开展了全民健康普查，截至2月9日，共排查3371个社区、村，按户数算排查了421万户，1059万人，户数排查比例达到98.6%，人数排查比例达99%，到明天，要完成所有疑似患者检测清零。但同时大量武汉市民在网上表示并没有接受到排查，是否自己属于未排查的1%。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -1459,7 +1465,7 @@
   - item_name: news
     content: "[国际病毒分类委员会](https://talk.ictvonline.org/)（International Committee on Taxonomy of Viruses, (ICTV)）日前宣布，临时名称为2019-nCoV（2019年新型冠状病毒）的病毒被正式命名为SARS-CoV-2（严重急性呼吸道综合征冠状病毒2型）。此前，[世界卫生组织](https://twitter.com/WHO/status/1227248333871173632)已将由该病毒引发的疾病命名为COVID-19，中国卫健委此前曾将由该病毒引起的疾病命名为“新型冠状病毒肺炎（NCP）”。<br>"
   - item_name: news
-    content: "《今日印度》报道：印度南部喀拉拉邦疑似爆发新冠肺炎疫情，当地政府对3252人进行了观察，隔离了另外3218人。另有34人在医院病房被隔离。2月15日[环球时报](https://news.sina.cn/gj/2020-02-14/detail-iimxxstf1514466.d.html?vt=4&pos=9&cid=56262)转载。<br>"
+    content: "《今日印度》报道：印度南部喀拉拉邦疑似爆发新冠肺炎疫情，当地政府对3252人进行了观察，隔离了另外3218人。另有34人在医院病房被隔离。2月15日[环球时报](https://news.sina.cn/gj/2020-02-14/detail-iimxxstf1514466.d.html)转载。<br>"
 
 - date: 2020年2月12日
   items:
@@ -1470,9 +1476,9 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "12时，中国疾控中心流行病学首席科学家曾光发[微博](https://weibo.com/1496814510/ItPNt3sC7?from=page_1005051496814510_profile&wvr=6&mod=weibotime&type=comment)预测，疫情下降的拐点已出现，但还潜藏着上升拐点。<br>"
+    content: "12时，中国疾控中心流行病学首席科学家曾光发[微博](https://weibo.com/1496814510/ItPNt3sC7)预测，疫情下降的拐点已出现，但还潜藏着上升拐点。<br>"
   - item_name: news
-    content: "[央视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD1bpIKIJKBXH5wAcwhad200212&fromapp=cctvnews&version=803&version=803&allow_comment=1)报道，截至14时，西藏自治区累计报告新型冠状病毒感染的肺炎确诊病例1例。现有确诊病例0例，重症病例0例，死亡病例0例，出院病例1例。<br>"
+    content: "[央视](http://m.news.cctv.com/2020/02/12/ARTID1bpIKIJKBXH5wAcwhad200212.shtml)报道，截至14时，西藏自治区累计报告新型冠状病毒感染的肺炎确诊病例1例。现有确诊病例0例，重症病例0例，死亡病例0例，出院病例1例。<br>"
   - item_name: news
     content: "《中华流行病学杂志》官网挂出了中国疾病预防控制中心新型冠状病毒肺炎应急响应机制流行病学组最新论文[《新型冠状病毒肺炎流行病学特征分析》](http://html.rhhz.net/zhlxbx/004.htm)，论文对截至2020年2月11日中国内地报告所有病例进行了流行病学特征进行描述和分析，数据显示，按照发病日统计，2019年12月31日前有感染者104人，这些人中有15人死亡。1月10日之前， 20个省份113个县区已有分布。又论文解释了“发病日期”的概念，对于流行病学曲线，发病日期定义为病例在流行病学调查中自我报告发烧或咳嗽开始的日期。<br>"
   - item_name: news
@@ -1501,11 +1507,11 @@
   - item_name: news
     content: "[新华社](https://m.weibo.cn/1699432410/4471464621207589)电：中共中央决定，应勇同志任湖北省委委员、常委、书记，蒋超良同志不再担任湖北省委书记、常委、委员职务。武汉市委主要负责同志同时调整，王忠林同志任湖北省委委员、常委和武汉市委书记，马国强同志不再担任湖北省委副书记、常委、委员和武汉市委书记职务。<br>"
   - item_name: news
-    content: "[头条新闻](https://card.weibo.com/article/m/show/id/2309404471497556099074?)：与输入地相比，武汉感染者底数还没有完全摸清，蔓延扩散的规模也没有较为精准的估计预测。据有关方面推算，武汉潜在被感染的基数可能还比较大。<br>"
+    content: "[头条新闻](https://card.weibo.com/article/m/show/id/2309404471497556099074)：与输入地相比，武汉感染者底数还没有完全摸清，蔓延扩散的规模也没有较为精准的估计预测。据有关方面推算，武汉潜在被感染的基数可能还比较大。<br>"
   - item_name: news
     content: "14时，[湖北省新型冠状病毒感染肺炎疫情防控指挥部通告](http://www.hubei.gov.cn/zhuanti/2020/gzxxgzbd/zxtb/202002/t20200213_2026084.shtml)：继续延迟复工开学，省内各类企业不早于2月20日24时前复工；省内大专院校、中小学、中职学校、技工院校、幼儿园延期开学。具体开学时间，将根据疫情防控情况，经科学评估后确定，并提前向社会公布。<br>"
   - item_name: news
-    content: "12日，一则“进价6毛的口罩售价1元涉嫌哄抬口罩价格被罚42630元”的消息在网络上引发争议。据羊城晚报13日消息，目前湖北省洪湖市已对该处罚启动重新调查，同时纪检部门也介入调查是否存在执法人员违纪等情况。被处罚药店的老板在现场接受记者采访时表示，他并不支持口罩卖高价，被罚是内部沟通出了点问题。毛先生告诉记者，这次疫病，他还向红十字会捐了5万块钱，他经营的一家医院也腾出来给政府专门收治新冠肺炎病人。见[新京报](https://card.weibo.com/article/m/show/id/2309404471456368034241?_wb_client_=)报道。<br>"
+    content: "12日，一则“进价6毛的口罩售价1元涉嫌哄抬口罩价格被罚42630元”的消息在网络上引发争议。据羊城晚报13日消息，目前湖北省洪湖市已对该处罚启动重新调查，同时纪检部门也介入调查是否存在执法人员违纪等情况。被处罚药店的老板在现场接受记者采访时表示，他并不支持口罩卖高价，被罚是内部沟通出了点问题。毛先生告诉记者，这次疫病，他还向红十字会捐了5万块钱，他经营的一家医院也腾出来给政府专门收治新冠肺炎病人。见[新京报](https://card.weibo.com/article/m/show/id/2309404471456368034241)报道。<br>"
   - item_name: news
     content: " [孝感大悟县](http://www.hbdawu.gov.cn/mobile/content/200213_007.shtml)、[云梦县](https://mp.weixin.qq.com/s/6dWACocYmCsIlT788nfuDQ)分别宣布进入“战时管理”状态。<br>"
   - item_name: group
@@ -1528,7 +1534,7 @@
   - item_name: news
     content: "武汉市新冠肺炎疫情防控指挥部发布[通知](https://weibo.com/2759348142/Iue90cPDD)，明确了住宅小区封闭管理的主要措施。这也是防控指挥部对2月10日发布的12号通告，以正式通知的形式，做出了细化和明确的规定。通知要求，对住宅小区实行封闭管理时，一个小区一律只保留一个出入口。老旧小区、开放式居住区通过打围方式实现硬隔离。出入口安排人员24小时值班值守，测温登记，审核放行。除就医以及防疫情、保运行等岗位人员外，其他居民一律不得外出。<br>"
   - item_name: news
-    content: "4时51分，湖北电影制片厂“像音像”对外联络部主任[常帆](https://github.com/Pratitya/wuhan2020-timeline/issues/102#issue-565880372)在武汉市黄陂人民医院逝世，享年55岁。当天湖北电影制片厂发出讣告。十七天内一家四口相继离世。此前2月5日湖北省疫情防控指挥部曾下达“应收尽收、应治尽治”命令。16日[财新网](https://weibo.com/1663937380/IuvclFNKR?ref=collection&type=comment#_rnd1581911260364)对此事有报道。<br>"
+    content: "4时51分，湖北电影制片厂“像音像”对外联络部主任[常帆](https://github.com/Pratitya/wuhan2020-timeline/issues/102#issue-565880372)在武汉市黄陂人民医院逝世，享年55岁。当天湖北电影制片厂发出讣告。十七天内一家四口相继离世。此前2月5日湖北省疫情防控指挥部曾下达“应收尽收、应治尽治”命令。16日[财新网](https://weibo.com/1663937380/IuvclFNKR)对此事有报道。<br>"
   - item_name: news
     content: "17时，微博网友“Euamoter”称，在湖北全省封路的情况下，自己通过“当官的”父亲关系，从天门回到荆州。[新京报](https://www.sohu.com/a/373138635_114988)记者获悉，荆州当地多部门已介入调查。后调查，已证实该微博网民真实姓名何昊，其父何炎仿，系荆州市商务局市场运行科科长。14日，何昊在天门完成规定隔离期后，通过其父何炎仿的私人关系，联系一辆由天门来荆州采购物资的顺风车返回荆州，途中在微博上发表相关言论。据[荆州市纪委监委](https://m.weibo.cn/5460202851/4472193864144840)介绍，目前，荆州市纪委监委责成派驻纪检监察组会同荆州市商务局党组就此舆情反映的问题展开调查，荆州市商务局党组已对何炎仿作停职处理。<br>"
   - item_name: news
@@ -1555,7 +1561,7 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[财新网 · 独家·援建火神山医院 湖南湘潭两工人确诊新冠始末](http://china.caixin.com/2020-02-15/101515765.html?originReferrer=gh_caixinwang)<br>"
+    content: "[财新网 · 独家·援建火神山医院 湖南湘潭两工人确诊新冠始末](http://china.caixin.com/2020-02-15/101515765.html)<br>"
   - item_name: news
     content: "湖北司法厅退休副厅长陈北洋确诊后拒绝送医隔离引关注。知情人称，陈北洋及妻儿一家三口2月3日就已确诊。后社区和其所在单位多次劝说三人就医隔离，但三人以病情好转为由拒绝。湖北省纪委工作人员则表示，纪检监察部门绝不会放任不管。<br>"
   - item_name: news
@@ -1563,23 +1569,23 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "11时，贵州综合广播微博发布中国疾控中心主任高福涉嫌严重违纪违法目前接受调查，后被河南反邪教、黑龙江卫视、广州日报转载发布。13时[微博](https://weibo.com/2085931962/IuiZD14Im?from=page_1002062085931962_profile&wvr=6&mod=weibotime)自证是谣言。<br>"
+    content: "11时，贵州综合广播微博发布中国疾控中心主任高福涉嫌严重违纪违法目前接受调查，后被河南反邪教、黑龙江卫视、广州日报转载发布。13时[微博](https://weibo.com/2085931962/IuiZD14Im)自证是谣言。<br>"
   - item_name: news
     content: "15时，[央视网](http://news.cctv.com/2020/02/15/ARTI7nwww7GOzxyVo1BUzOBR200215.shtml)报道：国务院联防联控机召开新闻发布会，科技部社会发展科技司司长吴远彬在会上介绍，为高效有序地推进全国应急科技攻关，科技部专门印发了《关于加强新冠肺炎科技攻关相关管理的通知》，还出台《关于加强新冠病毒高等级病毒微生物实验室生物安全管理的指导意见》要加强对实验室，特别是对病毒的管理，确保生物安全。<br>"
   - item_name: news
     content: "[央视新闻](https://wap.peopleapp.com/article/5156381/5055261)：近日，在钟南山院士的指导下，实验室联合多家研究机构，最新研发出新型冠状病毒IgM抗体快速检测试剂盒，并已在实验室和临床完成初步评价。据介绍，仅需采取一滴血就可在15分钟内肉眼观察获得检测结果，且患者的血浆稀释500至1000倍后，仍能检测出阳性条带。<br>"
   - item_name: news
-    content: "[中国日报网](https://weibo.com/2127460165/IukTGksbG?type=comment)：从交通运输部获悉，经国务院同意，2月17日零时起至疫情防控工作结束，全国收费公路免收车辆通行费。具体截止时间另行通知。<br>"
+    content: "[中国日报网](https://weibo.com/2127460165/IukTGksbG)：从交通运输部获悉，经国务院同意，2月17日零时起至疫情防控工作结束，全国收费公路免收车辆通行费。具体截止时间另行通知。<br>"
   - item_name: news
     content: "[求是网·大国领袖的责任担当——总书记的战“疫”日志](https://github.com/Pratitya/wuhan2020-timeline/issues/143#issue-575963583)<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[纽约时报](https://www.nytimes.com/aponline/2020/02/14/world/middleeast/ap-ml-china-outbreak-egypt-.html?searchResultPosition=10)：埃及卫生和人口部与世界卫生组织（世卫组织）当天宣布发现一外国人确诊感染新冠病毒肺炎病例，无明显症状。系非洲首例新冠肺炎。<br>"
+    content: "[FR24](https://www.france24.com/en/20200214-egypt-s-health-ministry-announces-first-confirmed-coronavirus-case)：埃及卫生和人口部与世界卫生组织（世卫组织）当天宣布发现一外国人确诊感染新冠病毒肺炎病例，无明显症状。系非洲首例新冠肺炎。<br>"
   - item_name: news
     content: "[BFMTV](https://www.bfmtv.com/sante/coronavirus-buzyn-annonce-la-mort-d-un-patient-en-france-le-premier-en-dehors-de-l-asie-1858467.html)：来自湖北省的中国游客，于1月16日抵达法国，于1月25日以严格的隔离措施住进了比查特医院（巴黎），后来病情迅速恶化去世。是为亚洲以外首例新冠肺炎死亡病例。<br>"
   - item_name: news
-    content: "[路透社](https://www.reuters.com/article/us-china-health-cambodia-cruiseship/american-from-cruise-ship-docked-in-cambodia-tests-positive-in-malaysia-for-coronavirus-idUSKBN20903R?feedType=RSS&feedName=worldNews&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29)报道称，马拉西亚卫生部当天表示，停靠在柬埔寨的嘉年华邮轮集团旗下荷美邮轮公司运营的“威斯特丹号”邮轮上确诊首例新型冠状病毒感染的肺炎病例，一名83岁的美国女子从柬埔寨飞抵马来西亚后确诊其新型冠状病毒检测呈阳性。这艘邮轮于13日停泊在柬埔寨西南部的西哈努克港，共载有1455名乘客和802名船员。报道称，此前，该邮轮被日本、中国台湾、美国关岛、菲律宾和泰国拒绝靠岸，并在海上漂泊了两周。<br>"
+    content: "[路透社](https://www.reuters.com/article/us-china-health-cambodia-cruiseship/american-from-cruise-ship-docked-in-cambodia-tests-positive-in-malaysia-for-coronavirus-idUSKBN20903R)报道称，马拉西亚卫生部当天表示，停靠在柬埔寨的嘉年华邮轮集团旗下荷美邮轮公司运营的“威斯特丹号”邮轮上确诊首例新型冠状病毒感染的肺炎病例，一名83岁的美国女子从柬埔寨飞抵马来西亚后确诊其新型冠状病毒检测呈阳性。这艘邮轮于13日停泊在柬埔寨西南部的西哈努克港，共载有1455名乘客和802名船员。报道称，此前，该邮轮被日本、中国台湾、美国关岛、菲律宾和泰国拒绝靠岸，并在海上漂泊了两周。<br>"
 
 - date: 2020年2月16日
   items:
@@ -1590,7 +1596,7 @@
   - item_name: news
     content: "[新京报](https://m.weibo.cn/6124642021/4472683058040301)：“追殡葬车哭喊妈妈”女孩去世的消息引关注。知情人告诉@紧急呼叫，16日与女孩联络过，其状态尚可，与父亲二人居家隔离中。知情人称，“追殡葬车哭喊妈妈”的视频拍摄于2月2日晚，女孩母亲是高度疑似病例，当天觉得不舒服去医院，后经抢救无效去世。<br>"
   - item_name: news
-    content: "[财新网](https://weibo.com/1642088277/IuvFrEYml?type=comment#_rnd1581863420213)：湖北省黄冈市新冠肺炎疫情防控工作指挥部发布通告，对黄冈市区主动就诊的发热人员、摸排出新发热人员的工作人员和举报新发热人员并查实的市民等给予奖励。对主动就诊人员，一次性奖励500元。<br>"
+    content: "[财新网](https://weibo.com/1642088277/IuvFrEYml)：湖北省黄冈市新冠肺炎疫情防控工作指挥部发布通告，对黄冈市区主动就诊的发热人员、摸排出新发热人员的工作人员和举报新发热人员并查实的市民等给予奖励。对主动就诊人员，一次性奖励500元。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -1615,15 +1621,15 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "[新华社](https://weibo.com/1699432410/IuCidj48R?type=comment#_rnd1581995919176)：栗战书主持召开十三届全国人大常委会第四十七次委员长会议，决定十三届全国人大常委会第十六次会议2月24日在京举行。<br>"
+    content: "[新华社](https://weibo.com/1699432410/IuCidj48R)：栗战书主持召开十三届全国人大常委会第四十七次委员长会议，决定十三届全国人大常委会第十六次会议2月24日在京举行。<br>"
   - item_name: news
     content: "[央视网](http://m.news.cctv.com/2020/02/17/ARTIQ7NNaL55ld7vllFnUC5z200217.shtml)：政协第十三届全国委员会第三十三次主席会议在京召开，研究了关于推迟召开政协第十三届全国委员会第三次会议和常务委员会第十次会议的有关事项等。<br>"
   - item_name: news
     content: "[新华网](https://c.m.163.com/news/a/F5K9RUNJ00018AOQ.html)：退役军人事务部、中央军委政治工作部近日联合印发《关于妥善做好新冠肺炎疫情防控牺牲人员烈士褒扬工作的通知》，要求各地各部门妥善做好因疫情防控牺牲人员烈士褒扬工作，符合烈士评定（批准）条件的人员，应评定（批准）为烈士。<br>"
   - item_name: news
-    content: "中国疾控中心主任高福对[《财经》](https://news.caijingmobile.com/article/detail/412590?source_id=40&share_from=moments&from=timeline)记者表示“我不能去网络吵架”，“希望大家像我一样，全身心投入抗击疫情的工作，能出力出力；因为专业或其他方面限制，不能亲自出力，就不信谣、不传谣。”<br>"
+    content: "中国疾控中心主任高福对[《财经》](https://news.caijingmobile.com/article/detail/412590)记者表示“我不能去网络吵架”，“希望大家像我一样，全身心投入抗击疫情的工作，能出力出力；因为专业或其他方面限制，不能亲自出力，就不信谣、不传谣。”<br>"
   - item_name: news
-    content: "甘肃援鄂女护士集体剃光头落泪的视频自每日甘肃网的微博发酵，题为“【剪去秀发，她们整装出征】”（原博及视频已删除）。引发网友热议。视频显示合照中的唯一男子佩戴口罩疑为N95，优于女护士的医用口罩，亦惹来网友争议。[央视新闻微博](https://weibo.com/2656274875/IuCVpmWbe?ref=collection&type=comment)亦报道“医护人员驰援湖北前集体剪光头”相关微视频。有网友呼吁，[官方请停止用女性的身体，作为宣传的工具](https://mp.weixin.qq.com/s/sM5HZ3lTRx_BSC5NsnRbMg)。<br>"
+    content: "甘肃援鄂女护士集体剃光头落泪的视频自每日甘肃网的微博发酵，题为“【剪去秀发，她们整装出征】”（原博及视频已删除）。引发网友热议。视频显示合照中的唯一男子佩戴口罩疑为N95，优于女护士的医用口罩，亦惹来网友争议。[央视新闻微博](https://weibo.com/2656274875/IuCVpmWbe)亦报道“医护人员驰援湖北前集体剪光头”相关微视频。有网友呼吁，[官方请停止用女性的身体，作为宣传的工具](https://mp.weixin.qq.com/s/sM5HZ3lTRx_BSC5NsnRbMg)。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1646,15 +1652,15 @@
   - item_name: news
     content: "国家卫健委发布了[《关于加强新冠肺炎疫情期间严重精神障碍患者治疗管理工作的通知》](http://www.nhc.gov.cn/jkj/s3577/202002/f315a6bb2955474c8ca0b33b0c356a32.shtml)及解读。其中提到，据统计，目前已有323名严重精神障碍患者被确诊患新冠肺炎，有43名为疑似患新冠肺炎，范围涉及全国17个省份，病例分布以武汉市为主，孝感市、黄冈市也有部分病例，其他地区以散发为主。<br>"
   - item_name: news
-    content: "12时，微博用户[医冠清瘦](https://weibo.com/6081778782/IuKG2y6PT?ref=collection&type=comment#_rnd1582086986013)表示，认识昨日热议的驰援武汉女医护人员剃光头的几位当事人。当事人说剃发虽然不是最正确却是很实际、很稳妥的一种自我防护选择之一，都是主动约的理发师9点到医院来剃发。因为“想起自己家2个娃娃非常舍不得，也有点舍不得自己这满头的秀发，又想起此次任务的艰巨，心中不免的悲壮了起来就哭了。”<br>"
+    content: "12时，微博用户[医冠清瘦](https://weibo.com/6081778782/IuKG2y6PT)表示，认识昨日热议的驰援武汉女医护人员剃光头的几位当事人。当事人说剃发虽然不是最正确却是很实际、很稳妥的一种自我防护选择之一，都是主动约的理发师9点到医院来剃发。因为“想起自己家2个娃娃非常舍不得，也有点舍不得自己这满头的秀发，又想起此次任务的艰巨，心中不免的悲壮了起来就哭了。”<br>"
   - item_name: news
-    content: "21时，[人民网](https://weibo.com/ttarticle/p/show?id=2309354473426453594431&u=2286908003&m=4473426431049808&cu=7201132438)发布网评文章《女性逆行，尊重比赞美更重要》。<br>"
+    content: "21时，[人民网](https://weibo.com/ttarticle/p/show?id=2309354473426453594431)发布网评文章《女性逆行，尊重比赞美更重要》。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
     content: "[共同社](https://tchina.kyodonews.net/news/2020/02/1986fb7415da-88.html)：日本厚生勞動省18日發佈消息稱，“鑽石公主”號遊輪上人員的新冠病毒檢查結果顯示，新增88人呈陽性。其中65人未出現發燒及咳嗽等症狀。游轮上累计确诊542人。<br>"
   - item_name: news
-    content: "[联合国](https://weibo.com/1709157165/IuJnd2NQp?ref=collection&type=comment)举办“新冠病毒全球研究与创新论坛”，一位欧洲新闻电视台的记者向世界卫生组织提问：中国政府是否要求WHO站出来表扬他们干得好？世卫组织是否迫于压力说了这些话？世卫组织总干事谭德赛作出以下回答，并强调疫情当前，不要再攻击和抹黑某一个国家，世界各国应当团结起来，抗击共同的敌人。此前有网友戏称谭德赛为“谭书记”。<br>"
+    content: "[联合国](https://weibo.com/1709157165/IuJnd2NQp)举办“新冠病毒全球研究与创新论坛”，一位欧洲新闻电视台的记者向世界卫生组织提问：中国政府是否要求WHO站出来表扬他们干得好？世卫组织是否迫于压力说了这些话？世卫组织总干事谭德赛作出以下回答，并强调疫情当前，不要再攻击和抹黑某一个国家，世界各国应当团结起来，抗击共同的敌人。此前有网友戏称谭德赛为“谭书记”。<br>"
   - item_name: news
     content: "[Biorxiv](https://www.biorxiv.org/content/10.1101/2020.02.13.945485v1)：香港大学管轶教授课题组与广西医科大学胡艳玲课题组合作的工作在论文预印网站bioRxiv上发布，该研究表明穿山甲可能是新冠病毒从蝙蝠到人类的中间宿主。<br>"
 
@@ -1675,7 +1681,7 @@
   - item_name: news
     content: "傍晚，腾讯“大家”栏目公众号被注销。栏目始创于2012年，以“洞见、价值、美感”为编辑原则。此前1月27日曾刊登文章《武汉肺炎50天，全体中国人都在承受媒体死亡的代价》。<br>"
   - item_name: news
-    content: "晚间，中国工程院副院长、呼吸与危重症医学专家王辰在[新闻1+1节目](https://weibo.com/1737943044/IuYsfjbKt?from=page_1002061737943044_profile&wvr=6&mod=weibotime&type=comment)中表示，新冠肺炎与SARS不同，SARS传播性和致病性都很强，很快把宿主杀死然后病毒自身也不容易存活。而新冠肺炎有可能转成慢性疾病，像流感一样与人类共存。<br>"
+    content: "晚间，中国工程院副院长、呼吸与危重症医学专家王辰在[新闻1+1节目](https://weibo.com/1737943044/IuYsfjbKt)中表示，新冠肺炎与SARS不同，SARS传播性和致病性都很强，很快把宿主杀死然后病毒自身也不容易存活。而新冠肺炎有可能转成慢性疾病，像流感一样与人类共存。<br>"
   - item_name: news
     content: "[剩余价值 · 瘟疫、语言和具体的人：与历史学家罗新的聊天](https://github.com/Pratitya/wuhan2020-timeline/issues/120#issue-569310623)<br>"
   - item_name: group
@@ -1687,7 +1693,7 @@
   - item_name: news
     content: "新加坡部长与中华总商会内部会面被录音。[网传录音](https://new.qq.com/omn/20200219/20200219V0KTHQ00.html)显示，新加坡贸工部长陈振声称，官员带头戴口罩会引发恐慌，医疗系统扛不住。<br>"
   - item_name: news
-    content: "[韩联社](https://cn.yna.co.kr/view/ACK20200219006600881?section=society/index)首尔2月19日电：韩国中央防疫对策本部长郑银敬表示，卫生部门认为第31例确诊感染新型冠状病毒的病人去过的大邱市一个教堂内发生超级传播事件，可能有很多人与病例接触，卫生部门正在制定对整个教堂进行筛检试验和诊断试验的计划。<br>"
+    content: "[韩联社](https://cn.yna.co.kr/view/ACK20200219006600881)首尔2月19日电：韩国中央防疫对策本部长郑银敬表示，卫生部门认为第31例确诊感染新型冠状病毒的病人去过的大邱市一个教堂内发生超级传播事件，可能有很多人与病例接触，卫生部门正在制定对整个教堂进行筛检试验和诊断试验的计划。<br>"
 
 - date: 2020年2月20日
   items:
@@ -1702,7 +1708,7 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "豆瓣日记功能恢复。"
+    content: "豆瓣日记功能恢复。<br>"
   - item_name: news
     content: "中国科学院西双版纳热带植物园官网发布文章[《版纳植物园基于全基因组数据解析新型冠状病毒的演化和传播》](http://www.xtbg.ac.cn/xwzx/kydt/202002/t20200220_5502619.html)，通过全基因组数据解析发现：武汉华南海鲜市场的新型冠状病毒是从其它地方传入，新型冠状病毒在2月12日之前发生过2次明显的种群扩张，新型冠状病毒基因组尚未发生重组事件。<br>"
   - item_name: news
@@ -1725,9 +1731,9 @@
   - item_name: news
     content: "武汉市红十字会医院发布[公告](https://mp.weixin.qq.com/s/LMGykQSJ6SGcbkSkBi9wnw)：“普外科医生肖俊在抗击疫情一线不幸感染新冠肺炎，2020年1月26日在本院住院治疗，1月27日，转武汉市金银潭医院治疗，后因病情恶化，经抢救无效，于2020年2月8日18时13分在武汉市金银潭医院去世。医院对肖俊医生的不幸去世表示沉痛哀悼，向其家属表示诚挚慰问。”<br>"
   - item_name: news
-    content: "昨日网传武汉市第七医院患者无端训斥医护人员的视频。[湖北省市场监管局](https://weibo.com/1966715680/Ivb24BC40?type=comment#_rnd1582343037562)在核实该患者为该局后勤服务中心筹备组副组长朱保华后，连夜召开党组会决定对朱保华停职检查。<br>"
+    content: "昨日网传武汉市第七医院患者无端训斥医护人员的视频。[湖北省市场监管局](https://weibo.com/1966715680/Ivb24BC40)在核实该患者为该局后勤服务中心筹备组副组长朱保华后，连夜召开党组会决定对朱保华停职检查。<br>"
   - item_name: news
-    content: "鄂州市新型冠状病毒感染肺炎疫情防控指挥部宣传组发布[通告](https://weibo.com/2184090830/IviTLtPPf?from=page_1001062184090830_profile&wvr=6&mod=weibotime&type=comment)，调查此前事件。【参见2月19日条目】鄂州市鄂城区凤凰街道党工委书记、凤凰街道疫情防控指挥部指挥长余建兵擅自扩大发放范围和发放标准，违规分配和领取捐赠生活物资。鄂城区发展改革和经济信息化局党组书记、局长杜焕保擅自决定将有关物资分配给凤凰派出所。凤凰派出所所长成学军将凤凰街道下拨的捐赠生活物资分配给所内干警和工作人员。鄂州市纪委监委研究并报鄂州市委批准，对余建兵、杜焕保党纪立案、监察立案，并予以免职。市公安局对成学军予以停职处理，有关问题继续深入调查。次日鄂州市政府网站发布[《关于网民曝光微信用户“与石俱进”相关问题调查情况的通报》](http://www.ezhou.gov.cn/zt/zdzt/fzyqmy/qwtb/202002/t20200222_326144.html)，指出微信用户“与石俱进”看到涉鄂城区公安分局凤凰派出所视频里的圣女果和他买的小西红柿差不多，就想在群内炫耀一下，其亲属中均没有公务人员。公安机关已对其进行了训诫。<br>"
+    content: "鄂州市新型冠状病毒感染肺炎疫情防控指挥部宣传组发布[通告](https://weibo.com/2184090830/IviTLtPPf)，调查此前事件。【参见2月19日条目】鄂州市鄂城区凤凰街道党工委书记、凤凰街道疫情防控指挥部指挥长余建兵擅自扩大发放范围和发放标准，违规分配和领取捐赠生活物资。鄂城区发展改革和经济信息化局党组书记、局长杜焕保擅自决定将有关物资分配给凤凰派出所。凤凰派出所所长成学军将凤凰街道下拨的捐赠生活物资分配给所内干警和工作人员。鄂州市纪委监委研究并报鄂州市委批准，对余建兵、杜焕保党纪立案、监察立案，并予以免职。市公安局对成学军予以停职处理，有关问题继续深入调查。次日鄂州市政府网站发布[《关于网民曝光微信用户“与石俱进”相关问题调查情况的通报》](http://www.ezhou.gov.cn/zt/zdzt/fzyqmy/qwtb/202002/t20200222_326144.html)，指出微信用户“与石俱进”看到涉鄂城区公安分局凤凰派出所视频里的圣女果和他买的小西红柿差不多，就想在群内炫耀一下，其亲属中均没有公务人员。公安机关已对其进行了训诫。<br>"
   - item_name: news
     content: "[湖北日报](https://weibo.com/2827102952/IvdvwilH3)记者从湖北省监狱管理局获悉，省监狱系统共有新冠肺炎确诊病例271例，其中武汉女子监狱确诊230例，湖北省沙洋汉津监狱确诊41例，均为输入型病例。目前，全省没有发生监狱在押罪犯感染新冠肺炎死亡事件。湖北省武汉女子监狱因防控工作不力，监狱长被免职。<br>"
   - item_name: news
@@ -1739,7 +1745,7 @@
   - item_name: news
     content: "[中国新闻网](https://mp.weixin.qq.com/s/5-roP4_s0zSQJ8GLQhA3pg)：上午，山东省政府新闻办召开新闻发布会，邀请省卫健委、省司法厅负责同志介绍全省疫情最新情况及防控相关措施。记者从发布会上获悉，2月20日，全省报告新增确诊病例202例，其中任城监狱200例。此前山东济宁因此事外传解散大量微信群，济宁市公安局“济宁解散所有微信群”系谣言。辟谣标准引发网友热议。<br>"
   - item_name: news
-    content: "[浙江省](https://mp.weixin.qq.com/s?__biz=MzA4ODY3MjkxNA==&mid=2651062557&idx=2&sn=3505212a1dc703a021372e7343363c9c&chksm=8bd63ee0bca1b7f6d49c539787f8d2338f4ab64b123220c5d07d5947371ca0d13254c2295726&mpshare=1&scene=1&srcid=&sharer_sh)通报昨日新增新冠肺炎确诊病例28例。记者从省监狱管理局获悉，其中27例为省十里丰监狱罪犯，加上此前已公布的7例确诊病例，省十里丰监狱共有罪犯确诊病例34例，为输入型病例。<br>"
+    content: "[浙江省](https://mp.weixin.qq.com/s?__biz=MzA4ODY3MjkxNA==&mid=2651062557&idx=2&sn=3505212a1dc703a021372e7343363c9c)通报昨日新增新冠肺炎确诊病例28例。记者从省监狱管理局获悉，其中27例为省十里丰监狱罪犯，加上此前已公布的7例确诊病例，省十里丰监狱共有罪犯确诊病例34例，为输入型病例。<br>"
   - item_name: news
     content: "[甘肃卫健委](http://wsjk.gansu.gov.cn/single/10910/84320.html)：根据国家有关法律法规规定和甘肃省新冠肺炎疫情发展形势，经省政府研究决定，自2020年2月21日14时起，将甘肃省新冠肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应。<br>"
   - item_name: news
@@ -1751,7 +1757,7 @@
   - item_name: news
     content: "[美国疾控中心](https://www.cnbc.com/2020/02/21/us-health-officials-prepare-for-coronavirus-outbreak-to-become-pandemic.html)表示，美国卫生官员正在为冠状病毒的大规模流行做准备，企业和学校有可能关闭。<br>"
   - item_name: news
-    content: "[韩联社](https://cn.yna.co.kr/view/ACK20200221008200881?section=news)：下午，韩国境内出现第二例感染新冠病毒（COVID-19）的死亡病例。该病例为54岁女性，此前住在庆尚北道清道郡大南医院的精神病院，在被转入普通病房当天确诊感染病毒，并被救护车送往釜山大学医院。据悉，该患者在转院后的下午5时左右在治疗过程中身亡。<br>"
+    content: "[韩联社](https://cn.yna.co.kr/view/ACK20200221008200881)：下午，韩国境内出现第二例感染新冠病毒（COVID-19）的死亡病例。该病例为54岁女性，此前住在庆尚北道清道郡大南医院的精神病院，在被转入普通病房当天确诊感染病毒，并被救护车送往釜山大学医院。据悉，该患者在转院后的下午5时左右在治疗过程中身亡。<br>"
 
 - date: 2020年2月22日
   items:
@@ -1774,9 +1780,9 @@
   - item_name: news
     content: "[意大利共和报](https://www.repubblica.it/cronaca/2020/02/21/news/coronavirus_casi_veneto-249192220/)：意大利现首例新冠肺炎死亡病例，患者78岁，是威尼托两名病例之一。当地政府已决定关闭学校、商业及社交活动。<br>"
   - item_name: news
-    content: "[Reuters](https://www.reuters.com/article/us-china-health-iran/iranian-mayor-tests-positive-for-coronavirus-state-tv-idUSKCN20G075?feedType=RSS&feedName=topNews)：国家电视台周六表示，一名伊朗官员新冠肺炎检测结果呈阳性。第 13 区市长 Morteza Rahmanzadeh 呈现新冠肺炎症状正在住院。<br>"
+    content: "[Reuters](https://www.reuters.com/article/us-china-health-iran/iranian-mayor-tests-positive-for-coronavirus-state-tv-idUSKCN20G075)：国家电视台周六表示，一名伊朗官员新冠肺炎检测结果呈阳性。第 13 区市长 Morteza Rahmanzadeh 呈现新冠肺炎症状正在住院。<br>"
   - item_name: news
-    content: "[韩联社](https://cn.yna.co.kr/view/ACK20200222001000881?section=society/index)庆州、首尔2月22日电 韩国中央防疫对策本部22日表示，庆尚北道庆州市的一名40多岁男性在身亡后确诊感染新型冠状病毒。该男性为韩国第三例感染新冠病毒的死亡病例。据庆州市政府和庆州警察署介绍，21日晚9时许，该男性的友人发现其在家中身亡后报警。该男性生前有咳嗽和气管炎的症状并因此接受过治疗，警方为确认死因委托卫生部门进行了新冠病毒检测。由于该男性已经身亡，要想查明其感染途径和感染后的移动路线等难度较大。<br>"
+    content: "[韩联社](https://cn.yna.co.kr/view/ACK20200222001000881)庆州、首尔2月22日电 韩国中央防疫对策本部22日表示，庆尚北道庆州市的一名40多岁男性在身亡后确诊感染新型冠状病毒。该男性为韩国第三例感染新冠病毒的死亡病例。据庆州市政府和庆州警察署介绍，21日晚9时许，该男性的友人发现其在家中身亡后报警。该男性生前有咳嗽和气管炎的症状并因此接受过治疗，警方为确认死因委托卫生部门进行了新冠病毒检测。由于该男性已经身亡，要想查明其感染途径和感染后的移动路线等难度较大。<br>"
   - item_name: news
     content: "[NHK](https://www3.nhk.or.jp/news/html/20200222/k10012297561000.html)：位于日本中部的栃木县于当天宣布，该县一名60多岁的女性被确认感染了新型冠状病毒。这名女性曾是“钻石公主”号游轮上的一名旅客，在2月14日进行过核酸检测，15日被检测为阴性，并于19日下船回家。这是日本首例下船后确认感染病例。<br>"
 
@@ -1787,7 +1793,7 @@
   - item_name: news
     content: "清晨6时30分，[协和江北医院/蔡甸区人民医院](https://mp.weixin.qq.com/s/iHLoo8CNR3kmWLdmPh7DkQ)消化内科医生夏思思（女，29岁），不幸感染新冠肺炎，经救治无效在武汉大学中南医院去世。<br>"
   - item_name: news
-    content: "[三联生活周刊](https://www.weibo.com/1191965271/IvzWPdFkm?type=comment)：湖北孝感市中心医院呼吸内科副主任医师黄文军，不幸感染新型冠状病毒肺炎，经多方抢救医治无效，不幸去世，年仅42岁。他曾在1月24日写下请战书“岂因祸福避趋之”，主动申请去隔离病房。<br>"
+    content: "[三联生活周刊](https://www.weibo.com/1191965271/IvzWPdFkm)：湖北孝感市中心医院呼吸内科副主任医师黄文军，不幸感染新型冠状病毒肺炎，经多方抢救医治无效，不幸去世，年仅42岁。他曾在1月24日写下请战书“岂因祸福避趋之”，主动申请去隔离病房。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -1828,7 +1834,7 @@
   - item_name: news
     content: "下午，[央视新闻](https://m.weibo.cn/2656274875/4475528612737324)：十三届全国人大常委会第十六次会议举行闭幕会。会议表决通过全国人大常委会[《关于全面禁止非法野生动物交易、革除滥食野生动物陋习、切实保障人民群众生命健康安全的决定》](http://www.npc.gov.cn/npc/c30834/202002/74a850a51661458390c9ae89e35b3807.shtml)和[《关于推迟召开第十三届全国人民代表大会第三次会议的决定》](http://www.npc.gov.cn/npc/c30834/202002/5944b92300254f9cbf3cf685ad992d25.shtml)。<br>"
   - item_name: news
-    content: "[江苏省人民政府](https://weibo.com/2259661342/IvJIAhfmk?refer_flag=1001030103_&type=comment#_rnd1582559753655)研究决定，自2020年2月24日24时起，将疫情防控应急响应级别由突发公共卫生事件一级响应调整为二级响应。<br>"
+    content: "[江苏省人民政府](https://weibo.com/2259661342/IvJIAhfmk)研究决定，自2020年2月24日24时起，将疫情防控应急响应级别由突发公共卫生事件一级响应调整为二级响应。<br>"
   - item_name: news
     content: "[广西卫健委](http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovzcwj/2020/0224/69242.html)：自2月24日20时起，将广西新冠肺炎疫情防控应急响应级别由自治区重大突发公共卫生事件一级响应调整为三级响应。<br>"
   - item_name: news
@@ -1859,7 +1865,7 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "广东疾控称呼，省内有14%的出院患者出现复阳现象。疾控副主任宋铁称，复阳暂无系统性结论，专家初步判断认为，复阳主要是因为病人的肺部炎症尚在吸收过程中，还未达到临床痊愈，因此可能存在间歇性排毒现象。<br>"
+    content: "广东疾控称，省内有14%的出院患者出现复阳现象。疾控副主任宋铁称，复阳暂无系统性结论，专家初步判断认为，复阳主要是因为病人的肺部炎症尚在吸收过程中，还未达到临床痊愈，因此可能存在间歇性排毒现象。<br>"
   - item_name: news
     content: "[安徽卫健委](http://wjw.ah.gov.cn/m/article55365.html)：自2020年2月25日12时起，将新冠肺炎疫情防控应急响应级别由省重大突发公共卫生事件一级响应调整为省级二级响应，其中，高风险地区参照省级一级响应管理。<br>"
   - item_name: news
@@ -1881,7 +1887,7 @@
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/china-health-iran-minister/iran-deputy-health-minister-tests-positive-for-coronavirus-ilna-idUSB2N2A0012)：据伊朗伊斯兰通讯社25日报道，卫生部副部长哈利其确诊感染新冠病毒。哈利其在其社交媒体证实了这一说法。他表示，24日晚上的测试显示阳性，此后他已经接受隔离，目前状况良好。<br>"
   - item_name: news
-    content: "[央视新闻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQvLKYtG0l2yVosFlLek200225&fromapp=cctvnews&version=803&version=803&allow_comment=1)：法国卫生部长维兰在24日的新闻发布会上表示，目前法国所有新冠肺炎入院患者均已出院。目前法国没有确诊的新冠肺炎病例，所以法国没有必要取消各类文化活动。<br>"
+    content: "[央视新闻](http://m.news.cctv.com/2020/02/25/ARTIOQvLKYtG0l2yVosFlLek200225.shtml)：法国卫生部长维兰在24日的新闻发布会上表示，目前法国所有新冠肺炎入院患者均已出院。目前法国没有确诊的新冠肺炎病例，所以法国没有必要取消各类文化活动。<br>"
 
 - date: 2020年2月26日
   items:
@@ -1912,7 +1918,7 @@
   - item_name: news
     content: "[巴西环球网](https://oglobo.globo.com/sociedade/brasileiro-tem-confirmado-primeiro-teste-para-coronavirus-24271946)：巴西确诊首例新冠肺炎。患者，61岁，男，住在圣保罗，此前曾在意大利工作，现在已被送到医院接受治疗。系拉丁美洲首例新冠肺炎患者。<br>"
   - item_name: news
-    content: "[南方都市报](https://page.om.qq.com/page/OQQIf_YRCMHYodPXrvNeQDRA0?refer=cp_1021)：伊朗网络警察2月26日宣布逮捕24人，这些人被控在网上散布关于新型冠状病毒传播的谣言。根据官方最新通报，伊朗新冠病毒感染确诊病例已累计139例，死亡累计19例。据伊朗通讯社ISNA报道，网络警察部队负责人瓦希德·马吉德(Vahid Majid)表示，抓获的24人已移交给司法机关，被控在网上散布关于新冠病毒在伊朗国内传播的谣言。其他118名互联网用户则被短暂拘留并受到警告。<br>"
+    content: "[南方都市报](https://page.om.qq.com/page/OQQIf_YRCMHYodPXrvNeQDRA0)：伊朗网络警察2月26日宣布逮捕24人，这些人被控在网上散布关于新型冠状病毒传播的谣言。根据官方最新通报，伊朗新冠病毒感染确诊病例已累计139例，死亡累计19例。据伊朗通讯社ISNA报道，网络警察部队负责人瓦希德·马吉德(Vahid Majid)表示，抓获的24人已移交给司法机关，被控在网上散布关于新冠病毒在伊朗国内传播的谣言。其他118名互联网用户则被短暂拘留并受到警告。<br>"
   - item_name: news
     content: "[环球时报](https://m.weibo.cn/1974576991/4476728052845312)：韩国新型传染病中央临床委员会通报大南医院精神病科疫情，该科室102名病人中共99人确诊，全韩13名死者中7人来自此处。专家称感染与精神病科环境有关，为防病人寻短见，精神病科常年门窗紧闭。<br>"
   - item_name: news
@@ -1925,15 +1931,15 @@
   - item_name: news
     content: "[财新网](http://china.caixin.com/2020-02-27/101521131.html)记者调查了解到，黄女士是1959年生人，原为湖北省宣恩县水利水产局财务股副股长兼出纳。因犯贪污罪，湖北省宣恩县法院于2013年6月21日作出判决，黄女士获刑十年，其不服上诉，恩施州中院于2014年2月18日作出二审裁定，驳回上诉、维持原判。判决发生法律效力后交付执行，黄女士在湖北省武汉女子监狱服刑。<br>"
   - item_name: news
-    content: "界面新闻记者联系上李文亮的遗孀付雪洁，她回忆了李文亮去世前后的经历，她说因为极度悲痛，孕期她的身体出血，一度住进了医院。她表示，自己会坚强起来，平平安安将腹中的孩子生下来；另外，她也期待调查组对李文亮被训诫的调查处理结果。（文章已被删除）<br>"
+    content: "界面新闻记者联系上李文亮的遗孀付雪洁，她回忆了李文亮去世前后的经历，她说因为极度悲痛，孕期她的身体出血，一度住进了医院。她表示，自己会坚强起来，平平安安将腹中的孩子生下来；另外，她也期待调查组对李文亮被训诫的调查处理结果。（[文章](https://archive.vn/20200227114841/https://www.jiemian.com/article/4038198.html)已被删除）<br>"
   - item_name: news
     content: "[南风窗 · 我在武汉街头入睡，请别对着我的被子浇水](https://archive.li/6uhGB)<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "广州市政府新闻办举办的[广州医科大学疫情防控专场新闻通气会](https://static.nfapp.southcn.com/content/202002/27/c3181080.html?layer=5&share_token=YzkyMDI1Y2YtOWQ0Yy00ZDAxLWE3ZGYtNTgxOTA1YjI2ZWJl&from=timeline&isappinstalled=0&date=ZDhhMzk2ZmItZTE5MC00YmI3LWE3NmQtNjUwZjQyYzJjNjMx)上，钟南山回复了各界关切的问题：1.国内疫情有信心，四月底基本控制。2.出院后“复阳”的患者再被感染的概率很低。3.疫情首先出现在中国，不一定是发源在中国。4.新冠肺炎12月31日就已经明确，1月3日已经分离出病毒毒株，1月7日给了联合国，但我们仍然没有发布。我们CDC（疾控中心）的地位太低了，这是一个技术部门。CDC的特殊地位没有得到足够的重视，要一级一级上报。5.目前正是复工回流高峰，之前我们的预测模型是回流之后又出现一个高峰还没有出现。<br>"
+    content: "广州市政府新闻办举办的[广州医科大学疫情防控专场新闻通气会](https://static.nfapp.southcn.com/content/202002/27/c3181080.html)上，钟南山回复了各界关切的问题：1.国内疫情有信心，四月底基本控制。2.出院后“复阳”的患者再被感染的概率很低。3.疫情首先出现在中国，不一定是发源在中国。4.新冠肺炎12月31日就已经明确，1月3日已经分离出病毒毒株，1月7日给了联合国，但我们仍然没有发布。我们CDC（疾控中心）的地位太低了，这是一个技术部门。CDC的特殊地位没有得到足够的重视，要一级一级上报。5.目前正是复工回流高峰，之前我们的预测模型是回流之后又出现一个高峰还没有出现。<br>"
   - item_name: news
-    content: "[观察者网](https://weibo.com/1887344341/IwaloarJY?type=comment#_rnd1582820857075)：傍晚，中国驻韩国大使馆为大邱市紧急筹备的2.5万余个医用口罩从首尔明洞中国大使馆整装起运。<br>"
+    content: "[观察者网](https://weibo.com/1887344341/IwaloarJY)：傍晚，中国驻韩国大使馆为大邱市紧急筹备的2.5万余个医用口罩从首尔明洞中国大使馆整装起运。<br>"
   - item_name: news
     content: "傍晚，[ndemiccreations](https://www.ndemiccreations.com/en/news/174-app-store)公司收到通知称《瘟疫公司》“经中国国家网信办审查存在违反国内法律内容”并从中国App Store下架。目前状况已经完全超出掌控，尚不清楚游戏下架是否与中国当下正在应对的冠状病毒疫情有关。<br>"
   - item_name: news
@@ -1968,7 +1974,7 @@
   - item_name: news
     content: "[北京](https://weibo.com/1893892941/IwlFPxj5j)发布《关于进一步严格疫情防控有关要求的通告》，其中提出：突出重点部位疫情防控。密切关注公园、景区周边人员聚集情况，有针对性地出台限流管控措施。加强重点交通站点防控力量，建立联动机制，避免轨道站外、公交站台周边排队人员密集。严格集体宿舍监督管理，原则上不安排在地下空间居住。<br>"
   - item_name: news
-    content: "[中国妇女报](https://weibo.com/2606218210/IwzTgr9tx?type=comment)：广西贺州灵峰镇卫生院副院长钟进杏因日夜奋战在抗疫一线，劳累过度猝死在宿舍，年仅32岁。院长称因为人员比较少，他从大年初二到现在只休息了一天，一直工作了33天，他还有个6岁的孩子。<br>"
+    content: "[中国妇女报](https://weibo.com/2606218210/IwzTgr9tx)：广西贺州灵峰镇卫生院副院长钟进杏因日夜奋战在抗疫一线，劳累过度猝死在宿舍，年仅32岁。院长称因为人员比较少，他从大年初二到现在只休息了一天，一直工作了33天，他还有个6岁的孩子。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -1984,7 +1990,7 @@
   - item_name: news
     content: "[CNBC](https://www.cnbc.com/2020/02/28/google-employee-diagnosed-with-coronavirus.html)：谷歌公司证实，一名谷歌员工在其位于瑞士苏黎世 的办公室冠状病毒检测呈阳性。<br>"
   - item_name: news
-    content: "[韩联社](https://cn.yna.co.kr/view/ACK20200225004200881?section=nk/index)：朝鲜禁止聚会聚餐严防新冠疫情；[韩联社](https://cn.yna.co.kr/view/ACK20200227000800881?section=nk/index)：朝鲜各级各类学校推迟开学严防疫情扩散。<br>"
+    content: "[韩联社](https://cn.yna.co.kr/view/ACK20200225004200881)：朝鲜禁止聚会聚餐严防新冠疫情；[韩联社](https://cn.yna.co.kr/view/ACK20200227000800881)：朝鲜各级各类学校推迟开学严防疫情扩散。<br>"
 
 - date: 2020年2月29日
   items:
@@ -1995,7 +2001,7 @@
   - item_name: news
     content: "上午，河南邓州初三的李某敏因没钱买手机，无法按时跟听学校网课，而将母亲治疗精神疾病的药物大量吞下。据了解，她的父亲李汉党由于左腿残疾，只能靠平时在街上给人补鞋来维持生计，而母亲又患有精神病，无劳动能力，每个月药费要几百块。由于家里三个孩子都在上学，日常开支也不小，所以村里将他们家定为建档立卡的贫困户。3月2日[邓州市人民政府](http://www.dengzhou.gov.cn/portal/zfxxgk/zfxxgkml/szfxxgkml/gsgg/webinfo/2020/03/1572755168108131.htm)发布公告，第一时间安排医院全力救治，目前李某没有生命危险，病情稳定。同时已成立调查组，对李某服药原因深入调查，调查情况将及时公布。<br>"
   - item_name: news
-    content: "[台湾卫生福利部疾病管制署](https://www.cdc.gov.tw/)：台湾流行疫情指挥中心29日公布，岛内新增5例新冠肺炎确诊病例，其中4例为昨日（28日）公布的第34案确诊前，于台湾北部某医院的接触者，分别为1名清洁人员（案35）及3名护理人员（案36至38）。案35于医院急诊工作时曾接触案34，其余3人均为案34确诊前住院病房的护理人员，4人陆续于2月18—25日出现咳嗽、流鼻水、发烧等症状，并于案34确诊后列为接触者采检，于今日确诊，为一起群聚事件。<br>"
+    content: "[台湾卫生福利部疾病管制署](https://www.cdc.gov.tw/Bulletin/Detail/mbmNaswS86akZ2X7Vt_-Aw?typeid=9)：台湾流行疫情指挥中心29日公布，岛内新增5例新冠肺炎确诊病例，其中4例为昨日（28日）公布的第34案确诊前，于台湾北部某医院的接触者，分别为1名清洁人员（案35）及3名护理人员（案36至38）。案35于医院急诊工作时曾接触案34，其余3人均为案34确诊前住院病房的护理人员，4人陆续于2月18—25日出现咳嗽、流鼻水、发烧等症状，并于案34确诊后列为接触者采检，于今日确诊，为一起群聚事件。<br>"
   - item_name: news
     content: "[中国新闻周刊](https://weibo.com/1642512402/Iwuu1uCpz)记者从天津市疾控中心获悉，天津又出现一例出院确诊病例核酸检测阳性。该病例是河北省秦皇岛市一确诊病例治愈出院后返津，10日后肛拭子标本检测呈阳性，已收入海河医院观察。<br>"
   - item_name: news
@@ -2005,7 +2011,7 @@
   - item_name: news
     content: "当地时间28日，世卫组织总干事谭德塞在日内瓦宣布，将新冠肺炎全球风险级别提高为“非常高”。此前，新冠肺炎全球风险级别为“高风险”。谭德塞表示，鉴于目前新冠肺炎在全球多个国家蔓延，中国境外已有4351例病例，且有越来越多国家出现疫情，故提高新冠肺炎全球风险级别。<br>"
   - item_name: news
-    content: "[BBC](https://twitter.com/BBCBreaking/status/1233443539914252289?s=20)：据伊朗卫生系统内部消息，伊朗新冠病亡人数可能已经至少210。截至目前，伊朗官方媒体报道中，确诊人数388，病亡人数34。<br>"
+    content: "[BBC](https://twitter.com/BBCBreaking/status/1233443539914252289)：据伊朗卫生系统内部消息，伊朗新冠病亡人数可能已经至少210。截至目前，伊朗官方媒体报道中，确诊人数388，病亡人数34。<br>"
   - item_name: news
     content: "CNN：来自美国加州的国会众议员约翰·加拉曼迪告诉记者，此前在住院几天后被检测出新型冠状病毒阳性的加州病人病情严重，需要插管治疗。美国疾控中心主任雷德菲尔德(Robert Redfield)说，在疫情暴发的早些时候，疾控中心的指导意见是，患者必须有去过中国的旅行史，或者在接受检测前曾与去过中国的人有过密切接触。但雷德菲尔德说，检验标准现在已经改变了。<br>"
   - item_name: news
@@ -2026,7 +2032,7 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "[中国驻俄罗斯大使馆](javascript:void(0);)：个别自媒体传言称莫斯科警方暴力执法，虐待隔离人员，无故带走中国公民，该传言并不属实。警方带走的人员均涉嫌违反了俄防疫规定，且隔离地点并非只有中国公民。造谣者与日前散布中国公民因感染冠状病毒被俄方抛尸荒野谣言者系同一人。<br>"
+    content: "[中国驻俄罗斯大使馆](http://ru.china-embassy.org/chn/ggl/t1750878.htm)：个别自媒体传言称莫斯科警方暴力执法，虐待隔离人员，无故带走中国公民，该传言并不属实。警方带走的人员均涉嫌违反了俄防疫规定，且隔离地点并非只有中国公民。造谣者与日前散布中国公民因感染冠状病毒被俄方抛尸荒野谣言者系同一人。<br>"
   - item_name: news
     content: "[北京卫健委](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200301_1673161.html)：截止2月29日0时至24时，北京市新增2例新冠肺炎确诊病例，均为境外输入病例，已送至定点医疗机构进行救治。<br>"
   - item_name: news
@@ -2046,7 +2052,7 @@
   - item_name: news
     content: "[The West Australian](https://thewest.com.au/news/australia/coronavirus-crisis-wa-man-becomes-first-australian-to-die-from-coronavirus-ng-b881476647z)：澳大利亚报告首例新冠肺炎病亡病例。患者，男，78岁，是钻石公主号上撤离的游客。<br>"
   - item_name: news
-    content: "[央视网](https://weibo.com/3266943013/IwBAkwcU6?ref=collection&type=comment)：受疫情影响，意大利北部多个市镇被封锁，威尼托大区的沃镇就是其中之一。当地居民聚集在广场，手拉巨大横幅，要求“归还自由”。<br>"
+    content: "[央视网](https://weibo.com/3266943013/IwBAkwcU6)：受疫情影响，意大利北部多个市镇被封锁，威尼托大区的沃镇就是其中之一。当地居民聚集在广场，手拉巨大横幅，要求“归还自由”。<br>"
   - item_name: news
     content: "韩国中央防疫对策本部副本部长权俊旭在新闻发布会上首度证实：部分新天地教徒曾在1月去过武汉，但目前还不清楚人数有多少。目前韩国的确诊病例中，有超过1500例与新天地教会有关。<br>"
 
@@ -2085,7 +2091,7 @@
   - item_name: news
     content: "[美联社](https://apnews.com/2ab5535d09074fd0e1c70fc78fef2fad)：伊朗最高领袖哈梅内伊的顾问委员会成员赛义德·穆罕默德·米尔-穆罕默迪(SeyedMohammadMir-Mohammadi)当天因感染新冠肺炎去世。其母亲，伊朗高级神职人员阿亚图拉赞贾尼(AyatollahShobeiriZanjani)的妹妹同样因新冠肺炎离世。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYD2wtuf2rPgUeHFFQRIf200302&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月2日，约旦卫生部宣布该国发现首例新冠肺炎确诊病例。该名约旦籍患者两周前从意大利返回约旦，并在抵达约旦时被立即隔离。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/02/ARTIYD2wtuf2rPgUeHFFQRIf200302.shtml)：当地时间3月2日，约旦卫生部宣布该国发现首例新冠肺炎确诊病例。该名约旦籍患者两周前从意大利返回约旦，并在抵达约旦时被立即隔离。<br>"
   - item_name: news
     content: "[齐泽克·冠状病毒是对资本主义“杀死比尔”式的重击，并可能导致共产主义的重现](https://www.rt.com/op-ed/481831-coronavirus-kill-bill-capitalism-communism/)（[中译版](https://mp.weixin.qq.com/s/uAqpVpcPZzgGm9F_8NnkoA)）br>"
 
@@ -2114,7 +2120,7 @@
   - item_name: news
     content: "[央视新闻](https://weibo.com/2656274875/IwNXp61XD)：当地时间2日晚，沙特卫生部发布公告，确诊首例新冠肺炎病例，患者已被医学隔离。公告显示，该患者从伊朗途经巴林返回沙特。<br>"
   - item_name: news
-    content: "[央视新闻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWxYXY9vVpo2njBikKEWJ200303&fromapp=cctvnews&version=803&version=803&allow_comment=1)：根据塞内加尔当地媒体报道，塞内加尔首都达喀尔的巴斯德研究所当地时间2日确诊一例新冠肺炎确诊病例。<br>"
+    content: "[央视新闻](http://m.news.cctv.com/2020/03/03/ARTIWxYXY9vVpo2njBikKEWJ200303.shtml)：根据塞内加尔当地媒体报道，塞内加尔首都达喀尔的巴斯德研究所当地时间2日确诊一例新冠肺炎确诊病例。<br>"
   - item_name: news
     content: "[CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)：美国佛罗里达州新增2例COVID-19确诊病例，其中一人无任何美国以外旅行史，该病例的流行病学感染途径尚不明确。该病例的出现意味着美国佛罗里达州也可能已经出现了社区传染病例。另一位确诊病例此前曾前往意大利旅行，回到美国后出现症状。该州州长DeSantis宣布佛罗里达进入公关卫生紧急状态。<br>"
   - item_name: news
@@ -2149,7 +2155,7 @@
   - item_name: news
     content: "[新华视点](https://m.weibo.cn/1699432410/4478851872453492)：黑龙江省召开省委常委会会议决定将黑龙江省新冠肺炎疫情防控应急响应等级，由重大突发公共卫生事件一级应急响应调整为二级应急响应。<br>"
   - item_name: news
-    content: "[黄生看金融·理直气壮，世界应该感谢中国](https://m.thepaper.cn/newsDetail_forward_6317211?from=timeline&isappinstalled=0)微信公众号一文引发网友热议。文中提及“荒唐的是，美国现在要确诊一名新冠肺炎病例，还需要美国疾控中心最终审核”。[新华网](http://www.xinhuanet.com/2020-03/04/c_1125660473.htm?dt_dapp=1)转载全文。<br>"
+    content: "[黄生看金融·理直气壮，世界应该感谢中国](https://m.thepaper.cn/newsDetail_forward_6317211)微信公众号一文引发网友热议。文中提及“荒唐的是，美国现在要确诊一名新冠肺炎病例，还需要美国疾控中心最终审核”。[新华网](http://www.xinhuanet.com/2020-03/04/c_1125660473.htm)转载全文。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2170,7 +2176,7 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "微博用户[“饿了么肖唐松”](https://m.weibo.cn/status/4479100519580626?sudaref=moe.covid-19.wtf&display=0&retcode=6102)自述2月初在武汉的救人的经历，并称以后遇到类似需要帮助还会出手相助。<br>"
+    content: "微博用户[“饿了么肖唐松”](https://m.weibo.cn/status/4479100519580626)自述2月初在武汉的救人的经历，并称以后遇到类似需要帮助还会出手相助。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -2203,7 +2209,7 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[长江日报](https://news.ifeng.com/c/7udgSSv5rY8?from=timeline)：晚间，武汉市新冠肺炎疫情防控指挥部视频调度会上，武汉市委书记王忠林部署：“要在全市广大市民中深入开展感恩教育，感恩总书记、感恩共产党，听党话、跟党走，形成强大正能量。”<br>"
+    content: "[长江日报](https://news.ifeng.com/c/7udgSSv5rY8)：晚间，武汉市新冠肺炎疫情防控指挥部视频调度会上，武汉市委书记王忠林部署：“要在全市广大市民中深入开展感恩教育，感恩总书记、感恩共产党，听党话、跟党走，形成强大正能量。”<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -2215,7 +2221,7 @@
   - item_name: news
     content: "[深圳卫健委](https://mp.weixin.qq.com/s/ff18fRn2aBhag_fEJG983A)：深圳发现第2例境外输入病例。患者1月10日，前往西班牙旅游。3月1日10时许，离开西班牙回国，途径阿联酋、北京。3月3日20时，患者自述有发热症状。3月4日，前往北京大学深圳医院就诊，5日新冠病毒核酸初筛结果呈阳性，6日凌晨3时，深圳市疾控中心复核为阳性。<br>"
   - item_name: news
-    content: "[头条新闻 · 东北小伙坐高铁误入武汉 滞留医院搞卫生日赚500](https://weibo.com/1618051664/IxlwicCSS?ref=collection&type=comment)<br>"
+    content: "[头条新闻 · 东北小伙坐高铁误入武汉 滞留医院搞卫生日赚500](https://weibo.com/1618051664/IxlwicCSS)<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2225,11 +2231,11 @@
   - item_name: news
     content: "[bfmtv](https://www.bfmtv.com/politique/qui-est-jean-luc-reitzer-le-depute-infecte-par-le-coronavirus-1870196.html)：法国国会议员让·卢克·赖泽Jean-Luc Reitzer感染新冠肺炎，现在重症监护。<br>"
   - item_name: news
-    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-vatican/vatican-reports-first-case-of-coronavirus-inside-its-walls-idUSKBN20T13O?il=0)：梵蒂冈通报首例新冠肺炎。<br>"
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-vatican/vatican-reports-first-case-of-coronavirus-inside-its-walls-idUSKBN20T13O)：梵蒂冈通报首例新冠肺炎。<br>"
   - item_name: news
-    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-cameroon/cameroon-confirms-first-case-of-coronavirus-idUSKBN20T10Z?il=0)：中非国家喀麦隆通报首例新冠肺炎。<br>"
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-cameroon/cameroon-confirms-first-case-of-coronavirus-idUSKBN20T10Z)：中非国家喀麦隆通报首例新冠肺炎。<br>"
   - item_name: news
-    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-netherlands/first-coronavirus-death-in-the-netherlands-health-authorities-idUSKBN20T18D?il=0)：荷兰通报首例新冠肺炎死亡病例。<br>"
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-netherlands/first-coronavirus-death-in-the-netherlands-health-authorities-idUSKBN20T18D)：荷兰通报首例新冠肺炎死亡病例。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-healthcare-coronavirus-serbia/serbia-reports-first-case-of-coronavirus-health-minister-idUSKBN20T152)：塞尔维亚通报首例新冠肺炎，患者，男，43岁，有匈牙利布达佩斯旅行史。<br>"
   - item_name: news
@@ -2252,7 +2258,7 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilDeE6niKjve31APyHbdw200306&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月6日，西非国家多哥发布通报，该国确诊首例新冠肺炎病例。患者是首都洛美的一名42岁女性，2月22日起该患者先后去过贝宁、德国、法国、土耳其，3月2日取道贝宁返回多哥。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/06/ARTIlDeE6niKjve31APyHbdw200306.shtml)：当地时间3月6日，西非国家多哥发布通报，该国确诊首例新冠肺炎病例。患者是首都洛美的一名42岁女性，2月22日起该患者先后去过贝宁、德国、法国、土耳其，3月2日取道贝宁返回多哥。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/health-coronavirus-colombia-idUSL1N29R129)：哥伦比亚通报首例新冠肺炎。<br>"
   - item_name: news
@@ -2273,11 +2279,11 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[封面新闻](https://weibo.com/1496814565/IxDCRcpSo?type=comment)：近日，一份加盖公章的隔离费用收据在网络上引发争议：湖北浠水县2名武汉火神山医院援建工作者返乡，被安排在当地一家宾馆集中隔离，镇政府通过劳务公司按150元/天的标准收取了4200元集中隔离费。3月8日，湖北浠水县官方回应称，经调查，洗马镇政府代收劳务公司隔离费用的情况属实，行为是错误的，反映我县执行疫情防控政策不严、作风不实，我们深感自责和愧疚。该笔代收费用已于3月7日上午退还劳务公司，并向当事人道歉。<br>"
+    content: "[封面新闻](https://weibo.com/1496814565/IxDCRcpSo)：近日，一份加盖公章的隔离费用收据在网络上引发争议：湖北浠水县2名武汉火神山医院援建工作者返乡，被安排在当地一家宾馆集中隔离，镇政府通过劳务公司按150元/天的标准收取了4200元集中隔离费。3月8日，湖北浠水县官方回应称，经调查，洗马镇政府代收劳务公司隔离费用的情况属实，行为是错误的，反映我县执行疫情防控政策不严、作风不实，我们深感自责和愧疚。该笔代收费用已于3月7日上午退还劳务公司，并向当事人道歉。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "国家卫健委人事司副司长段勇在[国务院联防联控机制新闻发布会](https://weibo.com/2375086267/IxFDqa0e3?type=comment#_rnd1585535789501)上说，为避免违规发放临时性工作补助等现象再次发生，也便于各地各部门掌握政策、在执行中不走样，国家卫健委正会同人社部、财政部对相关政策进一步完善。【参见3月5日条目】<br>"
+    content: "国家卫健委人事司副司长段勇在[国务院联防联控机制新闻发布会](https://weibo.com/2375086267/IxFDqa0e3)上说，为避免违规发放临时性工作补助等现象再次发生，也便于各地各部门掌握政策、在执行中不走样，国家卫健委正会同人社部、财政部对相关政策进一步完善。【参见3月5日条目】<br>"
   - item_name: news
     content: "[山东卫健委](http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/202003/t20200307_3041870.html)：自2020年3月7日24时起，山东省新冠肺炎疫情防控应急响应级别由重大突发公共卫生事件Ⅰ级响应调整为Ⅱ级响应。<br>"
   - item_name: news
@@ -2293,11 +2299,11 @@
   - item_name: news
     content: "[abcnews](https://abcnews.go.com/International/wireStory/health-authorities-argentina-announce-death-latin-america-coronavirus-69460731)：阿根廷首次通报死亡病例，逝者，64岁，曾去过法国巴黎。阿根廷累计确诊9例。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCDLBHqv0AfyXKpFNcUuK200308&fromapp=cctvnews&version=803&version=803&allow_comment=1)：马尔代夫首次确诊2例新冠肺炎病例，2名患者为度假村工作人员，据介绍，他们或被一名意大利游客传染，该游客回意大利后已经确诊。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/08/ARTICDLBHqv0AfyXKpFNcUuK200308.shtml)：马尔代夫首次确诊2例新冠肺炎病例，2名患者为度假村工作人员，据介绍，他们或被一名意大利游客传染，该游客回意大利后已经确诊。<br>"
   - item_name: news
     content: "[新华社](http://www.xinhuanet.com/2020-03/08/c_1125679759.htm)：东南欧的内陆国摩尔多瓦卫生部7日晚报告该国首例新冠肺炎病例。据当地媒体报道，患者为一名48岁女性，当天乘坐飞机从意大利返回摩尔多瓦。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZFok5R3uyqstvnGNpC8O200308&fromapp=cctvnews&version=803&version=803&allow_comment=1)：南美国家巴拉圭确诊首例新冠肺炎病例这名患者为一名32岁男性。3月3日从厄瓜多尔返回巴拉圭。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/08/ARTIZFok5R3uyqstvnGNpC8O200308.shtml)：南美国家巴拉圭确诊首例新冠肺炎病例这名患者为一名32岁男性。3月3日从厄瓜多尔返回巴拉圭。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-bulgaria/bulgaria-confirms-first-four-cases-of-coronavirus-health-officials-idUSKBN20V09S)：欧洲东南部国家保加利亚首次通报4例新冠肺炎确证病例。<br>"
   - item_name: news
@@ -2307,7 +2313,7 @@
   - item_name: news
     content: "[联合早报](https://www.zaobao.com/realtime/world/story20200308-1035326)：歌诗达幸运号（Costa Fortuna）游轮一名官员星期天（3月8日）说，马来西亚和泰国禁止让这艘载有数十名意大利游客的游轮停靠。官员说，虽然游轮上没有出现2019冠状病毒疾病的疑似病例，但游轮于上周五在泰国普吉岛被拒绝停靠。过后，该游轮周六试图停靠在马国槟城，但同样也遭当地官员拒绝。据马来西亚官员，该游轮上共有64名意大利公民，游轮上共有约2000人。<br>"
   - item_name: news
-    content: "[中国驻苏黎世总领馆](http://t.cn/A6zvhcCV)发布疫情速递称，截至当地时间3月8日12时，瑞已有285个新冠病毒感染确诊病例，51例医院初检阳性。迄今，瑞对4300余人进行了新冠病毒检测，数百人被隔离。文章还援引瑞士《每日导报》的报道称：瑞士联邦卫生局5日宣布，今后将不再对轻症患者进行新冠病毒检测，以缓解有关医疗机构及实验室的压力，将有限的医疗资源优先保障重症患者。仅有流感症状的患者，即便发烧或咳嗽，也不应再去医院，而应呆在家中。已在医院的轻症患者也将被安排回家隔离观察。<br>"
+    content: "[中国驻苏黎世总领馆](https://mp.weixin.qq.com/s?__biz=MzU2NjY3ODI2OQ==&mid=100001628&idx=1&sn=c009e68b00ccab176611f3ca8442db69)发布疫情速递称，截至当地时间3月8日12时，瑞已有285个新冠病毒感染确诊病例，51例医院初检阳性。迄今，瑞对4300余人进行了新冠病毒检测，数百人被隔离。文章还援引瑞士《每日导报》的报道称：瑞士联邦卫生局5日宣布，今后将不再对轻症患者进行新冠病毒检测，以缓解有关医疗机构及实验室的压力，将有限的医疗资源优先保障重症患者。仅有流感症状的患者，即便发烧或咳嗽，也不应再去医院，而应呆在家中。已在医院的轻症患者也将被安排回家隔离观察。<br>"
   - item_name: news
     content: "[BBC](https://www.bbc.com/news/world-middle-east-51787238)：意大利陆军参谋长萨尔瓦多莱·法利纳（Salvatore Farina）下午发表声明，他本人核酸检测阳性，目前状态良好，正自我隔离。<br>"
 
@@ -2316,7 +2322,7 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "下午，[《生命时报》](https://weibo.com/1774057271/Iy0ps6JzO?type=comment)赴武汉特派记者接到武汉汉阳体校方舱医院“志愿者”的求助电话，据他们反映：当他们拿着通知回到小区时，小区不让进；回到原来住的酒店，以“志愿者”名义招募他们的公司则让他们尽快搬离，“志愿者”们陷入尴尬的两难境地。<br>"
+    content: "下午，[《生命时报》](https://weibo.com/1774057271/Iy0ps6JzO)赴武汉特派记者接到武汉汉阳体校方舱医院“志愿者”的求助电话，据他们反映：当他们拿着通知回到小区时，小区不让进；回到原来住的酒店，以“志愿者”名义招募他们的公司则让他们尽快搬离，“志愿者”们陷入尴尬的两难境地。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -2324,7 +2330,7 @@
   - item_name: news
     content: "青海省第一批开学的144所普通高中和中职学校的学生重返校园。根据青海省政府2月28日发布的通告，普通高中、中等职业学校原则上3月9日至13日陆续开学；初中学校原则上3月16日至20日陆续开学。<br>"
   - item_name: news
-    content: "14时-16时人民网直播平台人民智云开讲“全国大学生同上一堂疫情防控思政大课”，全国大部分高校要求在校生收看并撰写观后感。因网络在线人数过多，直播发生故障，“人民智云崩了”登上微博热搜。同时，思政课观后感自动生成器在网上流传。"
+    content: "14时-16时人民网直播平台人民智云开讲“全国大学生同上一堂疫情防控思政大课”，全国大部分高校要求在校生收看并撰写观后感。因网络在线人数过多，直播发生故障，“人民智云崩了”登上微博热搜。同时，思政课观后感自动生成器在网上流传。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2340,9 +2346,9 @@
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-burkina/burkina-faso-confirms-first-cases-of-coronavirus-idUSKBN20W2Y9)：非洲西部内陆国布基纳法索首次通报2例新冠肺炎确诊病例，患者夫妇2人最近去过法国。<br>"
   - item_name: news
-    content: "[观察者网](https://weibo.com/1638782947/IxOZTD6Gu?ref=collection&type=comment)援引印度媒体报道，近日，印度吉德勒杜尔加的一名男子自称用牛粪可以预防新冠病毒，于是他带着朋友们沐浴在牛粪之中，共同净化身心。他表示，只要每6个月沐浴一次牛粪，就可以让身体清洁。<br>"
+    content: "[观察者网](https://weibo.com/1638782947/IxOZTD6Gu)援引印度媒体报道，近日，印度吉德勒杜尔加的一名男子自称用牛粪可以预防新冠病毒，于是他带着朋友们沐浴在牛粪之中，共同净化身心。他表示，只要每6个月沐浴一次牛粪，就可以让身体清洁。<br>"
   - item_name: news
-    content: "[微天下](https://weibo.com/1893801487/IxZg8lZ24?ref=collection&type=comment)：当地时间9日，在印度传统庆祝活动上，孟买的民众当街烧毁一个约15米高的新冠病毒塑像。当地民众用一个带火的“注射器插到“病毒”上。民众希望通过这种方式消除病毒。<br>"
+    content: "[微天下](https://weibo.com/1893801487/IxZg8lZ24)：当地时间9日，在印度传统庆祝活动上，孟买的民众当街烧毁一个约15米高的新冠病毒塑像。当地民众用一个带火的“注射器插到“病毒”上。民众希望通过这种方式消除病毒。<br>"
   - item_name: news
     content: "BNO Newsroom：为预防新冠肺炎疫情扩散，卡塔尔宣布关闭所有学校，恢复日期将另行通知。<br>"
 
@@ -2367,7 +2373,7 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisBmJjB67QjGaHtnbXBv5200309&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间9日，文莱宣布确诊首例新冠肺炎病例。根据文莱政府通告，首名患者是一位53岁文莱公民，曾于3月3日从马来西亚吉隆坡回国，同行者还包括另外3名友人。通告表示，该名患者目前情况稳定。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/09/ARTIsBmJjB67QjGaHtnbXBv5200309.shtml)：当地时间9日，文莱宣布确诊首例新冠肺炎病例。根据文莱政府通告，首名患者是一位53岁文莱公民，曾于3月3日从马来西亚吉隆坡回国，同行者还包括另外3名友人。通告表示，该名患者目前情况稳定。<br>"
   - item_name: news
     content: "[人民日报](https://m.weibo.cn/2803301701/4480858557995162)：据蒙古国家通讯社10日报道，蒙古国紧急情况委员会主席、副总理恩赫图布辛在今晨6时召开会议上说，蒙古国确诊首例新冠肺炎病例。该患者为3月2日乘莫斯科至乌兰巴托航班抵达蒙古国的法国公民。<br>"
   - item_name: news
@@ -2382,7 +2388,7 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[财新网](https://weibo.com/1642088277/Iy5utfpQN?refer_flag=1001030103_&type=comment&sudaref=moe.covid-19.wtf&display=0&retcode=6102)：湖北潜江取消26号通告，全市继续实行严格交通管制、人员管控，坚决打赢疫情防控人民战争、总体战、阻击战。<br>"
+    content: "[财新网](https://weibo.com/1642088277/Iy5utfpQN)：湖北潜江取消26号通告，全市继续实行严格交通管制、人员管控，坚决打赢疫情防控人民战争、总体战、阻击战。<br>"
   - item_name: news
     content: "下午，武汉钢都花园园林社区为居民运送集中购买的平价肉过程中，使用一辆垃圾车运送了1000份，其中530份已发放。当天晚上，钢都花园管委会通过[微博幸运钢都](https://github.com/Pratitya/wuhan2020-timeline/issues/155#issue-579654332)发布致歉信，承认没有严格落实食品清洁运输的有关要求，对居民群众的身心健康造成了不良影响。<br>"
   - item_name: news
@@ -2406,7 +2412,7 @@
   - item_name: news
     content: "[CNBC](https://www.cnbc.com/2020/03/09/new-york-is-making-hand-sanitizer-with-prison-labor.html)：纽约州州长安德鲁·库莫（Andrew Cuomo）于3月9日在新闻发布会上介绍了洗手液“New York State Clean”。他们试图通过利用监狱劳工生产洗手液来解决短缺问题。<br>"
   - item_name: news
-    content: "[Reuters](https://uk.reuters.com/article/uk-health-coronavirus-poland-military/top-polish-general-has-coronavirus-defence-ministry-idUKKBN20X1YH?il=0)：当地时间3月10日，波兰国防部称波兰武装部队总司令雅罗斯瓦夫·米卡（Jarosław Mika）确诊感染新冠肺炎。军方发言人称，米卡近日在德国参加军事会议，与会人员包括北约各欧洲成员国陆军指挥官，回到波兰不久后收到提醒，称一名与会人员确诊感染了新冠肺炎，随后在3月9日米卡被确诊。目前米卡病情稳定，正在医院接受隔离治疗。<br>"
+    content: "[Reuters](https://uk.reuters.com/article/uk-health-coronavirus-poland-military/top-polish-general-has-coronavirus-defence-ministry-idUKKBN20X1YH)：当地时间3月10日，波兰国防部称波兰武装部队总司令雅罗斯瓦夫·米卡（Jarosław Mika）确诊感染新冠肺炎。军方发言人称，米卡近日在德国参加军事会议，与会人员包括北约各欧洲成员国陆军指挥官，回到波兰不久后收到提醒，称一名与会人员确诊感染了新冠肺炎，随后在3月9日米卡被确诊。目前米卡病情稳定，正在医院接受隔离治疗。<br>"
   - item_name: news
     content: "[brusselstimes](https://www.brusselstimes.com/all-news/business/99697/council-of-state-scraps-27-export-licences-for-arms-to-saudi-arabia-humanitarian-law-civil-war-yemen-fn-herstal-mecar/)：比利时通报首例新冠肺炎死亡病例，患者90岁。<br>"
   - item_name: news
@@ -2419,13 +2425,13 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[青山政务](https://weibo.com/2758671832/IyafB0nrL?type=comment)：3月11日17时许，网上反映青山区钢都管委会使用环卫车辆为居民运送集中购买平价肉的情况。经初步了解，钢都管委会使用环卫车辆运送1000份平价肉，已向居民发放530份。发现此事后，钢都管委会向居民发出道歉信，成立6个工作组上门致歉，收回已发放的平价肉，并保证明天上午将同等份量的平价肉安全清洁地送到居民家中。据此，青山区纪委监委研究，并报区委批准，决定对钢都管委会党委书记徐增堂，党委委员、管委会副主任周磊予以免职，并立案审查，对青山区副区长骆蓉党纪立案审查。<br>"
+    content: "[青山政务](https://weibo.com/2758671832/IyafB0nrL)：3月11日17时许，网上反映青山区钢都管委会使用环卫车辆为居民运送集中购买平价肉的情况。经初步了解，钢都管委会使用环卫车辆运送1000份平价肉，已向居民发放530份。发现此事后，钢都管委会向居民发出道歉信，成立6个工作组上门致歉，收回已发放的平价肉，并保证明天上午将同等份量的平价肉安全清洁地送到居民家中。据此，青山区纪委监委研究，并报区委批准，决定对钢都管委会党委书记徐增堂，党委委员、管委会副主任周磊予以免职，并立案审查，对青山区副区长骆蓉党纪立案审查。<br>"
   - item_name: news
     content: "晚上，[网传](https://github.com/Pratitya/wuhan2020-timeline/issues/156#issue-580331278)湖北省孝感应城市海山物业和业委会不作为，举报向业主提供平价蔬菜的志愿者导致其被警察抓走，只准业主购买物业和超市联合卖的高价蔬菜。当晚引起群众强烈不满，围住警车要求释放志愿者。事后[孝感发布](https://weibo.com/1642512402/Iyn4XAzDT?ref=collection)通报《关于应城市海山小区人员聚集的情况说明》：3月12日19:30左右，应城市海山小区约100人在小区篮球场聚集，经现场劝阻，20：00时左右自行散去。经查，海山小区共3689户、8012人。疫情防控期间，海山小区实行全封闭管理，并同步推行居民生活日用物资统一代购配送服务，由社区组织物业实施，严禁他人私自售卖生活物资。3月12日，业主程某以爱心菜的名义，联系商家到小区售卖蔬菜，被小区物业阻止并报警，防控巡逻队赶赴现场处置时，导致小区居民围观。事发后，相关市领导迅速赶到现场处置，人员随即散去，小区恢复正常。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "[央视新闻](https://weibo.com/2656274875/Iyf84EwOS?type=comment#_rnd1583984257530)：福建泉州欣佳酒店楼体坍塌事故中最后一名受困者被找到，但已无生命体征。7日晚，福建泉州市鲤城区南环路欣佳酒店发生楼体坍塌事故，71人被困。目前，71人全部被找到，泉州欣佳酒店坍塌致29人死亡。<br>"
+    content: "[央视新闻](https://weibo.com/2656274875/Iyf84EwOS)：福建泉州欣佳酒店楼体坍塌事故中最后一名受困者被找到，但已无生命体征。7日晚，福建泉州市鲤城区南环路欣佳酒店发生楼体坍塌事故，71人被困。目前，71人全部被找到，泉州欣佳酒店坍塌致29人死亡。<br>"
   - item_name: news
     content: "[人民日报](https://weibo.com/2803301701/IyeUohPsO)：江西省11个设区市100个县（市、区）住院确诊病例全部清零。目前江西省无新增新冠肺炎确诊病例、无疑似病例、无住院确诊病例。从3月12日9时起，江西省对应急响应级别进行调整，全省由重大突发公共卫生事件省级一级响应调整为省级二级响应。<br>"
   - item_name: group
@@ -2437,7 +2443,7 @@
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-cuba-confirmed/cuba-confirms-first-coronavirus-cases-urges-citizens-to-make-own-masks-idUSKBN20Z04G)：古巴首次报告3例新冠肺炎确诊病例 均来自意大利。<br>"
   - item_name: news
-    content: "[NBA](https://twitter.com/NBA/status/1237917831506857989?s=20)：NBA宣布暂停本赛季的比赛。<br>"
+    content: "[NBA](https://twitter.com/NBA/status/1237917831506857989)：NBA宣布暂停本赛季的比赛。<br>"
   - item_name: news
     content: "[CNN](https://edition.cnn.com/2020/03/11/politics/donald-trump-coronavirus-statement/index.html)：美国禁止欧洲除英国以外的国家入境。具体实施细则尚不明确。<br>"
   - item_name: news
@@ -2458,11 +2464,11 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[梨视频](https://weibo.com/6004281123/Iyt7BDs5Y?refer_flag=1001030103_&type=comment)：湖北潜江第29号关于企业复工复产、人员安全流动的通告称，潜江于当晚8时许撤除市域内所有内设交通管控点，恢复正常交通秩序。许多潜江市民放起烟花鞭炮庆祝“解封”。一市民说，可以上班了，感觉自由了。<br>"
+    content: "[梨视频](https://weibo.com/6004281123/Iyt7BDs5Y)：湖北潜江第29号关于企业复工复产、人员安全流动的通告称，潜江于当晚8时许撤除市域内所有内设交通管控点，恢复正常交通秩序。许多潜江市民放起烟花鞭炮庆祝“解封”。一市民说，可以上班了，感觉自由了。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "[央视新闻](https://weibo.com/2656274875/IywKN4lUG?refer_flag=1001030103_&type=comment)：教育部应对疫情工作领导小组王登峰接受白岩松访谈表示：大学生开学涉及相当多跨省流动的学生，如果加上中小学，整个学校开学就是3个多亿的人口在全国范围内流动。在中小学基本开学或者疫情得到更进一步控制的前提下，再考虑大学的开学。<br>"
+    content: "[央视新闻](https://weibo.com/2656274875/IywKN4lUG)：教育部应对疫情工作领导小组王登峰接受白岩松访谈表示：大学生开学涉及相当多跨省流动的学生，如果加上中小学，整个学校开学就是3个多亿的人口在全国范围内流动。在中小学基本开学或者疫情得到更进一步控制的前提下，再考虑大学的开学。<br>"
   - item_name: news
     content: "[央视网](https://www.sohu.com/a/379755588_428290)：国务院福建省泉州市欣佳酒店“3·7”坍塌事故调查组第一次全体会议在福建泉州召开，国务院安委会办公室副主任、事故调查组组长付建华主持。付建华指出，据初步调查，该项目未履行基本建设程序，无规划和施工许可，存在非法建设、违规改造等严重问题，特别是房屋业主发现房屋基础沉降和承重柱变形等重大事故前兆，仍然心存侥幸、继续违规冒险经营；地方相关职能部门监管不到位、“打非治违”流于形式，导致安全关卡层层失效，最终酿成惨烈事故。<br>"
   - item_name: news
@@ -2484,7 +2490,7 @@
   - item_name: news
     content: "[阿森纳](https://www.arsenal.com/news/club-statement-covid-19)主教练米克尔·阿尔特塔（Mikel Arteta）新冠检测呈阳性。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7dWFLdEQ3okEIEXf82uN200313&fromapp=cctvnews&version=803&version=803&allow_comment=1)：西非国家加纳卫生部当地时间3月12日发布消息称，根据加纳野口纪念医学研究所的检测结果，该国出现两例新冠病毒检测呈阳性的病例。病人国籍并未披露，两人于近日分别从挪威和土耳其来到加纳，现已被隔离，情况稳定。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/13/ARTI7dWFLdEQ3okEIEXf82uN200313.shtml)：西非国家加纳卫生部当地时间3月12日发布消息称，根据加纳野口纪念医学研究所的检测结果，该国出现两例新冠病毒检测呈阳性的病例。病人国籍并未披露，两人于近日分别从挪威和土耳其来到加纳，现已被隔离，情况稳定。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/brief-wife-of-canada-pm-trudeau-tested-p-idUSL1N2B603S)：加拿大总理夫人苏菲·格雷戈瓦·杜鲁多（Sophie Grégoire Trudeau）新冠病毒检测结果呈阳性。<br>"
   - item_name: news
@@ -2494,7 +2500,7 @@
   - item_name: news
     content: "[alarabiya](https://english.alarabiya.net/en/News/world/2020/03/13/First-coronavirus-case-in-Kenya-confirmed.html)：东非国家肯尼亚确诊首例新冠肺炎病例。患者是一名肯尼亚妇女，她于3月5日从美国经伦敦返回肯尼亚首都内罗毕。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fCjZzF0hXFo6XPuTnhl200313&fromapp=cctvnews&version=803&version=803&allow_comment=1)：苏丹确认首例新冠肺炎病例。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/13/ARTI1fCjZzF0hXFo6XPuTnhl200313.shtml)：苏丹确认首例新冠肺炎病例。<br>"
 
 - date: 2020年3月14日
   items:
@@ -2509,7 +2515,7 @@
   - item_name: news
     content: "[北京卫健委](http://wjw.beijing.gov.cn/wjwh/ztzl/xxgzbd/gzbdyqtb/202003/t20200314_1706148.html)：北京3月13日新增确诊1例（境外输入），新增疑似5例（4例境外输入），新增出院7例，累计确诊437例，累计出院 349 例，累计死亡8例，现存疑似32例，现存医观466例。<br>"
   - item_name: news
-    content: "[微博梁钰stacey](https://weibo.com/1306934677/IyC7DjdbY?from=page_1005051306934677_profile&wvr=6&mod=weibotime&type=comment#_rnd1584326459038)反映，她挂靠在灵山慈善基金会发起“姐妹战疫安心行动”公益项目，给武汉一线医务工作者捐女性用安心裤，和自己的志愿者团队工作一个多月。但2月14日全国妇联（微博女性之声）把她的事迹当作自己的工作成果发了微信公众号，海报亦直接盗用。<br>"
+    content: "[微博梁钰stacey](https://weibo.com/1306934677/IyC7DjdbY)反映，她挂靠在灵山慈善基金会发起“姐妹战疫安心行动”公益项目，给武汉一线医务工作者捐女性用安心裤，和自己的志愿者团队工作一个多月。但2月14日全国妇联（微博女性之声）把她的事迹当作自己的工作成果发了微信公众号，海报亦直接盗用。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -2531,9 +2537,9 @@
   - item_name: news
     content: "[aljazeera](https://www.aljazeera.com/news/2020/03/venezuela-confirms-coronavirus-cases-suspends-school-200313151700203.html)：委内瑞拉首次报告确诊2例新冠肺炎病例。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti94gRgWVBPGvUPTCrXZs7200314&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间13日，南美洲北部国家苏里南副总统阿斯温·阿德欣宣布该国确认首例新冠肺炎确诊病例。该名患者此前曾有荷兰旅行史。该国将关闭边境和机场。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/14/ARTI94gRgWVBPGvUPTCrXZs7200314.shtml)：当地时间13日，南美洲北部国家苏里南副总统阿斯温·阿德欣宣布该国确认首例新冠肺炎确诊病例。该名患者此前曾有荷兰旅行史。该国将关闭边境和机场。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqARSakq9Vlr9dApC5bia200314&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间13日，加勒比岛国安提瓜和巴布达政府宣布，该国确诊首例新冠肺炎病例。安巴总理布朗表示，这是一起输入性病例，患者为一名女性，10日从英国前往安巴探亲，11日出现相关症状，确诊后患者隔离在家接受治疗。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/14/ARTIqARSakq9Vlr9dApC5bia200314.shtml)：当地时间13日，加勒比岛国安提瓜和巴布达政府宣布，该国确诊首例新冠肺炎病例。安巴总理布朗表示，这是一起输入性病例，患者为一名女性，10日从英国前往安巴探亲，11日出现相关症状，确诊后患者隔离在家接受治疗。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-kosovo-idUSKBN21039A)：科索沃首次报告确诊2例新冠肺炎病例 均是意大利输入病例。<br>"
   - item_name: news
@@ -2541,7 +2547,7 @@
   - item_name: news
     content: "[ewn.co](https://ewn.co.za/2020/03/14/eswatini-reports-first-confirmed-case-of-coronavirus)：非洲南部内陆国斯威士兰确诊首例新冠肺炎病例，此前从美国返回。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SPpDDt3F16Ih47kQULE200314&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月14日，卢旺达卫生部在社交媒体账号上发布通报，该国确诊首例新冠肺炎病例。患者是一名来自孟买的 #印度 人，3月8日到达卢旺达，抵达时无症状。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/14/ARTI2SPpDDt3F16Ih47kQULE200314.shtml)：当地时间3月14日，卢旺达卫生部在社交媒体账号上发布通报，该国确诊首例新冠肺炎病例。患者是一名来自孟买的 #印度 人，3月8日到达卢旺达，抵达时无症状。<br>"
   - item_name: news
     content: "[新华社](http://www.xinhuanet.com/2020-03/14/c_1125712901.htm)：非洲西南部国家纳米比亚14日宣布，首次确诊两例新冠肺炎病例，均为输入性病例。卫生部长卡伦比·尚加拉确认，13日晚检测结果显示，两名来自西班牙的游客感染了新冠肺炎。两名游客是从西班牙马德里出发，经卡塔尔多哈中转，11日抵达纳米比亚。<br>"
   - item_name: news
@@ -2564,7 +2570,7 @@
   - item_name: news
     content: "[北京日报](https://weibo.com/1893892941/IyJp6FJ2Y)：下午，在北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，北京市疾控中心副主任庞星火通报了3月14日5例境外输入新型冠状病毒肺炎确诊病例的流行病学调查情况。3月14日，北京市新增5例境外输入新型冠状病毒肺炎确诊病例，其中西班牙3例，意大利1例，泰国1例。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEGNaZkikR7EpiG9c2wju200315&fromapp=cctvnews&version=803&version=803&allow_comment=1)：自2020年3月15日18时起，安徽将新型冠状病毒肺炎疫情防控应急响应级别由省级二级响应调整为省级三级响应。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/15/ARTIEGNaZkikR7EpiG9c2wju200315.shtml)：自2020年3月15日18时起，安徽将新型冠状病毒肺炎疫情防控应急响应级别由省级二级响应调整为省级三级响应。<br>"
   - item_name: news
     content: "[人民日报](https://weibo.com/2803301701/IyLpwu6YI)：3月15日，北京市新增1例泰国境外输入病例。经查，王某某，女，31岁。2月23日，该病例未向社区报备私自去泰国旅游。自泰国返京后未按规定主动向社区报备，隐瞒行踪，没有按要求自觉落实好居家隔离措施。<br>"
   - item_name: group
@@ -2605,11 +2611,11 @@
   - item_name: news
     content: "[loopnewsbarbados](http://www.loopnewsbarbados.com/content/bahamas-first-confirmed-coronavirus-patient-has-no-travel-history)：大西洋西岸岛国巴哈马确诊首例新冠肺炎病例。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7CE5SuTW6SSU5W9bzRz200316&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月16日，利比里亚卫生部官方消息：确诊首例新冠肺炎患者。根据政府新闻稿，该患者是环境保护局局长纳撒尼尔·布拉马（Nathaniel Blama），他于当地时间3月13日星期五从瑞士返回利比里亚家中。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/16/ARTIH7CE5SuTW6SSU5W9bzRz200316.shtml)：当地时间3月16日，利比里亚卫生部官方消息：确诊首例新冠肺炎患者。根据政府新闻稿，该患者是环境保护局局长纳撒尼尔·布拉马（Nathaniel Blama），他于当地时间3月13日星期五从瑞士返回利比里亚家中。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Hj5NbQGtWMuIem7pJkL200316&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月16日下午2时30分，坦桑尼亚卫生部召开新闻发布会，宣布确诊了坦桑尼亚第一例新冠肺炎病例。首例患者是一名46岁女性，为坦桑尼亚公民，有比利时、丹麦和瑞典的旅行史。目前隔离在阿鲁沙。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/16/ARTI9Hj5NbQGtWMuIem7pJkL200316.shtml)：当地时间3月16日下午2时30分，坦桑尼亚卫生部召开新闻发布会，宣布确诊了坦桑尼亚第一例新冠肺炎病例。首例患者是一名46岁女性，为坦桑尼亚公民，有比利时、丹麦和瑞典的旅行史。目前隔离在阿鲁沙。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2TdeXTmZ0xj4d0iv9Oj6200316&fromapp=cctvnews&version=803&version=803&allow_comment=1)：当地时间3月16日，索马里卫生部发表消息称，于上周从中国返回的一名索马里人在新冠病毒检测中呈阳性，成为该国首例确诊病例。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/16/ARTI2TdeXTmZ0xj4d0iv9Oj6200316.shtml)：当地时间3月16日，索马里卫生部发表消息称，于上周从中国返回的一名索马里人在新冠病毒检测中呈阳性，成为该国首例确诊病例。<br>"
   - item_name: news
     content: "丹麦属地[格陵兰岛](https://visitgreenland.com/articles/corona-virus-status/)确诊首例新冠肺炎病例。<br>"
   - item_name: news
@@ -2666,7 +2672,7 @@
   - item_name: news
     content: "19时许，新华社发布国家监委调查组[《关于群众反映的涉及李文亮医生有关情况调查的通报》](http://www.ccdi.gov.cn/toutiao/202003/t20200319_213880.html)，交待了李文亮医生基本情况和转发、发布有关微信信息的背景、接受公安机关谈话、训诫和医院谈话、发病、治疗、抢救情况的过程。并表明，由于中南路派出所出具训诫书不当，执法程序不规范，调查组已建议湖北省武汉市监察机关对此事进行监督纠正，督促公安机关撤销训诫书并追究有关人员责任，及时向社会公布处理结果。<br>"
   - item_name: news
-    content: "同时，新华社发布[《国家监委调查组负责人答记者问》](https://baijiahao.baidu.com/s?id=1661593507575013144&wfr=spider&for=pc)，称“值得注意的是，一些敌对势力为了攻击中国共产党和中国政府，给李文亮医生贴上了对抗体制的‘英雄’‘觉醒者’等标签。这是完全不符合事实的。李文亮是共产党员，不是所谓的‘反体制人物’。那些别有用心的势力想煽风点火、蛊惑人心、挑动社会情绪，注定不会得逞。”<br>"
+    content: "同时，新华社发布[《国家监委调查组负责人答记者问》](https://baijiahao.baidu.com/s?id=1661593507575013144)，称“值得注意的是，一些敌对势力为了攻击中国共产党和中国政府，给李文亮医生贴上了对抗体制的‘英雄’‘觉醒者’等标签。这是完全不符合事实的。李文亮是共产党员，不是所谓的‘反体制人物’。那些别有用心的势力想煽风点火、蛊惑人心、挑动社会情绪，注定不会得逞。”<br>"
   - item_name: news
     content: "[平安武汉](https://weibo.com/2418542712/IznfAaPo0)：武汉市公安局对李文亮医生被训诫一案相关责任人作出如下处理：武昌区公安分局中南路街中南路派出所副所长杨力，安排民警对李文亮训诫，给予其行政记过处分；武昌区公安分局中南路街中南路派出所民警胡桂芳，执法程序不规范，违规出具训诫书，给予其行政警告处分。<br>"
   - item_name: group
@@ -2676,11 +2682,11 @@
   - item_name: news
     content: "[新京报](https://weibo.com/1644114654/IzlZsbQTf)：北京五部委联合发布《关于目的地为北京的国际客运航班有关事宜的公告》，决定调整目的地为北京的部分国际航班从指定第一入境点入境。《公告》称，将调整部分国际始发客运航班从指定第一入境点入境：北京时间3月20日莫斯科至北京CA910航班、3月22日巴黎至北京CA934航班第一入境点为天津；3月20—22日东京至北京CA926航班第一入境点为呼和浩特；3月21—22日多伦多至北京HU7976航班第一入境点为太原。<br>"
   - item_name: news
-    content: "[台湾卫生福利部疾病管制署](http://at.cdc.tw/t0512C)：台湾新增确诊23例，累计确诊100例，累计治愈22例，累计病亡1例。<br>"
+    content: "[台湾卫生福利部疾病管制署](https://www.cdc.gov.tw/Bulletin/Detail/Rq9JGMz92FFWfCJUVr_-sw?typeid=9)：台湾新增确诊23例，累计确诊100例，累计治愈22例，累计病亡1例。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "美国众议院佛罗里达第25选区共和党议员[Mario Díaz-Balart](https://twitter.com/MarioDB/status/1240409251471937537?s=20)和犹他第4选区共和党议员 Ben McAdams 确诊。其中，Díaz-Balart为美国首例确诊COVID-19的国会议员。<br>"
+    content: "美国众议院佛罗里达第25选区共和党议员[Mario Díaz-Balart](https://twitter.com/MarioDB/status/1240409251471937537)和犹他第4选区共和党议员 Ben McAdams 确诊。其中，Díaz-Balart为美国首例确诊COVID-19的国会议员。<br>"
   - item_name: news
     content: "[fbcnews](https://www.fbcnews.com.fj/news/covid-19/fiji-has-first-confirmed-case-of-covid-19/)：西南太平洋岛国斐济确诊首例新冠肺炎病例。<br>"
   - item_name: news
@@ -2690,7 +2696,7 @@
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-el-salvador-idUSKBN2160CF)：中美洲北部萨尔瓦多确诊首例新冠肺炎病例，该患者曾前往意大利。<br>"
   - item_name: news
-    content: "[联合早报](https://www.zaobao.com/realtime/world/story20200319-1038392?utm_source=telegram)：马来西亚已检测4986名宗教大集会出席者，513个呈阳性反应。<br>"
+    content: "[联合早报](https://www.zaobao.com/realtime/world/story20200319-1038392)：马来西亚已检测4986名宗教大集会出席者，513个呈阳性反应。<br>"
   - item_name: news
     content: "[theguardian](https://www.theguardian.com/world/2020/mar/19/new-zealand-closes-borders-to-foreigners-amid-coronavirus-crisis)：澳大利亚总理莫里森宣布，从20日晚9点起，对所有非澳大利亚公民和非永久居民执行旅行禁令，只有公民、永久居民与其直系亲属可以入境。新西兰总理杰欣达·阿德恩19日下午宣布，为遏制新冠肺炎传播，将禁止所有除新西兰公民、新西兰永久居民及其直系亲属以外的人士进入该国。禁令将在19日午夜生效。<br>"
   - item_name: news
@@ -2698,9 +2704,9 @@
   - item_name: news
     content: "[CNN](https://edition.cnn.com/2020/03/19/europe/prince-albert-monaco-coronavirus-intl-scli/index.html)：摩纳哥亲王阿尔贝二世新冠肺炎检测呈阳性。<br>"
   - item_name: news
-    content: "根据美国约翰斯·霍普金斯大学数据，截至当地时间3月19日凌晨，德国累计确诊新冠肺炎病例12327例，成为全球第5个确诊人数破万国家。德国总理默克尔当地时间18日晚发表[电视讲话](https://weibo.com/2868676035/IzkUoACRH?ref=collection&type=comment)，称新冠疫情是德国二战以来面临的最大挑战。这是默克尔担任德国总理15年以来，除了新年致辞之外，首次在电视上对德国民众发表讲话。<br>"
+    content: "根据美国约翰斯·霍普金斯大学数据，截至当地时间3月19日凌晨，德国累计确诊新冠肺炎病例12327例，成为全球第5个确诊人数破万国家。德国总理默克尔当地时间18日晚发表[电视讲话](https://weibo.com/2868676035/IzkUoACRH)，称新冠疫情是德国二战以来面临的最大挑战。这是默克尔担任德国总理15年以来，除了新年致辞之外，首次在电视上对德国民众发表讲话。<br>"
   - item_name: news
-    content: "[红星新闻](https://weibo.com/6105713761/IznakwJk4?ref=collection&type=comment#_rnd1584667655698)：综合韩国媒体报道，近日，韩国出现一例非常罕见的急性肺炎死亡病例。死者是1名17岁的高中生，从3月13日到17日共接受8次新冠病毒检测，前7次检测结果都为阴性，第8次检查时却出现部分阳性反应。由于这名高中生已于18日上午死亡，韩国疾病管理本部将对他进行最终的检查。如果他被确诊是新冠病毒的感染者，他将成为韩国首个因感染新冠病毒不幸去世的未成年人，还将是韩国首个无基础病的新冠病毒死亡病例。<br>"
+    content: "[红星新闻](https://weibo.com/6105713761/IznakwJk4)：综合韩国媒体报道，近日，韩国出现一例非常罕见的急性肺炎死亡病例。死者是1名17岁的高中生，从3月13日到17日共接受8次新冠病毒检测，前7次检测结果都为阴性，第8次检查时却出现部分阳性反应。由于这名高中生已于18日上午死亡，韩国疾病管理本部将对他进行最终的检查。如果他被确诊是新冠病毒的感染者，他将成为韩国首个因感染新冠病毒不幸去世的未成年人，还将是韩国首个无基础病的新冠病毒死亡病例。<br>"
 
 - date: 2020年3月20日
   items:
@@ -2715,11 +2721,11 @@
   - item_name: news
     content: "[香港政府新聞網](https://www.news.gov.hk/chi/2020/03/20200319/20200319_204254_869.html?type=ticker)：香港漁農自然護理署表示，一隻德國狼狗對2019冠狀病毒的反覆測試呈陽性反應，还强调現時沒有證據顯示寵物會傳播2019冠狀病毒病給人類，或因此生病。畜養人應時常保持良好衞生習慣，在任何情況下絕不應棄養寵物。<br>"
   - item_name: news
-    content: "[邢台发布](https://weibo.com/3899427856/IzvN0iVmn?type=comment)：昨日一条关于从美国入境人员感染新冠肺炎的消息在我市传播，经调查3月19日上午我市处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午9点40分我市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性（在沈阳海关对其采样做检测），要求该人在邢台东站下车，并由我市稳控收治。<br>"
+    content: "[邢台发布](https://weibo.com/3899427856/IzvN0iVmn)：昨日一条关于从美国入境人员感染新冠肺炎的消息在我市传播，经调查3月19日上午我市处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午9点40分我市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性（在沈阳海关对其采样做检测），要求该人在邢台东站下车，并由我市稳控收治。<br>"
   - item_name: news
     content: "[新京报](http://www.bjnews.com.cn/news/2020/03/19/706045.html)：河南焦作新增1例境外返回无症状感染者，2次检测均为阳性，未认定确诊病例。<br>"
   - item_name: news
-    content: "[新京报](https://weibo.com/1323527941/IzMGti1W4?ref=collection&type=comment)：黑龙江省五大连池市青山胡同疫情防控点，一名老人因扫健康码问题与疫情防控人员发生冲突。现场视频显示，老人称自己的手机无法扫码，随后双方发生肢体冲突，老人面部受伤流血。3月22日，青山街道办回应称此涉事人员不是街道办工作人员，“是各单位驻守的卡口”。<br>"
+    content: "[新京报](https://weibo.com/1323527941/IzMGti1W4)：黑龙江省五大连池市青山胡同疫情防控点，一名老人因扫健康码问题与疫情防控人员发生冲突。现场视频显示，老人称自己的手机无法扫码，随后双方发生肢体冲突，老人面部受伤流血。3月22日，青山街道办回应称此涉事人员不是街道办工作人员，“是各单位驻守的卡口”。<br>"
   - item_name: news
     content: "[人民日报](https://weibo.com/2803301701/Izxlfsd8J)：20日晚，河北省邢台市发布通告称，19日上午处置一名从美国返境后乘坐高铁在我市下车的河南许昌人刘某某。当日上午市疫情防控领导小组办公室接到市疾控中心报告，北京铁路局防控办通知我市疾控中心，北京西开往福田的G71次列车3车厢有一河南籍乘客刘某某（目的地是河南许昌）核酸检测呈阳性，要求该人在邢台东站下车，并由我市稳控收治。<br>"
   - item_name: group
@@ -2750,9 +2756,9 @@
   - item_name: news
     content: "来自武汉的一位一线医生向[健康时报](https://weibo.com/1411163204/IzuzCuE6K)记者反映，“我在门诊遇到了一家三口新冠肺炎治愈患者全部‘复阳’的病例，且这一家三口中的一位70岁的老人病情较之前反而更加严重了。”复阳也即治愈的患者，出现了病情反复的情况，专家解读：可能存在“假治愈”情况。<br>"
   - item_name: news
-    content: "[三联生活周刊](https://weibo.com/1191965271/IzOQq3wpb?ref=collection&type=comment):麻醉医生董天在湖北枝江抗疫前线，因脑血管意外不幸离世，年仅29岁。董天2014年毕业于皖南医学院，随后在该院麻醉科工作。据悉，他已在抗疫一线工作35天，目前遗体被送回湖北当阳。<br>"
+    content: "[三联生活周刊](https://weibo.com/1191965271/IzOQq3wpb):麻醉医生董天在湖北枝江抗疫前线，因脑血管意外不幸离世，年仅29岁。董天2014年毕业于皖南医学院，随后在该院麻醉科工作。据悉，他已在抗疫一线工作35天，目前遗体被送回湖北当阳。<br>"
   - item_name: news
-    content: "[财新网 · 特稿·核酸阴性抗体阳性 确诊名单外的武汉医护人员](https://m.caixin.com/m/2020-03-21/101532088.html?cx_referer=http://www.caixin.com/2020-03-21/101532088.html)<br>"
+    content: "[财新网 · 特稿·核酸阴性抗体阳性 确诊名单外的武汉医护人员](http://www.caixin.com/2020-03-21/101532088.html)<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -2809,7 +2815,7 @@
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-eritrea-idUSKBN2180XU)：厄立特里亚确诊首例新冠肺炎病例为挪威输入。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil2z1qxgUObmAuJ78tx9s200322&fromapp=cctvnews&version=804&version=804&allow_comment=1)：东非国家乌干达确诊首例新冠肺炎病例。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/22/ARTIl2z1qxgUObmAuJ78tx9s200322.shtml)：东非国家乌干达确诊首例新冠肺炎病例。<br>"
   - item_name: news
     content: "[联合早报](https://www.zaobao.com/realtime/singapore/story20200322-1039165)：短期访客明晚午夜（3月23日24点）起不得入境新加坡或过境。<br>"
   - item_name: news
@@ -2822,23 +2828,23 @@
   - item_name: news
     content: "[财新网](http://www.caixin.com/2020-03-23/101532573.html)：截至3月22日，湖北省已经连续四天新增病例零增长。各省份派出的援鄂医疗队自3月17日开始撤离，截至3月20日已经撤离1.2万人。但另一支援助队伍却没能和医疗队同时离开。这支队伍是来自各地疾控部门的防控人员，离鄂工作暂缓。<br>"
   - item_name: news
-    content: "[湖北日报](https://weibo.com/2827102952/IzXgqpeu3?sudaref=moe.covid-19.wtf&display=0&retcode=6102&type=comment#_rnd1585016627876)：3月1日至22日，襄阳累计接纳境外返襄入襄人员219人，按要求对所有返襄入襄人员进行了核酸检测，除1例核酸检测呈弱阳性反应外，其他人员未发现异常。<br>"
+    content: "[湖北日报](https://weibo.com/2827102952/IzXgqpeu3)：3月1日至22日，襄阳累计接纳境外返襄入襄人员219人，按要求对所有返襄入襄人员进行了核酸检测，除1例核酸检测呈弱阳性反应外，其他人员未发现异常。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
     content: "[广东省政府新闻办](https://weibo.com/2803301701/IzX0tq6PI)举行发布会，对于第127届广交会将延后举行的传言，省商务厅副厅长马桦表示，考虑目前全球疫情发展态势，特别是境外疫情输入风险较高，第127届春季广交会确定不会在4月15日如期举办。<br>"
   - item_name: news
-    content: "[江苏省](https://weibo.com/1746067030/IzYD4Fmqy?type=comment#_rnd1585016680229)自3月23日起对所有入境人员采取集中医学观察14天措施（条件不允许的可实施居家医学观察）。<br>"
+    content: "[江苏省](https://weibo.com/1746067030/IzYD4Fmqy)自3月23日起对所有入境人员采取集中医学观察14天措施（条件不允许的可实施居家医学观察）。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/health-coronavirus-mozambique-idUSL8N2BF0PT)：南非国家莫桑比克确诊首例新冠肺炎病例，该患者最近从英国返回。<br>"
   - item_name: news
-    content: "美国肯塔基州共和党参议员[Rand Paul](https://twitter.com/RandPaul/status/1241780756617273345?s=19)确诊COVID-19。他是美国首例确诊COVID-19的参议员。<br>"
+    content: "美国肯塔基州共和党参议员[Rand Paul](https://twitter.com/RandPaul/status/1241780756617273345)确诊COVID-19。他是美国首例确诊COVID-19的参议员。<br>"
   - item_name: news
     content: "为应对纽约当前疫情，美国陆军工程兵团在经过几天的调研后确定了四处可能的临时医院建设地点。这四个地点分别为Javits会展中心、Westchester会展中心、Stony Brook州立大学和Old Wesrbury州立大学。在得到[纽约州](https://www.governor.ny.gov/news/governor-cuomo-announces-four-sites-identified-army-corps-engineers-initial-list-temporary)州长的最终批复后，美国陆军将立即开始临时医院的建设工作。<br>"
   - item_name: news
-    content: "美国[路易斯安那州](https://gov.louisiana.gov/index.cfm/newsroom/detail/2427)、[俄亥俄州](https://twitter.com/GovMikeDeWine/status/1241814741313556486?s=20)、[特拉华州](https://apnews.com/0692f5c364f07045809a734775e1b260)相继发布所有居民如无必要禁止外出，非必要商户将关门停业。<br>"
+    content: "美国[路易斯安那州](https://gov.louisiana.gov/index.cfm/newsroom/detail/2427)、[俄亥俄州](https://twitter.com/GovMikeDeWine/status/1241814741313556486)、[特拉华州](https://apnews.com/0692f5c364f07045809a734775e1b260)相继发布所有居民如无必要禁止外出，非必要商户将关门停业。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-syria-idUSKBN21912A)：叙利亚确诊首例新冠肺炎病例为英国输入。<br>"
   - item_name: news
@@ -2865,7 +2871,7 @@
   - item_name: news
     content: "[BBN](https://www.breakingbelizenews.com/2020/03/23/belize-confirms-first-case-of-coronavirus-cuban-doctors-arriving-to-help/)：伯利兹确诊首例新冠肺炎病例此前从美国洛杉矶返回。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYOHGoGVtXSKjhF8572gA200324&fromapp=cctvnews&version=804&version=804&allow_comment=1)：缅甸首次报告确诊2例新冠肺炎病例分别为美国和英国输入。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/24/ARTIYOHGoGVtXSKjhF8572gA200324.shtml)：缅甸首次报告确诊2例新冠肺炎病例分别为美国和英国输入。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-olympics/tokyo-2020-games-will-be-postponed-says-ioc-member-dick-pound-idUSKBN21A097)：国际奥委会成员Dick Pound透漏东京2020奥运会可能会推迟一年。此前，[加拿大](https://apnews.com/1de6d0f74a9f0c1cf9a5096fc7c93926)、澳大利亚、英国都发表了不会派遣运动员参会的类似声明。<br>"
   - item_name: news
@@ -2873,7 +2879,7 @@
   - item_name: news
     content: "[bloomberg](https://www.bloomberg.com/news/articles/2020-03-24/egypt-imposes-nighttime-curfew-to-contain-coronavirus-outbreak)：埃及从周三开始实行为期2周（晚7点至早6点）的宵禁。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisFdzb9LYLJT3swJggYTy200324&fromapp=cctvnews&version=804&version=804&allow_comment=1)：当地时间3月24日，国际奥委会宣布，鉴于新冠肺炎感染患者数量急剧增加，国际奥委会需要在不同的状况下采取措施，在与东京奥组委、日本政府和东京都政府讨论后，完成疫情对奥运会冲击的评估，决定推迟东京奥运会至2021年夏天举行，延期后的奥运会名称仍保留“2020年东京奥运会和残奥会”。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/24/ARTIsFdzb9LYLJT3swJggYTy200324.shtml)：当地时间3月24日，国际奥委会宣布，鉴于新冠肺炎感染患者数量急剧增加，国际奥委会需要在不同的状况下采取措施，在与东京奥组委、日本政府和东京都政府讨论后，完成疫情对奥运会冲击的评估，决定推迟东京奥运会至2021年夏天举行，延期后的奥运会名称仍保留“2020年东京奥运会和残奥会”。<br>"
   - item_name: news
     content: "冰岛媒体称当地一名新冠肺炎患者被检测出体内存在两种新冠病毒，其中一种为原始病毒的变体，可能是全球首次“双重感染者”。冰岛deCODE基因公司在其体内仅发现变异后的病毒，这表明变异病毒可能更具传染性和杀伤力，但该公司CEO也表示这起病例有可能只是某种巧合。<br>"
 
@@ -2894,13 +2900,13 @@
   - item_name: news
     content: "[捷克内政部长声明](https://twitter.com/jhamacek/status/1240023726286163968?s=20)原本确定价格的60多万的口罩，老板最后提高价格，最后根据《紧急危机法》征用，并按照之前谈好的市场价格支付了CTE 公司（大股东系布拉格时报的周灵建）。仓库中捐赠给意大利华侨的口罩已经送往意大利。<br>"
   - item_name: news
-    content: "[哈佛大学](https://twitter.com/Harvard/status/1242494115159343105?s=20)校长Lawrence S.Bacow和其夫人Adele Fleet Bacow新冠检测呈阳性。<br>"
+    content: "[哈佛大学](https://twitter.com/Harvard/status/1242494115159343105)校长Lawrence S.Bacow和其夫人Adele Fleet Bacow新冠检测呈阳性。<br>"
   - item_name: news
     content: "[BBC](https://www.bbc.com/news/uk-52033845)：英国查尔斯王子新冠检测呈阳性。<br>"
   - item_name: news
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-mali-idUSKBN21C1EH)：西非内陆国马里首次报告确诊2例新冠肺炎病例从法国输入。<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNYOXFNGuQcGX2TS5zefa200325&fromapp=cctvnews&version=804&version=804&allow_comment=1)： 西非国家几内亚比绍首次报告确诊2例新冠肺炎病例。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/03/25/ARTINYOXFNGuQcGX2TS5zefa200325.shtml)： 西非国家几内亚比绍首次报告确诊2例新冠肺炎病例。<br>"
 
 - date: 2020年3月26日
   items:
@@ -2931,7 +2937,7 @@
   - item_name: news
     content: "[loopslu](http://www.loopslu.com/content/two-test-positive-coronavirus-st-kitts-nevis-5)：圣基茨和尼维斯首次报告确诊2例新冠肺炎病例 均有美国纽约旅行史。<br>"
   - item_name: news
-    content: "知名医学杂志《柳叶刀》主编理查德·霍顿在[BBC一档节目](https://weibo.com/1105989411/IBjyQsd5J?ref=collection&type=comment)上,猛批英国防疫措施是“国家丑闻”。他表示，一月底我们就已经看到了中国的情况，可是英国却浪费了整整一个二月份，这段时间本可以去加大检测力度，储备个人防护装备，可是都没有做，而如今英国的医务人员只能在缺乏防护装备的情况下上前线，这是个悲剧，是本可以避免的。<br>"
+    content: "知名医学杂志《柳叶刀》主编理查德·霍顿在[BBC一档节目](https://weibo.com/1105989411/IBjyQsd5J)上,猛批英国防疫措施是“国家丑闻”。他表示，一月底我们就已经看到了中国的情况，可是英国却浪费了整整一个二月份，这段时间本可以去加大检测力度，储备个人防护装备，可是都没有做，而如今英国的医务人员只能在缺乏防护装备的情况下上前线，这是个悲剧，是本可以避免的。<br>"
 
 - date: 2020年3月27日
   items:
@@ -2964,9 +2970,9 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "[央视新闻](https://weibo.com/2656274875/IAPbXDebJ?refer_flag=1001030103_&type=comment)：钟南山院士接受中国国际电视台记者田薇采访表示：关于中国国内“无症状感染者”的情况，目前了解得很有限：既没有具体数字，也未有详尽研究。但是根据已知的事实，也可以做出一些推断。比如：一般来说，无症状感染者对与其密切接触的人的传染率很高，但是中国近期新冠肺炎新确诊病例数不仅没有上升，反而在不断下降，这可以说明：中国还没有大量的“无症状感染者”。<br>"
+    content: "[央视新闻](https://weibo.com/2656274875/IAPbXDebJ)：钟南山院士接受中国国际电视台记者田薇采访表示：关于中国国内“无症状感染者”的情况，目前了解得很有限：既没有具体数字，也未有详尽研究。但是根据已知的事实，也可以做出一些推断。比如：一般来说，无症状感染者对与其密切接触的人的传染率很高，但是中国近期新冠肺炎新确诊病例数不仅没有上升，反而在不断下降，这可以说明：中国还没有大量的“无症状感染者”。<br>"
   - item_name: news
-    content: "[北京市人民检察院第二分院](https://weibo.com/1618051664/IAH4hoihL?ref=collection&type=comment#_rnd1585536237770)依法对犯罪嫌疑人郭某某以涉嫌故意伤害罪批准逮捕。犯罪嫌疑人郭某某为刑满释放人员。2020年3月14日15时许，郭某某在北京市东城区一超市内排队结账时摘下口罩，顾客段某某（男，殁年72岁）提醒其应当遵守防疫规定佩戴口罩，引起郭某某的不满，遂将段某某摔倒在地，并用双手击打段的头颈部，致段某某受伤。郭某某在逃离现场过程中，又打伤两名超市员工，后被当场抓获。被害人段某某因颅脑损伤，经救治无效于2020年3月20日死亡。<br>"
+    content: "[北京市人民检察院第二分院](https://weibo.com/1618051664/IAH4hoihL)依法对犯罪嫌疑人郭某某以涉嫌故意伤害罪批准逮捕。犯罪嫌疑人郭某某为刑满释放人员。2020年3月14日15时许，郭某某在北京市东城区一超市内排队结账时摘下口罩，顾客段某某（男，殁年72岁）提醒其应当遵守防疫规定佩戴口罩，引起郭某某的不满，遂将段某某摔倒在地，并用双手击打段的头颈部，致段某某受伤。郭某某在逃离现场过程中，又打伤两名超市员工，后被当场抓获。被害人段某某因颅脑损伤，经救治无效于2020年3月20日死亡。<br>"
   - item_name: news
     content: "[河南卫健委](https://weibo.com/5594618028/IAQ9dcXi8)：3月28日0时—24时，河南省新增新冠肺炎本地确诊病例1例，患者为漯河市王某某。流行病学调查发现，王某某于3月21日10:00左右在漯河汽车站乘坐长途客车到平顶山市郏县汽车东站，在其郏县同学张某某（郏县人民医院医生）驾车陪同下到乡下扫墓，在郏县期间与张某某一同就餐3次。继续流调发现，张某某于3月13日晚与刘某某、周某某（二人也为郏县人民医院医生）等人在饭店同桌就餐。刘某某曾有武汉出行史，返郏后自行隔离14天期满。<br>"
   - item_name: news
@@ -2989,9 +2995,9 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "当地时间29日[白宫记者会](https://weibo.com/1638782947/IAY9Eed9f?ref=collection&type=comment)上，特朗普直言：“若不采取任何措施，美国将有220万人死于疫情，但是在他的领导下，可以将死亡人数降至10万，我们就算做得不错（good job）了。”上周，特朗普才表示自己能接受的死亡人数为零（none）。<br>"
+    content: "当地时间29日[白宫记者会](https://weibo.com/1638782947/IAY9Eed9f)上，特朗普直言：“若不采取任何措施，美国将有220万人死于疫情，但是在他的领导下，可以将死亡人数降至10万，我们就算做得不错（good job）了。”上周，特朗普才表示自己能接受的死亡人数为零（none）。<br>"
   - item_name: news
-    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-spain-workers-idUSKBN21H1HR?taid=5e81e66753c773000108c899)：西班牙已有12298名医护感染新冠肺炎，大多数状况良好。<br>"
+    content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-spain-workers-idUSKBN21H1HR)：西班牙已有12298名医护感染新冠肺炎，大多数状况良好。<br>"
   - item_name: news
     content: "[NHK](https://www3.nhk.or.jp/news/html/20200330/k10012358491000.html)：日本东京奥运会将推迟至2021年7月23日开幕。<br>"
 
@@ -3028,7 +3034,7 @@
   - item_name: news
     content: "[CNN](https://edition.cnn.com/2020/03/30/health/new-york-neurosurgeon-death-coronavirus-mcdonald-twins/index.html)：纽约神经外科医生詹姆斯•古德里奇（James T. Goodrich）感染新冠肺炎，因相关并发症去世，曾主刀连体婴颅骨分离手术。<br>"
   - item_name: news
-    content: "[金融时报](http://www.ftchinese.com/story/001087029?ccode=LanguageSwitch)：奥地利宣布，进超市和其他商店必须戴口罩，未来还将进一步要求人们在家门以外任何与其他人距离较近的场合佩戴口罩。<br>"
+    content: "[金融时报](http://www.ftchinese.com/story/001087029)：奥地利宣布，进超市和其他商店必须戴口罩，未来还将进一步要求人们在家门以外任何与其他人距离较近的场合佩戴口罩。<br>"
   - item_name: news
     content: "荷美游轮公司（Holland America Line）赞丹号（Zaandam）已有4名年长乘客去世，189名乘客有流感症状，至少8人已确诊，其中1000多名无感冒症状患者转移到了救援的鹿特丹号（Rotterdam）。该游轮计划周三抵达美国佛罗里达州，目前州长未同意登陆上岸。[卫报](https://www.theguardian.com/world/2020/mar/31/cruise-ship-chief-zaandam-and-rotterdam-passengers-left-to-fend-for-themselves-covid-19-crisis)称，像赞丹号规模的游轮全球公海至少还有10艘，载有近万名乘客，多国拒绝靠岸。<br>"
 
@@ -3039,7 +3045,7 @@
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "钟南山接受[深圳卫视](https://weibo.com/2868676035/IBkxaxnMm?ref=collection&type=comment)专访时表示，相信随着各个国家采取强有力的措施，全球疫情是能够控制下来的，“我估计应该是4月底左右，疫情应该下来了”。<br>"
+    content: "钟南山接受[深圳卫视](https://weibo.com/2868676035/IBkxaxnMm)专访时表示，相信随着各个国家采取强有力的措施，全球疫情是能够控制下来的，“我估计应该是4月底左右，疫情应该下来了”。<br>"
   - item_name: news
     content: "[国家卫健委](http://www.nhc.gov.cn/xcs/yqfkdt/202004/28668f987f3a4e58b1a2a75db60d8cf2.shtml)：31个省（自治区、直辖市）和新疆生产建设兵团报告新增无症状感染者130例,当日转为确诊病例2例,当日解除隔离302例。尚在医学观察无症状感染者1367例，比前一日减少174例。<br>"
   - item_name: group
@@ -3064,13 +3070,13 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2KlTds8Ga0I1AVJHciTX200402&fromapp=cctvnews&version=804&version=804&allow_comment=1)：湖北省人民政府根据《烈士褒扬条例》和《退役军人事务部 中央军委政治工作部关于妥善做好新冠肺炎疫情防控牺牲人员烈士褒扬工作的通知》精神，评定王兵、冯效林、江学庆、刘智明、李文亮、张抗美、肖俊、吴涌、柳帆、夏思思、黄文军、梅仲明、彭银华、廖建军等14名（按姓氏笔画排序）牺牲在新冠肺炎疫情防控一线人员为首批烈士。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/04/02/ARTI2KlTds8Ga0I1AVJHciTX200402.shtml)：湖北省人民政府根据《烈士褒扬条例》和《退役军人事务部 中央军委政治工作部关于妥善做好新冠肺炎疫情防控牺牲人员烈士褒扬工作的通知》精神，评定王兵、冯效林、江学庆、刘智明、李文亮、张抗美、肖俊、吴涌、柳帆、夏思思、黄文军、梅仲明、彭银华、廖建军等14名（按姓氏笔画排序）牺牲在新冠肺炎疫情防控一线人员为首批烈士。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
-    content: "[广州市公安局新闻办公室](https://weibo.com/gzjd?from=feed&loc=at&nick=%E5%B9%BF%E5%B7%9E%E5%85%AC%E5%AE%89&is_hot=1)凌晨0时40分通报：4月1日7时28分许，广州市公安局110台接到报警，称市第八人民医院嘉禾院区住院部一楼隔离病区（以下简称“市八医院”），有一名外籍新冠肺炎确诊患者不配合治疗，并将一女护士打伤。广州白云警方立即派员到场处置。经初步调查：当天7时20分许，市八医院隔离病区女护士汪某请一外籍新冠肺炎确诊患者OKONKWONWOYE CHIKA PATRICK（男，47岁，尼日利亚籍）抽血检查，该患者不予理睬，还紧随其后试图强行走出隔离病房。护士见状立即将其阻拦，被其推倒在地殴打并咬伤脸部。经法医检查，护士汪某面部、脖颈处以及腰部都发现损伤，鉴定为轻微伤。该外籍确诊患者3月20日自境外入境广州，接受新冠病毒核酸检测呈阳性，23日被送市八医院进行隔离治疗。目前其核酸检测仍为阳性。<br>"
+    content: "[广州市公安局新闻办公室](https://weibo.com/1722022490/IBmUli4S6)凌晨0时40分通报：4月1日7时28分许，广州市公安局110台接到报警，称市第八人民医院嘉禾院区住院部一楼隔离病区（以下简称“市八医院”），有一名外籍新冠肺炎确诊患者不配合治疗，并将一女护士打伤。广州白云警方立即派员到场处置。经初步调查：当天7时20分许，市八医院隔离病区女护士汪某请一外籍新冠肺炎确诊患者OKONKWONWOYE CHIKA PATRICK（男，47岁，尼日利亚籍）抽血检查，该患者不予理睬，还紧随其后试图强行走出隔离病房。护士见状立即将其阻拦，被其推倒在地殴打并咬伤脸部。经法医检查，护士汪某面部、脖颈处以及腰部都发现损伤，鉴定为轻微伤。该外籍确诊患者3月20日自境外入境广州，接受新冠病毒核酸检测呈阳性，23日被送市八医院进行隔离治疗。目前其核酸检测仍为阳性。<br>"
   - item_name: news
-    content: "[崂山发布](https://weibo.com/u/2488065823?from=feed&loc=at&nick=%E5%B4%82%E5%B1%B1%E5%8F%91%E5%B8%83&is_hot=1)：针对网上反映的4月1日青岛市崂山区疾控中心核酸检测采样三名外国人现场存在插队现象的问题，目前，相关部门正在进一步调查核实。下一步，根据调查核实情况，坚持中国人、外国人一视同仁，依法依规进行处置，调查结果将及时向社会公布。<br>"
+    content: "[崂山发布](https://weibo.com/u/2488065823)：针对网上反映的4月1日青岛市崂山区疾控中心核酸检测采样三名外国人现场存在插队现象的问题，目前，相关部门正在进一步调查核实。下一步，根据调查核实情况，坚持中国人、外国人一视同仁，依法依规进行处置，调查结果将及时向社会公布。<br>"
   - item_name: news
     content: "[中国新闻网](https://weibo.com/1784473157/IBq6YdCxR)：河南省中部的郏县于近日再次宣布封村(社区)、封小区措施，并暂停经营性场所营业，对一些企业实行停工停产。郏县疫情防控指挥部一位工作人员表示，这与当地前几天突然发现数例无症状感染病人有关。<br>"
   - item_name: group
@@ -3078,7 +3084,7 @@
   - item_name: news
     content: "[alarabiya](https://english.alarabiya.net/en/News/middle-east/2020/04/02/Iran-s-Larijani-tests-positive-for-coronavirus-IRNA)：当地时间4月2日，伊朗议会议长阿里·拉里贾尼（Ali Larijani）新冠病毒测试呈阳性。<br>"
   - item_name: news
-    content: "[老板联播](https://weibo.com/5994003317/IBuEkhVdh?from=page_1002065994003317_profile&wvr=6&mod=weibotime&type=comment)：美国出现了牛奶过剩，威斯康星州的奶农们被迫倾倒数十万加仑的牛奶。威斯康星州相关部门正敦促美国农业部购买剩余商品，重新分配至慈善项目。<br>"
+    content: "[老板联播](https://weibo.com/5994003317/IBuEkhVdh)：美国出现了牛奶过剩，威斯康星州的奶农们被迫倾倒数十万加仑的牛奶。威斯康星州相关部门正敦促美国农业部购买剩余商品，重新分配至慈善项目。<br>"
   - item_name: news
     content: "[以色列国土报-Haaretz](https://www.haaretz.com/israel-news/.premium-israel-health-minister-wife-diagnosed-with-coronavirus-mossad-chief-national-security-1.8732927)：以色列卫生部长 Yaakov Litzman 新冠检测呈阳性。多名官员隔离观察。<br>"
 
@@ -3103,7 +3109,7 @@
   - item_name: news
     content: "[联合早报](https://www.zaobao.com/znews/international/story20200403-1042432)：印度塔卜里格传教团中400人新冠检测呈阳性，上月曾在首都新德里举行多个活动。该教团曾在马来西亚、印尼举行大型活动。<br>"
   - item_name: news
-    content: "美国马萨诸萨州州长[查理·贝克（Charlie Baker）](https://twitter.com/MassGovernor/status/1245873219900444674?s=20)通过好友乔纳森·克拉夫特（Jonathan Kraft），利用新英格兰爱国者橄榄球队专机从中国深圳运回120万N95口罩，其中30万将赠给纽约州。由于机内空间有限，原订购的170万口罩，剩余50万暂由腾讯公司保管，等待下次运输。<br>"
+    content: "美国马萨诸萨州州长[查理·贝克（Charlie Baker）](https://twitter.com/MassGovernor/status/1245873219900444674)通过好友乔纳森·克拉夫特（Jonathan Kraft），利用新英格兰爱国者橄榄球队专机从中国深圳运回120万N95口罩，其中30万将赠给纽约州。由于机内空间有限，原订购的170万口罩，剩余50万暂由腾讯公司保管，等待下次运输。<br>"
 
 - date: 2020年4月4日
   items:
@@ -3147,18 +3153,18 @@
   - item_name: news
     content: "[健康广东](https://weibo.com/1962787713/IBSBFATid)：广东新增境外输入确诊3例，新增境外输入关联5例，现存确诊129例，累计确诊1524例，新增无症状感染者2例，现存无症状感染者，深圳市 21 例，广州市2例。<br>"
   - item_name: news
-    content: "[中国新闻网](https://weibo.com/1784473157/IBUbY9Pmx?ref=collection&type=comment#_rnd1586074998527)：据山东大学齐鲁医院官方网站消息：山东省第一批援鄂医疗队员、我院呼吸与危重症医学科主管护师张静静，于3月21日随山东第一批医疗队员离鄂返回济南，按规定集中隔离医学观察14天。期间三次核酸检测均为阴性，于4月4日下午5点隔离期满，拟于5日上午返家休息。5日早上7点突发心脏骤停，目前，医院正在全力组织抢救。<br>"
+    content: "[中国新闻网](https://weibo.com/1784473157/IBUbY9Pmx)：据山东大学齐鲁医院官方网站消息：山东省第一批援鄂医疗队员、我院呼吸与危重症医学科主管护师张静静，于3月21日随山东第一批医疗队员离鄂返回济南，按规定集中隔离医学观察14天。期间三次核酸检测均为阴性，于4月4日下午5点隔离期满，拟于5日上午返家休息。5日早上7点突发心脏骤停，目前，医院正在全力组织抢救。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "[央视网](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMm1VbuAD2jzyVAuzyCSD200405&fromapp=cctvnews&version=804&version=804&allow_comment=1)：南苏丹确诊首例新冠肺炎患者。<br>"
+    content: "[央视网](http://m.news.cctv.com/2020/04/05/ARTIMm1VbuAD2jzyVAuzyCSD200405.shtml)：南苏丹确诊首例新冠肺炎患者。<br>"
 
 - date: 2020年4月6日
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
-    content: "[新华网](https://weibo.com/2810373291/IC2Mh2UxY?type=comment&sudaref=moe.covid-19.wtf&display=0&retcode=6102#_rnd1586243615973)：据湖北省新冠肺炎疫情防控指挥部最新通报，武汉市“无疫小区”累计达6988个，占比98.4%。较3天前的上一次认定，#武汉无疫小区数量减少45个#，占比下降0.6%。70个小区因无症状感染者等原因，被取消或暂停“无疫”命名，其中部分已认定的“无疫小区”被“摘牌”。<br>"
+    content: "[新华网](https://weibo.com/2810373291/IC2Mh2UxY)：据湖北省新冠肺炎疫情防控指挥部最新通报，武汉市“无疫小区”累计达6988个，占比98.4%。较3天前的上一次认定，#武汉无疫小区数量减少45个#，占比下降0.6%。70个小区因无症状感染者等原因，被取消或暂停“无疫”命名，其中部分已认定的“无疫小区”被“摘牌”。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -3172,13 +3178,13 @@
   - item_name: news
     content: "[山东大学齐鲁医院](https://mp.weixin.qq.com/s/aCJPfCe2PgzVSGBrb4RBBw)：山东省第一批援鄂医疗队员、我院呼吸与危重症医学科主管护师张静静，在按规定集中隔离医学观察期满，即将返家休息时，突发心脏骤停，经医院组织全院专家力量、动用全部可能手段全力救治无效，于18时58分逝世。<br>"
   - item_name: news
-    content: "新华社发布[新冠肺炎纪事](http://mp.weixin.qq.com/s?__biz=MzA4MjQxNjQzMA==&mid=2768486781&idx=1&sn=4821524675c1363ba81d09f646b0555f&chksm=bf71673c8806ee2a59a015ad3f76c515d3dabc18adde385e101671ce6fbc73d2749a8001b388&mpshare=1&scene=2&srcid=&sharer_sharetime=1586181779502&sharer_shareid=96b8159da1f15cc5853405ece99333f0&from=timeline#rd)。<br>"
+    content: "新华社发布[中国发布新冠肺炎疫情信息、推进疫情防控国际合作纪事](http://www.xinhuanet.com/politics/2020-04/06/c_1125819214.htm)。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
     content: "英国女王[伊丽莎白二世](https://twitter.com/RoyalFamily/status/1246875266334539777?s=20)发表电视讲话，敦促英国人“自律” “坚强”。<br>"
   - item_name: news
-    content: "[德国驻华大使馆](https://weibo.com/2209621235/IC2Nqf7AO?type=comment#_rnd1586145354916)：德国的医院目前已收治了113名来自欧盟伙伴国家的新冠肺炎感染者，其中85名患者来自不堪重负的法国，26名来自意大利，2名来自荷兰。德国还为邻国患者预留了数百张床位。同时，德国出动了联邦国防军的空中力量来运送部分来自欧盟其他国家的新冠病人，还向意大利、西班牙派出了医疗队，并提供医疗物资。<br>"
+    content: "[德国驻华大使馆](https://weibo.com/2209621235/IC2Nqf7AO)：德国的医院目前已收治了113名来自欧盟伙伴国家的新冠肺炎感染者，其中85名患者来自不堪重负的法国，26名来自意大利，2名来自荷兰。德国还为邻国患者预留了数百张床位。同时，德国出动了联邦国防军的空中力量来运送部分来自欧盟其他国家的新冠病人，还向意大利、西班牙派出了医疗队，并提供医疗物资。<br>"
   - item_name: news
     content: "日本首相安倍晋三称，同意东京都、大阪府、埼玉县、千叶县、神奈川县、兵库县和福冈县七个行政区进入紧急状态，为期约一个月；计划宣布规模约为108万亿日元的刺激方案。<br>"
   - item_name: news
