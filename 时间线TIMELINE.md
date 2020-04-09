@@ -244,6 +244,7 @@
 * 21时，[国家卫健委病原检测结果初步评估专家组](http://www.xinhuanet.com/2020-01/09/c_1125438971.htm)实验室获得了新冠病毒的全基因组序列，“不明原因的病毒性肺炎”病例的病原体初步判定为新型冠状病毒。经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒。《柳叶刀》[A novel coronavirus outbreak of global health concern（《关系到全球卫生的新冠状病毒的爆发》）](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30185-9/fulltext)也提及此日期。<br>
 * 武汉同济医院急诊科医生陆俊复查时双肺出现斑片和毛玻璃样病变，后诊断为“不明原因病毒性肺炎”。见2月3日[财新网 | 封面报道之一现场篇：武汉围城](https://github.com/Pratitya/wuhan2020-timeline/issues/56#issue-558835473)刘力采访回忆内容。<br>
 * 病患王某，先前在协和医院插管抢救无明显改善，在转到金银潭医院3天后，因无病原学证据，被五位意见分歧的专家诊断为“重度肺炎，合并急性呼吸窘迫综合征、感染性休克等并发症，并伴有原发性高血压”去世。医生告诉家属，他是这场疫情中第一个死去的患者。他的妹妹、女儿、女婿，也陆续出现了与他类似的症状。见3月5日[南方周末｜“重组”金银潭：疫情暴风眼的秘密](https://github.com/Pratitya/wuhan2020-timeline/issues/146)。<br>
+* 当日，因类流感去医院就诊的一位患者，后经武汉疾控中心的研究人员核酸检测确定其为新冠肺炎，她是4日发病的，见[Wen-Hua Kong, Yao Li, Ming-Wei Peng, et al. SARS-CoV-2 detection in patients with influenza-like illness. *Nature Microbiology*, Apr 7, 2020（类流感疾病患者中的SARS-CoV-2检测）](https://www.nature.com/articles/s41564-020-0713-1)。该文章还指出，1月13与21日去就诊的患者中分别还有3位与5位新冠患者。<br>
 
 【中国】<br>
 * 习近平主持召开中央政治局常委会会议时，就对新型冠状病毒肺炎疫情防控工作提出了要求。见2月15日[求是网 | 习近平：在中央政治局常委会会议研究应对新型冠状病毒肺炎疫情工作时的讲话](https://mp.weixin.qq.com/s/cIWQvs6fWLcLSWXS-NL7mw)。<br>
