@@ -1,6 +1,6 @@
 wuhan2020-timeline
 ====================
-[疫情与舆情：武汉新冠肺炎时间线TIMELINE](https://pratitya.github.io/wuhan2020-timeline/)
+[疫情与舆情：新冠病毒肺炎时间线TIMELINE](https://pratitya.github.io/wuhan2020-timeline/)
 ===========================================================
 
 凡例
