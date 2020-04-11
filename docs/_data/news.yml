@@ -826,6 +826,10 @@
     content: "23时，专家组成员之一北京大学第一医院呼吸内科主任[王广发在微博](https://weibo.com/2700877354/IqIAA8dmL)表示“病情好转了”，“疫情真的可防可控”。解释自己或许在武汉金银潭医院，或许在回京前2天去了几家医院的发热门诊和临时隔离病房感染。<br>"
   - item_name: news
     content: "[稳健医疗](http://www.winnermedical.cn/cn/newsdetail/106/666.html)决定，稳健医疗总部、全棉时代、津梁生活总监以上的干部和子公司总经理、副总经理春节期间随时待命，手机必须保持畅通，确保随时沟通，必要时随时参加会议。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "同日，朝鲜因担心新型冠状病毒扩散，宣布针对游客关闭了边境。见[Young Pioneer Tours · North Korea temporarily closes border until further notice – Coronavirus precaution](https://www.youngpioneertours.com/dprk-closes-border/)。<br>"
 
 - date: 2020年1月23日 年廿九
   items:
@@ -1070,6 +1074,10 @@
     content: "下午，[澎湃新闻](https://weibo.com/5044281310/IrT2gv3MJ)记者从地坛医院现场了解到，王广发感染的肺炎已治愈，于13时50分左右出院。<br>"
   - item_name: news
     content: "18时，[浙江大学王立铭](https://github.com/Pratitya/wuhan2020-timeline/issues/18)质疑中国疾控中心专家组在1月初已得知“人传人”结论，却刻意向大众隐瞒，提前发表文章，舆论哗然。署名作者之一的高福院士登上微博热搜。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "俄罗斯总理宣布俄罗斯从1月30日起关闭俄远东地区中俄边界。同时，俄罗斯对中国公民暂停办理电子签证。见[RT · Russia closes its Far East border with China in attempt to prevent spread of new coronavirus](https://www.rt.com/russia/479567-russia-china-border-coronavirus/)。<br>"
 
 - date: 2020年1月31日 初七
   items:
@@ -1394,6 +1402,8 @@
     content: "武汉软件工程职业学院自7日收到武汉市防控办通知，被紧急征用作新冠肺炎隔离点，校职工返校清理时随意丢弃学生私人物品，引发网络热议。23时，[武汉软件工程职业学院团委微博](https://weibo.com/2619766381/ItsVqprci)发布致歉信。<br>"
   - item_name: news
     content: "网传江苏医疗队行李丢失，援湖北医疗队物资被扣。随后江苏共青团等官微辟谣。<br>"
+  - item_name: news
+    content: "同日，曾在网络上发布[武汉疫情视频](https://www.youtube.com/channel/UCRItarzSwqakT-EZkSvuy3A/videos)的武汉市民方斌与外界失去联系。见[They Documented the Coronavirus Crisis in Wuhan. Then They Vanished](https://www.nytimes.com/2020/02/14/business/wuhan-coronavirus-journalists.html)。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news

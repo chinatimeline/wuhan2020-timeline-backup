@@ -482,6 +482,9 @@
 * 23时，专家组成员之一北京大学第一医院呼吸内科主任[王广发在微博](https://weibo.com/2700877354/IqIAA8dmL)表示“病情好转了”，“疫情真的可防可控”。解释自己或许在武汉金银潭医院，或许在回京前2天去了几家医院的发热门诊和临时隔离病房感染。<br>
 * [稳健医疗](http://www.winnermedical.cn/cn/newsdetail/106/666.html)决定，稳健医疗总部、全棉时代、津梁生活总监以上的干部和子公司总经理、副总经理春节期间随时待命，手机必须保持畅通，确保随时沟通，必要时随时参加会议。<br>
 
+【国际】<br>
+* 同日，朝鲜因担心新型冠状病毒扩散，宣布针对游客关闭了边境。见[Young Pioneer Tours · North Korea temporarily closes border until further notice – Coronavirus precaution](https://www.youngpioneertours.com/dprk-closes-border/)。<br>
+
 ## 2020年1月23日 年廿九
 【武汉-湖北】<br>
 * 凌晨，武汉发布消息“封城”。10时，关闭离汉通道，但民间报道高速仍可通行。<br>
@@ -621,6 +624,9 @@
 * 中国疾控中心流行病学首席专家曾光接受胡锡进采访，其中一段对话可看作是回应。曾光表示，武汉此次面对疫情行动有些慢主要是科学认识的问题，但也不排除一些决策上的犹豫，对自己是不是自信。公共卫生人员的决策考虑的就是科学性的问题，是一个科学的视角，但政府官员考虑问题并不单纯是科学的视角，这只是他们决策依据的一部分。“他要考虑政治视角，考虑维稳的问题，他要考虑经济的问题，他要考虑春节老百姓的天伦之乐，满意不满意的问题。我们说的话往往只是他们决策中采纳的一部分。”<br>
 * 下午，[澎湃新闻](https://weibo.com/5044281310/IrT2gv3MJ)记者从地坛医院现场了解到，王广发感染的肺炎已治愈，于13时50分左右出院。<br>
 * 18时，[浙江大学王立铭](https://github.com/Pratitya/wuhan2020-timeline/issues/18)质疑中国疾控中心专家组在1月初已得知“人传人”结论，却刻意向大众隐瞒，提前发表文章，舆论哗然。署名作者之一的高福院士登上微博热搜。<br>
+
+【国际】<br>
+* 俄罗斯总理宣布俄罗斯从1月30日起关闭俄远东地区中俄边界。同时，俄罗斯对中国公民暂停办理电子签证。见[RT · Russia closes its Far East border with China in attempt to prevent spread of new coronavirus](https://www.rt.com/russia/479567-russia-china-border-coronavirus/)。<br>
 
 ## 2020年1月31日 初七
 【武汉-湖北】<br>
@@ -803,6 +809,7 @@
 * 湖北省召开第十九场疫情防控工作新闻发布会，中国工程院院士、湖北省新冠肺炎疫情防控科研攻关组专家、华中农业大学张焕春教授称“新型冠状病毒属于SARS冠状病毒”，央视新闻微博晚21时报道。后张焕春改口称是“口误”，二者存在相关性并不相同，央视新闻微博删除相关博文。同晚，钟南山接受第一财经电话采访表示二者平行，同类不同种。中国疾控中心病毒所所长许文波接受[第一财经](https://news.sina.cn/gn/2020-02-09/detail-iimxyqvz1559555.d.html)电话采访时表示，新型冠状病毒是一个新的病毒，不是SARS病毒。<br>
 * 武汉软件工程职业学院自7日收到武汉市防控办通知，被紧急征用作新冠肺炎隔离点，校职工返校清理时随意丢弃学生私人物品，引发网络热议。23时，[武汉软件工程职业学院团委微博](https://weibo.com/2619766381/ItsVqprci)发布致歉信。<br>
 * 网传江苏医疗队行李丢失，援湖北医疗队物资被扣。随后江苏共青团等官微辟谣。<br>
+* 同日，曾在网络上发布[武汉疫情视频](https://www.youtube.com/channel/UCRItarzSwqakT-EZkSvuy3A/videos)的武汉市民方斌与外界失去联系。见[They Documented the Coronavirus Crisis in Wuhan. Then They Vanished](https://www.nytimes.com/2020/02/14/business/wuhan-coronavirus-journalists.html)。<br>
 
 【中国】<br>
 * 载有新冠肺炎确诊患者的“世界梦号”邮轮检疫工作已完成，全体乘员新型冠状病毒检测结果为阴性，即将下船。游轮于香港启德邮轮码头停泊五日。<br>
