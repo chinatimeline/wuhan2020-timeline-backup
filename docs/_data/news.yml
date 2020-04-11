@@ -3291,7 +3291,44 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[湖北日报](https://weibo.com/2827102952/ICHvejgoW)：湖北省防控指挥部发布最新通知，要求疫情未解除前，全省暂不开放影剧院、棋牌室、游艺厅、网吧、舞厅、酒吧、KTV、培训机构、室内游泳馆（池）、密闭场所或利用地下空间等通风条件较差的体育场馆或体育场馆部分区域。<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: news
+    content: "[四川日报](https://weibo.com/3167104922/ICIIRrlQV?from=page_1002063167104922_profile&wvr=6&mod=weibotime&type=comment#_rnd1586576880691)：成都出台对湖北等重点地区入（返）蓉人员办法，对4月8日以后湖北等重点地区来（返）蓉人员原则上不再实行隔离医学观察，但要严格实行全员核酸检测。<br>"
+  - item_name: news
+    content: "[广东卫健委](https://weibo.com/1962787713/ICDw2zrUG?type=comment#_rnd1586499849491)：广东新增境外输入确诊2例，境外输入关联3例，新增无症状感染者11例。<br>"
+  - item_name: news
+    content: "[羊城晚报](https://weibo.com/1497087080/ICFBzsK47)：在今天报告的无症状感染者中，有一名是广州市卫健委主动排查出来的“绿码”者。该名无症状感染者是一名湖北籍男性，4月4日从湖北持湖北健康码（绿码）到广州，7日因为腰疼到医院就诊，医院主动采样检测，经过初筛、复核，新冠病毒核酸检测为阳性，目前已经转到市八医院隔离治疗。由于他没有发烧和呼吸道症状，昨天被诊断为无症状感染者。现在他的密切接触者已经纳入了医学管理，活动场所也进行了消毒工作。<br>"
+  - item_name: news
+    content: "[南方日报](https://weibo.com/1682207150/ICFO91QNr)记者从多个渠道证实，越秀区传达要求加强餐饮企业的防控工作，矿泉街等重点街道全部暂停堂食。日前，广州市公布的疫情风险评级中，越秀区和白云区被评为中风险区。<br>"
+  - item_name: news
+    content: "[中国之声](https://weibo.com/1699540307/ICGy1FuB9)：本日召开北京市新冠肺炎疫情防控工作新闻发布会上，北京市文旅局相关负责人表示，将进一步严格进京入住酒店人员管控措施，4月12日起进京人员住酒店需提供核酸检测阴性证明。<br>"
+  - item_name: news
+    content: "[青岛政务网](http://www.qingdao.gov.cn/n172/n24624151/n24627935/n24627949/n24627963/200410094432606612.html)发布通知，青岛市卫生健康委员会党组2020年4月7日研究决定：免去邢春礼同志中共青岛市胶州中心医院委员会委员、青岛市胶州中心医院副院长职务；免去魏秀娥同志中共青岛市胶州中心医院委员会委员、青岛市胶州中心医院副院长、工会主席职务。4月7日，青岛市新增2例新型冠状病毒肺炎确诊病例，初步判断系境外输入关联病例。青岛市和胶州市两级疾控中心组成联合调查组进行了流行病学调查，初步查明，胶州中心医院发热门诊隔离病区曾于3月24日收治过入境可疑症状人员李某，后于3月26日确诊为境外输入新冠肺炎确诊病例，并转往定点医院治疗。期间，张某某、邵某某与李某曾在同一病区，感染途径正在调查过程中。"
+  - item_name: news
+    content: "绥芬河市人民政府发布[疫情防控指挥部第二十号通告](http://www.suifenhe.gov.cn/contents/1962/80523.html)，向社会募捐物资类别有：（一）防护物资：医用N95口罩、医用外科口罩、一次性医用口罩、医用酒精（75％及以上）、医用防护服、隔离衣等防护物资。（二）体温检测设备：全自动红外体温检测仪、手持式红外线测温仪。（三）消杀物资：医用酒精、84消毒液、医用洗手液及其他相关物资。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[耶路撒冷邮报](https://www.jpost.com/Breaking-News/Coronavirus-Yemen-confirms-first-case-624225)：也门确诊首例新冠肺炎病例。WHO统计全球206个国家与地区仅余朝鲜、莱索托、塔吉克斯坦、土库曼斯坦未有确诊病例。<br>"
+  - item_name: news
+    content: "[法新社](https://twitter.com/AFP/status/1248566805083197440?s=20)：法国 “戴高乐号”（Charles de Gaulle）航母有50例新冠病毒检测呈阳性，目前航母正前往土伦（Toulon）。<br>"
+
+- date: 2020年4月11日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "方方接受[学人Scholar](http://mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247497020&idx=1&sn=72e13787e5b5ef8064fc93212bc254c6&chksm=f9632897ce14a181434fa01d3babb0a8034b270301182747f965b6599660e04b0d91939f8aff&mpshare=1&scene=24&srcid=0411IMil0ZLsEt9UNYQJyxC7&sharer_sharetime=1586577407668&sharer_shareid=f266a070c079550e6b90acd80c8f2b66#rd)采访，回应此前网传《武汉日记》将在海外出版一事。方方澄清此事得到了她的授权，但并不是像网上某些人说的那样，是事先约稿。并表明在同意出版这本书时，就跟译者白睿文先生说过，这本书的所有稿费都会捐出来，帮助一些应该帮助的人。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: group
     content: "【国际】<br>"
+  - item_name: news
+    content: "[约翰斯•霍普金斯大学](https://coronavirus.jhu.edu/)：全球累计确诊1,681,964例，死亡102,025，治愈341,185例。死亡病例突破10万。<br>"
+  - item_name: news
+    content: "[苹果](https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/)和[谷歌](https://blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/amp/)将合作研究利用蓝牙技术来寻找密切接触者，设计中会考虑用户隐私和安全。<br>"
+  - item_name: news
+    content: "[CNN](https://edition.cnn.com/2020/04/10/uk/boris-johnson-coronavirus-health-uk-gbr-intl/index.html)：英国首相鲍里斯・约翰逊从圣托马斯医院（St Thomas' Hospital) 的ICU转到该院普通病房后，目前可以进行短暂的行走，中间需要休息。<br>"
