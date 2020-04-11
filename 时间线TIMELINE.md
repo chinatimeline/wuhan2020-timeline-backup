@@ -4,13 +4,14 @@
 <br><a name="top">[查看最新](#bottom) </a>
 ## 2019年12月1日
 * 出现第一位武汉市民有不明原因肺炎症状（事后确诊，当时未知是不明原因肺炎，且尚无医生发现和报告）。据金银潭医院的重症监护病房（ICU）主任吴文娟透露，该病患是一名年过七旬的男子，有点脑梗、老年痴呆。发病后，先被送入武汉市的另一家医院，但随着病情恶化，12月29日被转入金银潭医院。这名老人住在离海鲜市场四五站（公交站）远的地方，由于此前便患病在家，基本上不出门，并没有前往过华南海鲜市场。12月1日这个发病时间是通过流行病学调查综合家属回忆得出的结论。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel coronavirus in Wuhan, China. The Lancet, Jan. 24, 2020（中国武汉地区2019年新型冠状病毒感染者的临床特征）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)以及[BBC中文 | 肺炎疫情：模糊不清的“零号病人”与病毒来源争议](https://www.bbc.com/zhongwen/simp/chinese-news-51540821)。<br>
-【按，注意出现病症、入院、确诊“不明原因（病毒性）肺炎”、确诊“新冠肺炎”、确定有限人传人、确定持续人传人的区别。本时间线注重信息（概念提出）时间的记录。】
+【按，注意出现病症、入院、确诊“不明原因（病毒性）肺炎”、确诊“新冠肺炎”、确定有限人传人、确定持续人传人的区别。本时间线注重信息（概念提出）时间的记录。】<br>
 
 ## 2019年12月4日
 * [湖北省疾控中心](http://www.hbcdc.cn/index.php/index-view.html?aid=8128)于12月4-7日举办了2019年全省网络直报编码维护及地理分析应用培训班，全省17个市州负责传染病疫情报告管理工作的科室负责人和负责标准编码维护工作业务人员参加此次培训。会议由信息所疾病监测部黄淑琼主任主持，省疾控中心黄希宝副院长、信息所李明炎所长、刘克浩副所长出席开幕式。黄院长提出三点看法：一是要肯定成绩，认真总结，确保传染病信息综合质量全国第一的好成绩；二是要高度重视，明确要求，确保年度编码维护工作保质保量按时完成；三是要把握契机，积极突破，确保疾病监测大数据在疾病防控中发挥作用。<br>
 
 ## 2019年12月8日
-* “第一例”武汉不明肺炎病人发病。见1月11日[专家解读不明原因的病毒性肺炎最新通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036)。【按，事后确诊，当时未知是不明原因肺炎。武汉市卫健委溯源结论与1月5日通告、1月24日论文的溯源结论都有出入。】<br>
+* 1月11日[武汉市卫健委通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036)中最早发病的患者开始出现症状。根据武汉市新冠肺炎防控指挥部医疗救治组的消息，这名陈姓病人后来经医院救治已痊愈出院。患者居住在武昌某小区，否认去过华南海鲜市场。见[武汉发布 | 武汉：登记报告最早的新冠肺炎患者于去年12月8日发病](https://www.thepaper.cn/newsDetail_forward_6169432)。<br>
+【按，事后确诊，当时未知是不明原因肺炎。武汉市卫健委溯源结论与1月5日通告、1月24日论文的溯源结论都有出入。】<br>
 
 ## 2019年12月9日
 ## 2019年12月10日
@@ -196,7 +197,7 @@
 【中国】<br>
 * 中国工程院院士、中国疾病预防控制中心传染病预防控制所所长徐建国接受[大公报](http://www.takungpao.com/news/232108/2020/0105/400593.html#10006-weixin-1-52626-6b3bffd01fdde4900130bc5a2751b6d1)采访时表示，从目前看，未发现明显的人传人证据，未发现医务人员感染，且没有发生死亡案例，说明病毒威胁水平有限。徐建国还强调，中国的传染病控制有多年的积累，绝不会出现因为春运发生大扩散的可能性。<br>
 * 国家疾控中心研制出对新型冠状病毒高特异性的PCR检测试剂。<br>
-* 据[新华社公布的时间线](http://www.xinhuanet.com/2020-04/06/c_1125819214.htm)，中国疾控中心负责人与美国疾控中心主任通电话，介绍疫情有关情况。据《纽约时报》调查报道[The lost month: How a Failure to test blinded the U.S. to COVID-19](https://www.nytimes.com/2020/03/28/us/testing-coronavirus-pandemic.html)，美国疾控中心主任Dr. Robert Redfield的此次通话时间很长，而几天后，两人再次通话时，高福哭了。据新华社时间线，两人再次通话为1月8日。<br>
+* 据[新华社公布的时间线](http://www.xinhuanet.com/2020-04/06/c_1125819214.htm)及[路透社报道](https://www.reuters.com/article/us-health-coronavirus-nsc/as-trump-administration-debated-travel-restrictions-thousands-streamed-in-from-china-idUSKBN21N0EJ)，中国疾控中心负责人与美国疾控中心主任通电话，介绍疫情有关情况。据《纽约时报》调查报道[The lost month: How a Failure to test blinded the U.S. to COVID-19](https://www.nytimes.com/2020/03/28/us/testing-coronavirus-pandemic.html)，美国疾控中心主任Dr. Robert Redfield的此次通话时间很长，而几天后，两人再次通话时，高福哭了。据新华社时间线，两人再次通话为1月8日。<br>
 * 当地时间1月4日，世界卫生组织[发推](https://twitter.com/WHO/status/1213523866703814656)称，收到中国报告，武汉出现一撮肺炎患者。世界卫生组织总部、亚洲地区以及中国的工作人员密切关注此事。此条推文无配图。<br>
 * [香港特区政府公布](https://www.info.gov.hk/gia/general/202001/04/P2020010400175.htm)[《对公共卫生有重要性的新型传染病准备及应变计划》](https://www.chp.gov.hk/files/pdf/govt_preparedness_and_response_plan_for_novel_infectious_disease_of_public_health_significance_chi.pdf)，并同时启用严重应变级别，即时生效。
 
@@ -417,9 +418,9 @@
 
 【国际】<br>
 * 同日，[泰国、日本各通报](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011809065)诊断1例来自武汉市的新型冠状病毒感染的肺炎病例。泰国诊断病例正在住院治疗中，密切接触者观察；日本诊断病例已康复出院。<br>
-* [新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200118-1022055)载香港报道，由于武汉新型肺炎疫情有扩大蔓延的迹象，港府扩大监测范围，防武汉新型肺炎蔓延。<br>
-* [英国卫报](https://www.theguardian.com/world/2020/jan/17/corona-second-death-in-china-after-sars-like-outbreak): 武汉新型肺炎的第二例死亡病例被中国官方确认。
-* [英国卫报](https://www.theguardian.com/world/2020/jan/18/coronavirus-what-airport-measures-are-in-place-to-detect-for-sick-passengers)：美国的三座机场（洛杉矶国际机场、旧金山国际机场以及纽约的肯尼迪国际机场）设立体温监测设施针对从武汉来的旅客，同时旅客会监测是否具有武汉新型肺炎的体征。<br>
+* [新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200118-1022055)报道，“由于武汉新型肺炎疫情有扩大蔓延的迹象，香港特区政府决定扩大监测范围，那些曾到访中国大陆医院或曾紧密接触确诊染上新型冠状病毒患者的人，将被纳入呈报机制内。”<br>
+* [英国卫报](https://www.theguardian.com/world/2020/jan/17/corona-second-death-in-china-after-sars-like-outbreak): 新型冠状病毒肺炎的第二例死亡病例被中国官方确认。
+* [英国卫报](https://www.theguardian.com/world/2020/jan/18/coronavirus-what-airport-measures-are-in-place-to-detect-for-sick-passengers)：美国的三座机场（洛杉矶国际机场、旧金山国际机场以及纽约的肯尼迪国际机场）设立体温监测设施针对从武汉来的旅客，同时旅客会监测是否具有新型冠状病毒肺炎的体征。<br>
 
 ## 2020年1月19日 年廿五
 【武汉-湖北】<br>
@@ -463,7 +464,7 @@
 * 南开大学高山科研组在《生物资讯学》上发表论文[《武汉2019冠状病毒基因组的生物信息学分析》](http://kns.cnki.net/KCMS/detail/23.1513.Q.20200120.0839.002.html)，遭到复旦大学张永振指责，指其未经同意就采用他研制并公开的数据。<br>
 
 【国际】<br>
-* [英国卫报](https://www.theguardian.com/australia-news/2020/jan/21/australian-man-tested-for-coronavirus-after-returning-from-china-with-respiratory-illness): 澳大利亚发现第一例武汉新型肺炎疑似病例，该名男子从武汉返回澳大利亚。<br>
+* [英国卫报](https://www.theguardian.com/australia-news/2020/jan/21/australian-man-tested-for-coronavirus-after-returning-from-china-with-respiratory-illness): 澳大利亚发现第一例新型致命冠状病毒疑似病例，该名男子从武汉返回澳大利亚。<br>
 
 ## 2020年1月22日 年廿八
 【武汉-湖北】<br>
@@ -473,7 +474,7 @@
 * 19时，武汉市卫健委发布[《工作提示》](http://wjw.wuhan.gov.cn/front/web/showDetail/2020012209088)，湖北省启动突发公共卫生事件Ⅱ级应急响应。根据《中华人民共和国传染病防治法》有关规定，全省新型冠状病毒感染的肺炎情况由省卫生健康部门发布。<br>
 * 晚间，湖北省卫健委举行首场[新型冠状病毒感染的肺炎疫情防控工作新闻发布会](http://wjw.hubei.gov.cn/fbjd/dtyw/202001/t20200130_2016538.shtml)，称“截至1月22日20时，湖北省累计报告新型冠状病毒感染的肺炎病例444例（1月22日0时-20时，湖北省新增新型冠状病毒感染的肺炎病例69例，其中武汉市新增62例，死亡8例；荆州市新增6例，荆门市新增1例），已治愈出院28例，死亡17例”。并在城区7家大型医院附近选择7家二级公立医院作为发热门诊的定点医院，转移病人、腾空病房，全部用于接收发热病人。<br>
 * 同日，黄朝林核酸检测呈阳性，确诊感染新冠肺炎。双肺已有磨玻璃样病灶。2月9日[长江日报 | 黄朝林：42天用6种身份与病毒较量》](http://cjrb.cjn.cn/html/2020-02/09/content_164342.htm)。<br>
-* [三联生活周刊 | 现场 | 武汉新型肺炎：为何直到今天才引起更大注意？](https://github.com/Pratitya/wuhan2020-timeline/issues/21#issue-557908366)<br>
+* 《三联生活周刊》发布[武汉新型肺炎：为何直到今天才引起更大注意？](https://github.com/Pratitya/wuhan2020-timeline/issues/21)，是1月20日武汉疫情广为外界知晓后，最早一批从武汉现场发出的报道。<br>
 
 【中国】<br>
 * 国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第二份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/a3c8b5144067417889d8760254b1a7ca.shtml)。<br>
