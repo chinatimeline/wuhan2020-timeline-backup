@@ -84,7 +84,7 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 ##### 2.湖北省
 * [湖北省人民政府门户网站](http://www.hubei.gov.cn/)<br>
 * [《湖北日报》微博](https://weibo.com/hubeiribao?profile_ftype=1&is_all=1#_0)<br>
-* [湖北省卫生健康委员会官网](http://wjw.hubei.gov.cn/)<br>
+* [湖北省卫生健康委员会](http://wjw.hubei.gov.cn/)<br>
 * [黄冈卫健委官网](http://wjw.hg.gov.cn/)
 
 ##### 3.中央
@@ -93,9 +93,25 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * [中国疾病预防控制中心官网](http://www.chinacdc.cn/)<br>
 * [中国疾病预防控制中心：新型冠状病毒感染的肺炎疫情分布平台](http://2019ncov.chinacdc.cn/2019-nCoV/)<br>
 
-##### 4. 港澳台
+##### 4. 地方（含港澳台）
+* [北京市卫生健康委员会](http://wjw.beijing.gov.cn/)<br>
+* [上海市卫生健康委员会](http://wsjkw.sh.gov.cn/)<br>
 * [香港特别行政区卫生署卫生防护中心](https://www.chp.gov.hk/tc/features/102465.html)<br>
 * [香港特别行政区政府新闻公报-嚴重新型傳染性病原體呼吸系統病](https://www.chp.gov.hk/tc/miniweb/press_release/100063.html)<br>
+* [澳門特別行政區政府-新型冠狀病毒感染應變協調中心](https://www.ssm.gov.mo/apps1/PreventCOVID-19/ch.aspx#clg17458)<br>
+* [台湾卫生福利部](https://www.mohw.gov.tw/mp-1.html)<br>
+* [广东省卫生健康委员会](http://wsjkw.gd.gov.cn/)<br>
+* [浙江省卫生健康委员会](http://www.zjwjw.gov.cn/)<br>
+* [黑龙江省卫生健康委员会](http://wsjkw.hlj.gov.cn/)<br>
+* [江苏省卫生健康委员会](http://wjw.jiangsu.gov.cn/)<br>
+* [山东省卫生健康委员会](http://wsjkw.shandong.gov.cn/)<br>
+* [四川省卫生健康委员会](http://wsjkw.sc.gov.cn/)<br>
+* [河南省卫生健康委员会](http://www.hnwsjsw.gov.cn/)<br>
+* [湖南省卫生健康委员会](http://wjw.hunan.gov.cn/)<br>
+* [安徽省卫生健康委员会](http://wjw.ah.gov.cn/)<br>
+* [江西省卫生健康委员会](http://hc.jiangxi.gov.cn/)<br>
+* [重庆市卫生健康委员会](http://wsjkw.cq.gov.cn/)<br>
+
 #### （三）医院报告
 * 华山感染 （微信公众号）
 
@@ -143,7 +159,8 @@ timeline更新频率较高，pr前请同步一下fork，避免造成大量冲突
 * Github项目[2020nCov_individual_archives](https://github.com/jiayiliujiayi/2020nCov_individual_archives)：备份普通人在疫情期间的记录<br>
 * Github项目[疫情之下的劳动者--中文媒体报道收集](https://github.com/workshopwangdirector/Labor-in-2019-nCov)<br>
 
-#### （二）自媒体（VLOG、疫情分析）
-* [知识分子 · 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)
+#### （二）自媒体的疫情记录与分析
+* [知识分子 · 吃一堑能长一智吗？国际著名公卫专家评武汉疫情](https://mp.weixin.qq.com/s/X1s65Ldo7TxUmsQZHB_Zmg)<br>
 * [纽约华人资讯网 · 武汉肺炎罗生门：谁说了真话？谁又在撒谎？](https://github.com/Pratitya/wuhan2020-timeline/issues/40#issue-558506815)<br>
 * [南都传媒·记疫](http://h5.oeeee.com/h5/v20/nCovTimeline/?from=groupmessage&isappinstalled=0&dt_platform=wechat_friends&dt_dapp=1)<br>
+* [史地刊讯 · 武汉新冠之疫史事日志（初稿）1](http://mp.weixin.qq.com/s?__biz=MzUzNzk4MDUyNw==&mid=2247487089&idx=1&sn=e5f748d642cfe8ad3c98a077bb76fab7&chksm=fadff571cda87c67b84706dfd287acee37862341ec00f4c200fa33918dc014d0282ee67bf46a&mpshare=1&scene=1&srcid=0409NhRKTgVFHRgtd5fYYJdP&sharer_sharetime=1586436829278&sharer_shareid=f266a070c079550e6b90acd80c8f2b66#rd)<br>
