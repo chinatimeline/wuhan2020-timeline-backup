@@ -1,4 +1,9 @@
 
+- date: 2019年11月
+  items:
+  - item_name: news
+    content: "[南华早报](https://www.zaobao.com.sg/realtime/china/story20200313-1036762)：中国政府非公开文件显示，中国首名2019冠状病毒疾病患者可追溯到去年11月17日，而官方已知去年确诊的病例达266起，都接受了医学观察，并且部分个案极有可能在相关卫生机构采集样本后，其确诊日期被回填。该报取得的文件中显示，一名55岁的湖北省男子可能是第一位感染冠病的病患，确诊日期早在11月17日。当天起，有关当局每天报告一到五起确诊病例，截至12月15日，总数已达27例。单日确诊人数也在12月17日出现双位数，截至当月20日，总数达到60例。【该报道未展示文件原貌，也没有透露文件生成的时间及其产生的过程。】<br>"
+
 - date: 2019年12月1日
   items:
   - item_name: news
@@ -3305,6 +3310,8 @@
     content: "【武汉-湖北】<br>"
   - item_name: news
     content: "[湖北日报](https://weibo.com/2827102952/ICHvejgoW)：湖北省防控指挥部发布最新通知，要求疫情未解除前，全省暂不开放影剧院、棋牌室、游艺厅、网吧、舞厅、酒吧、KTV、培训机构、室内游泳馆（池）、密闭场所或利用地下空间等通风条件较差的体育场馆或体育场馆部分区域。<br>"
+  - item_name: news
+    content: "国家卫健委医政医管局监察专员焦雅辉接受央视[新闻一加一](https://weibo.com/1737943044/ICJ969nea?from=page_1002061737943044_profile&wvr=6&mod=weibotime&type=comment)采访表示，“两山”医院现在火神山还有40多名患者，雷神山还有15名左右的患者。就在今天晚上跟省市卫健委的，还有几家医院的同志一起在研究，也要在15号之前把这两家医院的病人也要清空，要转到同济、协和、人民和中南这4家医院当中去。“两山”医院也要关闭，经过消杀以后备用。这两家医院不会马上拆除，还是会保留一段时间的。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -3333,7 +3340,11 @@
   - item_name: group
     content: "【武汉-湖北】<br>"
   - item_name: news
+    content: "雷神山建设者之一[用户5963934469](https://weibo.com/5963934469/ICQsdtU6e?from=page_1005055963934469_profile&wvr=6&mod=weibotime&type=comment#_rnd1586691940042)微博表示，4月7日开会希望索取荣誉证书与奖章未果，4月8日被分开遣送出湖北。此前他们还反映建设方亏欠薪资。<br>"
+  - item_name: news
     content: "方方接受[学人Scholar](http://mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247497020&idx=1&sn=72e13787e5b5ef8064fc93212bc254c6&chksm=f9632897ce14a181434fa01d3babb0a8034b270301182747f965b6599660e04b0d91939f8aff&mpshare=1&scene=24&srcid=0411IMil0ZLsEt9UNYQJyxC7&sharer_sharetime=1586577407668&sharer_shareid=f266a070c079550e6b90acd80c8f2b66#rd)采访，回应此前网传《武汉日记》将在海外出版一事。方方澄清此事得到了她的授权，但并不是像网上某些人说的那样，是事先约稿。并表明在同意出版这本书时，就跟译者白睿文先生说过，这本书的所有稿费都会捐出来，帮助一些应该帮助的人。<br>"
+  - item_name: news
+    content: "[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_6938883)：武汉解封后江夏区金口中心卫生院范湖分院检验科医生甘如意返回家乡湖北荆州公安县，家乡人民用最高礼仪迎接她。1月31日，医生甘如意从老家出发，通过骑行和搭车，四天三夜行程300多公里，赶回武汉的医院抗疫。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -3344,6 +3355,8 @@
     content: "[上海卫健委](http://wsjkw.sh.gov.cn/xwfb/20200411/a5692d4884004ffe82ba79b1d834a742.html)：4月10日0—24时，无新增境外输入性新冠肺炎确诊病例。新增俄罗斯输入疑似80例，来自4月10日的同一架航班。累计报告输入确诊216例，现存无症状感染者0例。<br>"
   - item_name: news
     content: "[央视新闻](https://weibo.com/2656274875/ICSc25keh)：国务院印发通知要求：①各省份于每日12:00前报送前一日检测情况，首次报送时间为4月13日；②对新冠肺炎疑似或确诊患者，应及时转入定点医院进一步诊断或治疗，不得擅自允许患者自行转院或离院。<br>"
+  - item_name: news
+    content: "[广州公安](https://weibo.com/1722022490/ICQTnaksK?from=page_1001061722022490_profile&wvr=6&mod=weibotime&type=comment)：近日，一则三元里、瑶台等地有“两名外籍人员带病逃脱”的信息在社交网络上传播，现经警方核查证实为谣言。4月9日凌晨，荔湾警方找到发布该谣言的邓某（男，42岁，广州荔湾区人）。邓某交代，4月7日早上在所住小区道听途说未经证实的相关信息后，在家人微信群内发了该信息，提醒家人注意安全，没想到该信息被家人在社交媒体广泛传播。经民警教育，邓某及其家人认识到自己的错误，已经删除相关信息。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -3354,6 +3367,8 @@
     content: "[CNN](https://edition.cnn.com/2020/04/10/uk/boris-johnson-coronavirus-health-uk-gbr-intl/index.html)：英国首相鲍里斯・约翰逊从圣托马斯医院（St Thomas' Hospital) 的ICU转到该院普通病房后，目前可以进行短暂的行走，中间需要休息。<br>"
   - item_name: news
     content: "[中国经济网](https://weibo.com/1663612603/ICNWl54Ef)：上午，中国政府赴俄罗斯抗疫医疗专家组一行10人，从哈尔滨启程，赴俄协助开展疫情防控工作。专家组由国家卫生健康委组建，黑龙江省卫生健康委选派。<br>"
+  - item_name: news
+    content: "[央视新闻](https://weibo.com/2656274875/ICSiMeQVV?ref=collection&type=comment#_rnd1586691761574)：当地时间11日，据西班牙媒体，西班牙全国共有约25000名医护人员感染新冠肺炎。<br>"
 
 - date: 2020年4月12日
   items:
