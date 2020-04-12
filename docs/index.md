@@ -1920,9 +1920,25 @@
 * 方方接受[学人Scholar](http://mp.weixin.qq.com/s?__biz=MzUxMjYyNTg2MA==&mid=2247497020&idx=1&sn=72e13787e5b5ef8064fc93212bc254c6&chksm=f9632897ce14a181434fa01d3babb0a8034b270301182747f965b6599660e04b0d91939f8aff&mpshare=1&scene=24&srcid=0411IMil0ZLsEt9UNYQJyxC7&sharer_sharetime=1586577407668&sharer_shareid=f266a070c079550e6b90acd80c8f2b66#rd)采访，回应此前网传《武汉日记》将在海外出版一事。方方澄清此事得到了她的授权，但并不是像网上某些人说的那样，是事先约稿。并表明在同意出版这本书时，就跟译者白睿文先生说过，这本书的所有稿费都会捐出来，帮助一些应该帮助的人。<br>
 
 【中国】<br>
+* [内蒙古卫健委](https://weibo.com/2542108667/ICNid5H7E?refer_flag=1001030103_&type=comment)：4月10日0-24时，内蒙古新增俄罗斯输入确诊27例，新增疑似1例，累计报告境外输入确诊80例，报告无症状感染者0例。<br>
+* [黑龙江卫健委](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8193/navid/42/id/3)：4月10日0-24时，新增确诊23例（含省内1例，22例为俄罗斯输入），新增无症状感染者5例（俄罗斯输入），累计报告境外输入确诊177例，现存境外输入无症状感染者146例。<br>
+* [上海卫健委](http://wsjkw.sh.gov.cn/xwfb/20200411/a5692d4884004ffe82ba79b1d834a742.html)：4月10日0—24时，无新增境外输入性新冠肺炎确诊病例。新增俄罗斯输入疑似80例，来自4月10日的同一架航班。累计报告输入确诊216例，现存无症状感染者0例。<br>
+* [央视新闻](https://weibo.com/2656274875/ICSc25keh)：国务院印发通知要求：①各省份于每日12:00前报送前一日检测情况，首次报送时间为4月13日；②对新冠肺炎疑似或确诊患者，应及时转入定点医院进一步诊断或治疗，不得擅自允许患者自行转院或离院。<br>
 
 【国际】<br>
 * [约翰斯•霍普金斯大学](https://coronavirus.jhu.edu/)：全球累计确诊1,681,964例，死亡102,025，治愈341,185例。死亡病例突破10万。<br>
 * [苹果](https://www.apple.com/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/)和[谷歌](https://blog.google/inside-google/company-announcements/apple-and-google-partner-covid-19-contact-tracing-technology/amp/)将合作研究利用蓝牙技术来寻找密切接触者，设计中会考虑用户隐私和安全。<br>
 * [CNN](https://edition.cnn.com/2020/04/10/uk/boris-johnson-coronavirus-health-uk-gbr-intl/index.html)：英国首相鲍里斯・约翰逊从圣托马斯医院（St Thomas' Hospital) 的ICU转到该院普通病房后，目前可以进行短暂的行走，中间需要休息。<br>
+* [中国经济网](https://weibo.com/1663612603/ICNWl54Ef)：上午，中国政府赴俄罗斯抗疫医疗专家组一行10人，从哈尔滨启程，赴俄协助开展疫情防控工作。专家组由国家卫生健康委组建，黑龙江省卫生健康委选派。<br>
+
+## 2020年4月12日
+【武汉-湖北】<br>
+
+【中国】<br>
+* [上海卫健委](https://weibo.com/2372649470/ICVYyFnnn?refer_flag=1001030103_&type=comment#_rnd1586651144158)：4月11日0—24时，上海新增境外输入确诊52例（51例来自俄罗斯），无新增本地确诊病例，境外输入累计确诊268例（治愈110例）。<br>
+* [黑龙江卫健委](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8195/navid/42/id/3)：4月11日0-24时,黑龙江省省内新增确诊病例2例（哈尔滨市）。截至4月11日24时，累计报告本地确诊病例486例，现有确诊病例4例（哈尔滨市），现有无症状感染者4例（哈尔滨市）。当日发热门诊诊疗人数936人。累计追踪到密切接触者16610人，尚有221人正在接受医学观察。<br>
+* [广东卫健委](https://www.weibo.com/1962787713/ICWuVAJz4?refer_flag=1001030103_&type=comment#_rnd1586656041208)：4月11日0-24时，全省新增境外输入确诊病例4例，广州报告（来自柬埔寨2例，来自英国、俄罗斯各1例，通过入境口岸或隔离点发现，入关后即被隔离观察）。<br>
+
+【国际】<br>
+* [CNN](https://twitter.com/cnnbrk/status/1249049277550202883)：美国罗斯福号航母（USS Theodore Roosevelt）累计有550人新冠病毒检测呈阳性。<br>
 <br><a name="bottom">[回到顶部](#top) </a>
