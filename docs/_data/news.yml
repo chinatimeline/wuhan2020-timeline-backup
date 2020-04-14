@@ -2928,6 +2928,8 @@
     content: "[Reuters](https://www.reuters.com/article/us-health-coronavirus-mali-idUSKBN21C1EH)：西非内陆国马里首次报告确诊2例新冠肺炎病例从法国输入。<br>"
   - item_name: news
     content: "[央视网](http://m.news.cctv.com/2020/03/25/ARTINYOXFNGuQcGX2TS5zefa200325.shtml)： 西非国家几内亚比绍首次报告确诊2例新冠肺炎病例。<br>"
+  - item_name: news
+    content: "印度实施全国封锁。<br>"
 
 - date: 2020年3月26日
   items:
@@ -3175,6 +3177,8 @@
     content: "[健康广东](https://weibo.com/1962787713/IBSBFATid)：广东新增境外输入确诊3例，新增境外输入关联5例，现存确诊129例，累计确诊1524例，新增无症状感染者2例，现存无症状感染者，深圳市 21 例，广州市2例。<br>"
   - item_name: news
     content: "[中国新闻网](https://weibo.com/1784473157/IBUbY9Pmx)：据山东大学齐鲁医院官方网站消息：山东省第一批援鄂医疗队员、我院呼吸与危重症医学科主管护师张静静，于3月21日随山东第一批医疗队员离鄂返回济南，按规定集中隔离医学观察14天。期间三次核酸检测均为阴性，于4月4日下午5点隔离期满，拟于5日上午返家休息。5日早上7点突发心脏骤停，目前，医院正在全力组织抢救。<br>"
+  - item_name: news
+    content: "在一次视频交流会上，中国科学院院士、新型冠状病毒联防联控工作机制科研攻关专家组专家王福生表示，不用太过忧虑，无症状感染者所占比例较小，毒力也较弱，不会导致疫情二次暴发。但科学界和医学界对无症状感染者的判断，至今仍是缺乏标准的。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -3186,6 +3190,8 @@
     content: "【武汉-湖北】<br>"
   - item_name: news
     content: "[新华网](https://weibo.com/2810373291/IC2Mh2UxY)：据湖北省新冠肺炎疫情防控指挥部最新通报，武汉市“无疫小区”累计达6988个，占比98.4%。较3天前的上一次认定，#武汉无疫小区数量减少45个#，占比下降0.6%。70个小区因无症状感染者等原因，被取消或暂停“无疫”命名，其中部分已认定的“无疫小区”被“摘牌”。<br>"
+  - item_name: news
+    content: "[封面新闻](https://weibo.com/1496814565/IC7CIhYsE?ref=collection&type=comment#_rnd1586829796938)：武汉大学的杨炯教授认为，从近三天普查数据来看，武汉无症状感染者占0.15%-0.3%左右，约有一两万。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -3421,5 +3427,18 @@
     content: "[上海卫健委](http://wsjkw.sh.gov.cn/xwfb/20200413/fd7920e4be354ec7b2692464d647ed87.html)：4月12日0—24时，通过口岸联防联控机制，报告11例境外输入性新冠肺炎确诊病例，无新增本地新冠肺炎确诊病例，治愈出院8例。<br>"
   - item_name: news
     content: "[内蒙古卫健委](http://wjw.nmg.gov.cn/doc/2020/04/13/298028.shtml)：4月12日16时至4月13日7时，内蒙古 新增境外输入确诊病例1例，无新增疑似病例，排除2例疑似病例。<br>"
+  - item_name: news
+    content: "[广州卫健委](https://www.weibo.com/3186551317/ID7d1w14h?type=comment#_rnd1586754987051)：4月12日0时至24时，广州市报告新增确诊病例3例，其中湖北输入病例1例（社区主动排查发现）、境外输入关联病例2例（主动排查密切接触者发现）。新增出院病例11例。<br>"
+  - item_name: news
+    content: "[黑龙江发布](https://weibo.com/3950759014/ID9uxfBi9)：黑龙江省应对新冠肺炎疫情工作领导小组指挥部正式向各市（地）指挥部下发通知，充分发动人民群众检举揭发相关问题线索。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+
+- date: 2020年4月14日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
   - item_name: group
     content: "【国际】<br>"
