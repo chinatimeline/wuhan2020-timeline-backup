@@ -148,7 +148,7 @@
 * 深夜，官方披露的第一位死者曾某某（见12月20日条目）被上了ECMO抢救，也是此次疫情中的第一位。见3月5日[南方周末｜“重组”金银潭：疫情暴风眼的秘密](https://github.com/Pratitya/wuhan2020-timeline/issues/146)。<br>
 
 【中国】<br>
-* [南方周末（海外版）](https://www.scmp.com/news/china/politics/article/3044207/china-shuts-seafood-market-linked-mystery-viral-pneumonia)：世卫组织（WHO）与北京接触针对武汉神秘肺炎疫情，27人确诊。<br>
+* [南华早报（海外版）](https://www.scmp.com/news/china/politics/article/3044207/china-shuts-seafood-market-linked-mystery-viral-pneumonia)：世卫组织（WHO）与北京接触针对武汉神秘肺炎疫情，27人确诊。<br>
 
 【国际】<br>
 * 世界卫生组织要求中国当局提供更多信息、评估风险。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。<br>
