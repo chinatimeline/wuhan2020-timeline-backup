@@ -3438,7 +3438,44 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[国家卫建委](https://weibo.com/2834480301/IDfkaC9tB?type=comment#_rnd1586829437412)：截至4月13日24时，湖北无新增确诊病例，新增治愈出院病例25例（武汉25例），无新增死亡病例，现有确诊病例219例（武汉218例），其中重症病例69例（武汉68例）。累计治愈出院病例64363例（武汉47211例），累计死亡病例3221例（武汉2579例），累计确诊病例67803例（武汉50008例）。无新增疑似病例，无现有疑似病例。<br>"
+  - item_name: news
+    content: "[湖北日报](https://weibo.com/2827102952/IDiNCCYGx?from=page_1002062827102952_profile&wvr=6&mod=weibotime&type=comment#_rnd1586918252356)：武汉市本日开始进行为期3天的血清流行病学抽样调查，16日全市结束采样。共覆盖13个行政区，依据新冠肺炎累计发病情况和辖区人口比例，每区确定5-11个街道，每个街道从给定的社区范围中选取一个社区，共100个社区作为调查点，共抽样人次1.1万人。<br>"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "[黑龙江卫健委](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8199/navid/42/id/3)：4月13日0-24时 黑龙江省 新增俄罗斯输入确诊79例（无症状转确诊65例），新增俄罗斯输入无症状感染者1例。<br>"
+  - item_name: news
+    content: "[广东卫健委](http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2971353.html)：4月13日0-24时，广东新增境外输入确诊6例（广州4例，深圳2例），新增境内确诊3例（广州2例，佛山1例），新增无症状感染者28例（广州26例，深圳1例，佛山1例）。<br>"
+  - item_name: news
+    content: "[南方日报](https://weibo.com/1682207150/IDhsxAwzm)：截至4月13日，广州检测出111名非洲籍在穗人士新冠肺炎病毒核酸呈阳性，其中19人为境外输入型确诊病例。广州市委常委、常务副市长陈志英表示，这111名中包括了无症状感染者，目前都在进行治疗。陈志英介绍，从4月4日起，广州对在穗的4553名非洲籍人士进行了核酸检测。<br>"
+  - item_name: news
+    content: "B站up主“翠花不太脆”发布[《内圆外方》用说唱的打开方式谈谈“方方日记”](https://www.bilibili.com/video/BV1c54y197us?t=154)，diss方阿姨。<br>"
   - item_name: group
     content: "【国际】<br>"
+  - item_name: news
+    content: "[CNN](https://twitter.com/cnnbrk/status/1249942158762807297?s=19)：印度延长封城期到5月3号。<br>"
+  - item_name: news
+    content: "[Reuters](https://twitter.com/Reuters/status/1249941973563211776?s=19)：泰国取消传统新年宋干节（Songkran）的泼水仪式。<br>"
+  - item_name: news
+    content: "[Reuters](https://twitter.com/Reuters/status/1249792163224981504?s=20)：法国封城延长至5月11日。<br>"
+  - item_name: news
+    content: "[Reuters](https://twitter.com/Reuters/status/1249970649524621312?s=20)：印尼爪洼岛的村民裹白布扮成僵尸吓唬村民，为了阻止村民出门。<br>"
+
+- date: 2020年4月15日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: news
+    content: "[海南日报](https://mp.weixin.qq.com/s/t7Tp4Rm3WTYMA6yz4hyASQ)：海南省新型冠状病毒肺炎疫情防控工作指挥部发布关于加强疫情输入防范工作的通知，黑龙江省绥芬河市，内蒙古自治区满洲里市，广东省揭阳市，广州市越秀区、白云区，深圳市宝安区等六个地区，目前疫情分级为中（高）风险地区，凡是14天内有上述地区旅居史人员，必须持有当地7天内核酸检测阴性结果证明才能入琼。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+  - item_name: news
+    content: "[BBC](https://www.bbc.com/news/world-us-canada-52289056)：美国总统特朗普声明，美国将暂停资助世界卫生组织/WHO。"
+  - item_name: news
+    content: "[联合早报](https://www.zaobao.com/realtime/singapore/story20200414-1045488)：新加坡政府规定，所有人只要出门就必须戴上口罩。唯一的例外是两岁以下的幼童，以及在户外进行激烈运动者。初犯者将罚款300元，重犯者则可被罚款1000元或被控上法庭。外籍人士的工作证件或永久居民权也可能被吊销。<br>"
+  - item_name: news
+    content: "[纽约市政府](https://www1.nyc.gov/site/doh/covid/covid-19-data.page)报告3778例疑似新冠死亡病例（从3月11日迄今为止，去世前有相关症状，但未检测）。<br>"
