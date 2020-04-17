@@ -841,6 +841,8 @@
 * [新华社](http://www.xinhuanet.com/politics/2020-02/10/c_1125554205.htm)：国务院联防联控机制新闻发布会上，民政部基层政权建设和社区治理司司长陈越良说，各地已经认识到上门体温排查，共用一支笔、一个体温计可能带来的交叉感染风险，一些社区不再使用一张纸、一支笔的传统登记方式。将通过扫描二维码，微信小程序等方式实施录入汇总，最大限度避免近距离接触和产生交叉感染的风险。<br>
 * 下午，[央视新闻](https://mp.weixin.qq.com/s/wJ0Iz0DfuVHptfxqfHIk2Q)报道，习近平在北京到朝阳区安贞街道安华里社区调研指导新冠肺炎疫情防控工作。<br>
 * 广西省南宁市纪委监委决定给予市卫生健康委员会办公室主任蓝智撤销党内职务、政务撤职处分。2月5日，蓝智在开展新型冠状病毒感染肺炎疫情防控工作中，擅自将不实的疫情防控信息，以微信方式发至其家族群和老乡群，导致该信息迅速在网络媒体上传播和扩散，造成严重不良社会影响。见[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_5917272)。<br>
+* 同日，世卫组织专家考察组先遣团队到达中国北京。见[Report of the WHO-China Joint Mission
+on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf?sfvrsn=fce87f4e_2)p24。<br>
 
 【国际】<br>
 
@@ -921,9 +923,9 @@
 【中国】<br>
 * 11时，贵州综合广播微博发布中国疾控中心主任高福涉嫌严重违纪违法目前接受调查，后被河南反邪教、黑龙江卫视、广州日报转载发布。13时[微博](https://weibo.com/2085931962/IuiZD14Im)自证是谣言。<br>
 * 15时，[央视网](http://news.cctv.com/2020/02/15/ARTI7nwww7GOzxyVo1BUzOBR200215.shtml)报道：国务院联防联控机召开新闻发布会，科技部社会发展科技司司长吴远彬在会上介绍，为高效有序地推进全国应急科技攻关，科技部专门印发了《关于加强新冠肺炎科技攻关相关管理的通知》，还出台《关于加强新冠病毒高等级病毒微生物实验室生物安全管理的指导意见》要加强对实验室，特别是对病毒的管理，确保生物安全。<br>
+* 15时，[新华社](http://www.gov.cn/xinwen/2020-02/15/content_5479279.htm)记者从国家卫生健康委员会了解到，经中方与世界卫生组织协商，世界卫生组织及有关国际专家将于本周末前陆续抵京。联合专家考察组将与国务院应对新型冠状病毒感染肺炎疫情联防联控机制相关部门进行深入交流，之后将对三个省（市）进行考察，了解城乡防控措施的实施情况及效果，访问相关流行病学、医疗救治、实验室检测、科学研究等相关机构，并对中国和全球疫情防控提出建议。<br>
 * [央视新闻](https://wap.peopleapp.com/article/5156381/5055261)：近日，在钟南山院士的指导下，实验室联合多家研究机构，最新研发出新型冠状病毒IgM抗体快速检测试剂盒，并已在实验室和临床完成初步评价。据介绍，仅需采取一滴血就可在15分钟内肉眼观察获得检测结果，且患者的血浆稀释500至1000倍后，仍能检测出阳性条带。<br>
 * [中国日报网](https://weibo.com/2127460165/IukTGksbG)：从交通运输部获悉，经国务院同意，2月17日零时起至疫情防控工作结束，全国收费公路免收车辆通行费。具体截止时间另行通知。<br>
-* 同日，世卫组织专家考察组国际成员到达中国。事后，中国外交部发言人耿爽17日在例行记者会上介绍，考察组将赴北京、广东、四川开展现场考察。至于为何不前往武汉考察，联合国驻华协调员罗世礼Nicholas Rosellini在央视的专访中表示，目前武汉卫生系统及各方面承受着巨大工作负荷，以及人员物资的巨大压力，此时并非考察的最佳时机，希望今后“他们（考察组成员）有机会去武汉考察”。见1月20日[21财经 · 世卫组织公布国际专家组机构名单，正在中国开展实地工作]。<br>
 * [求是网 · 大国领袖的责任担当——总书记的战“疫”日志](https://github.com/Pratitya/wuhan2020-timeline/issues/143#issue-575963583)<br>
 
 【国际】<br>
@@ -940,6 +942,7 @@
 【中国】<br>
 * [卫生福利部](https://www.cdc.gov.tw/Bulletin/Detail/p4R3ro3Dvdtz2EYo9fo_Eg?typeid=9)：截止下午，台湾累计确诊 20 例，1 例死亡，2 例出院，17例持续出院隔离。<br>
 * [财新网](https://weibo.com/1642088277/Iuwn18l93)：河南新县疫情防控工作指挥部通报了该县2例超“常规”病例。其中，吴某某三次进行核酸检测，前两次均阴性，第三次阳性，其1月14日从武汉返乡至确诊，时长达34天。当地提醒，有湖北居住史、旅行史、接触史的居民，居家隔离观察时间满14天的，一律再延长7天。<br>
+* [新华社](http://www.gov.cn/xinwen/2020-02/17/content_5480069.htm)：晚间，国家卫生健康委在京举办新冠肺炎疫情防控座谈会。中国—世界卫生组织新冠肺炎联合专家考察组和国务院联防联控机制相关成员单位代表约80人参会。联合专家考察组于2月17日赴北京市、广东省、四川省开展现场考察。<br>
 
 【国际】<br>
 * [NHK](https://www3.nhk.or.jp/news/html/20200216/k10012287771000.html?utm_int=word_contents_list-items_002&word_result=%E6%96%B0%E5%9E%8B%E8%82%BA%E7%82%8E)：日本厚生劳动相加藤胜信16日表示，停泊在横滨港的“钻石公主号”邮轮上新增70名新冠肺炎确诊病例，目前，“钻石公主号”邮轮上共确诊355例新冠肺炎病例。<br>
@@ -955,6 +958,9 @@
 * [央视网](http://m.news.cctv.com/2020/02/17/ARTIQ7NNaL55ld7vllFnUC5z200217.shtml)：政协第十三届全国委员会第三十三次主席会议在京召开，研究了关于推迟召开政协第十三届全国委员会第三次会议和常务委员会第十次会议的有关事项等。<br>
 * [新华网](https://c.m.163.com/news/a/F5K9RUNJ00018AOQ.html)：退役军人事务部、中央军委政治工作部近日联合印发《关于妥善做好新冠肺炎疫情防控牺牲人员烈士褒扬工作的通知》，要求各地各部门妥善做好因疫情防控牺牲人员烈士褒扬工作，符合烈士评定（批准）条件的人员，应评定（批准）为烈士。<br>
 * 中国疾控中心主任高福对[《财经》](https://news.caijingmobile.com/article/detail/412590)记者表示“我不能去网络吵架”，“希望大家像我一样，全身心投入抗击疫情的工作，能出力出力；因为专业或其他方面限制，不能亲自出力，就不信谣、不传谣。”<br>
+* [新华社](http://www.gov.cn/xinwen/2020-02/17/content_5480201.htm)：中国—世界卫生组织新冠肺炎联合专家考察组本日在北京开展现场调研。考察组参观访问了中国疾控中心、首都医科大学附属北京地坛医院和北京市朝阳区安贞街道安华里社区。18日，联合专家考察组将分赴广东省和四川省进行现场调研。<br>
+* 中国外交部发言人耿爽在例行记者会上介绍，世卫组织考察组将赴北京、广东、四川开展现场考察。至于为何不前往武汉考察，联合国驻华协调员罗世礼Nicholas Rosellini在央视的专访中表示，目前武汉卫生系统及各方面承受着巨大工作负荷，以及人员物资的巨大压力，此时并非考察的最佳时机，希望今后“他们（考察组成员）有机会去武汉考察”。详见[Report of the WHO-China Joint Mission
+on Coronavirus Disease 2019 (COVID-19)](https://www.who.int/docs/default-source/coronaviruse/who-china-joint-mission-on-covid-19-final-report.pdf?sfvrsn=fce87f4e_2)p24。<br>
 * 甘肃援鄂女护士集体剃光头落泪的视频自每日甘肃网的微博发酵，题为“【剪去秀发，她们整装出征】”（原博及视频已删除）。引发网友热议。视频显示合照中的唯一男子佩戴口罩疑为N95，优于女护士的医用口罩，亦惹来网友争议。[央视新闻微博](https://weibo.com/2656274875/IuCVpmWbe)亦报道“医护人员驰援湖北前集体剪光头”相关微视频。有网友呼吁，[官方请停止用女性的身体，作为宣传的工具](https://mp.weixin.qq.com/s/sM5HZ3lTRx_BSC5NsnRbMg)。<br>
 
 【国际】<br>
@@ -990,7 +996,7 @@
 * [剩余价值 · 瘟疫、语言和具体的人：与历史学家罗新的聊天](https://github.com/Pratitya/wuhan2020-timeline/issues/120#issue-569310623)<br>
 
 【国际】<br>
-* 世界卫生组织总干事谭德塞在2019冠状病毒病疫情代表团通报会上公布了中国—世界卫生组织新冠肺炎联合专家考察组的机构名单。专家组包括来自下列机构的流行病学、病毒学、临床管理、疫情控制和公共卫生领域的专家：新加坡国立大学(The National University of Singapore)、圣彼得堡巴斯德研究所(The Saint Petersburg Pasteur Institute)、日本国立传染病研究所(The National Institute of Infectious Diseases, Japan)、韩国首尔国立大学医学院(The Seoul National University College of Medicine, Republic of Korea)、尼日利亚疾病控制中心(The Nigeria Centre for Disease Control)、美国疾病预防控制中心(The U.S. Centers for Disease Prevention and Control)、美国国家卫生研究院(The U.S. National Institutes of Health)、俄罗斯国家肺结核和传染病医学研究中心(The Russian National Medical Research Center of Phthisiopulmonology and Infectious Diseases)、德国罗伯特·科赫研究所(TheRobert Koch Institute, Germany)。<br>
+* 世界卫生组织总干事谭德塞在2019冠状病毒病疫情代表团通报会上公布了[中国—世界卫生组织新冠肺炎联合专家考察组的机构名单](https://www.who.int/dg/speeches/detail/who-director-general-s-opening-remarks-at-the-mission-briefing-on-covid-19)。专家组包括来自下列机构的流行病学、病毒学、临床管理、疫情控制和公共卫生领域的专家：新加坡国立大学(The National University of Singapore)、圣彼得堡巴斯德研究所(The Saint Petersburg Pasteur Institute)、日本国立传染病研究所(The National Institute of Infectious Diseases, Japan)、韩国首尔国立大学医学院(The Seoul National University College of Medicine, Republic of Korea)、尼日利亚疾病控制中心(The Nigeria Centre for Disease Control)、美国疾病预防控制中心(The U.S. Centers for Disease Prevention and Control)、美国国家卫生研究院(The U.S. National Institutes of Health)、俄罗斯国家肺结核和传染病医学研究中心(The Russian National Medical Research Center of Phthisiopulmonology and Infectious Diseases)、德国罗伯特·科赫研究所(TheRobert Koch Institute, Germany)。<br>
 * [今日俄罗斯](https://www.rt.com/russia/481133-russia-bans-china-visitors-coronavirus/)：俄罗斯暂时禁止所有中国公民以旅游、工作、教育或私人为由入境。措施由当地星期四（20号）零时起生效。<br>
 * [路透社](https://www.reuters.com/article/us-china-health-iran/two-iranians-die-after-testing-positive-for-coronavirus-official-idUSKBN20D1HN)：伊朗库姆省两名病人本日确诊就医，均已死亡。<br>
 * 新加坡部长与中华总商会内部会面被录音。[网传录音](https://new.qq.com/omn/20200219/20200219V0KTHQ00.html)显示，新加坡贸工部长陈振声称，官员带头戴口罩会引发恐慌，医疗系统扛不住。<br>
@@ -1004,6 +1010,7 @@
 
 【中国】<br>
 * 豆瓣日记功能恢复。<br>
+* 15时，[国务院联防联控机制新闻发布会](http://www.gov.cn/xinwen/gwylflkjz23/index.htm)在北京国二招宾馆（北京市西直门南大街6号）东楼三层中会议厅召开，国家卫生健康委新闻发言人、宣传司副司长米锋称，2月18日-19日，中国—世界卫生组织新型冠状病毒肺炎联合专家考察组分为两个小组，分别在四川和广东考察新冠肺炎疫情防控工作，与省、市卫生行政部门座谈，并赴有关疾控、医疗机构等进行了现场考察。<br>
 * 中国科学院西双版纳热带植物园官网发布文章[《版纳植物园基于全基因组数据解析新型冠状病毒的演化和传播》](http://www.xtbg.ac.cn/xwzx/kydt/202002/t20200220_5502619.html)，通过全基因组数据解析发现：武汉华南海鲜市场的新型冠状病毒是从其它地方传入，新型冠状病毒在2月12日之前发生过2次明显的种群扩张，新型冠状病毒基因组尚未发生重组事件。<br>
 * [新京报](https://new.qq.com/omn/20200225/20200225A0TR0300.html)：仙桃市人社局对刘文雄作出不予认定工伤决定。2月13日6时许，湖北省仙桃市三伏潭镇卫生院医生刘文雄1个月接诊3000多名病人，在家中猝死。由于刘文雄并非感染新冠肺炎，也未在规定的工作时间与地点死亡。<br>
 
@@ -1040,6 +1047,7 @@
 
 【中国】<br>
 * [国家卫健委](http://www.nhc.gov.cn/xcs/yqfkdt/202002/543cc508978a48d2b9322bdc83daa6fd.shtml)：湖北省将2月19日核减的病例数重新加回到确诊病例，并对当日新增病例数进行校正。据此，2月19日0—24时，全国新增确诊病例订正为820例，全国累计确诊病例订正为75002例，全国累计出院病例订正为16157例。<br>
+* [新华社](http://www.gov.cn/xinwen/2020-02/22/content_5482186.htm)记者本日从国家卫健委获悉，中国—世界卫生组织新型冠状病毒肺炎联合专家考察组已于2月16日正式在华开展工作，目前已完成在北京、广东和四川的考察。联合专家考察组部分中外专家于22日赴武汉，将与当地卫生行政部门座谈，并参观有关医疗卫生机构。<br>
 * [辽宁卫健委](http://wsjk.ln.gov.cn/wst_wsjskx/202002/t20200222_3747001.html)：根据国家有关法律法规规定和辽宁省新冠肺炎疫情发展形势，自2020年2月22日9时起，将辽宁省新冠肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应。<br>
 * 公众号“半月谈”的文章[新华社：让人讲真话，天塌不下来！](https://mp.weixin.qq.com/s/G2ZJI1ARbSIkyNAR6kxqOg)被微信平台以“内容未经授权”为由禁止查看，作者为杨金志的原文[半月谈：敢言，是一种宝贵的品格！](http://www.xinhuanet.com/2020-02/20/c_1125603673.htm)见新华网；有热心网友将文章全文放到[以太坊区块链](https://etherscan.io/tx/0xe86056bb8203470e28a146ca9409b1aad624457b6254d94f5590f978a9c16855)。【按，在页面下方点击“Click to see more”，然后点击“view input as”的下拉菜单，选择UTF-8即可展示文章。】
 
@@ -1075,6 +1083,8 @@
 【中国】<br>
 * [云南卫健委](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158247246967334043)：自2020年2月24日零时起，云南省新型冠状病毒肺炎疫情防控应急响应级别由一级应急响应调整为省级三级应急响应。<br>
 * [广东省卫健委](http://wsjkw.gd.gov.cn/zwyw_gzdt/content/post_2905980.html)：根据国家有关法律法规规定和《广东省突发公共卫生事件应急预案》，自2020年2月24日9时起，将广东省新冠肺炎疫情防控应急响应级别由省重大突发公共卫生事件一级响应调整为二级响应。<br>
+* 11时，[新华社](http://www.gov.cn/xinwen/2020-02/24/content_5482606.htm)记者从国家卫生健康委获悉，中国—世界卫生组织新冠肺炎联合专家考察组22日至23日在湖北省开展现场调研。考察组访问了同济医院（光谷院区）、武汉体育中心方舱医院，赴省疾控中心调研湖北省和武汉市新冠肺炎疫情防控、医疗救治等情况，并与省联防联控机制成员单位负责同志和专家进行交流。考察组23日在武汉向国家卫健委主任马晓伟反馈了本次在华考察的情况、主要发现和建议。<br>
+* [新华社](http://www.gov.cn/xinwen/2020-02/25/content_5482854.htm)本日电：在结束对中国为期9天的考察后，中国—世界卫生组织新冠肺炎联合专家考察组在京举行新闻发布会，介绍考察情况以及对中国及全球疫情防控的建议，称中国采取了前所未有的公共卫生应对措施，阻断病毒的人际传播方面取得明显效果。<br>
 * 下午，[央视新闻](https://m.weibo.cn/2656274875/4475528612737324)：十三届全国人大常委会第十六次会议举行闭幕会。会议表决通过全国人大常委会[《关于全面禁止非法野生动物交易、革除滥食野生动物陋习、切实保障人民群众生命健康安全的决定》](http://www.npc.gov.cn/npc/c30834/202002/74a850a51661458390c9ae89e35b3807.shtml)和[《关于推迟召开第十三届全国人民代表大会第三次会议的决定》](http://www.npc.gov.cn/npc/c30834/202002/5944b92300254f9cbf3cf685ad992d25.shtml)。<br>
 * [江苏省人民政府](https://weibo.com/2259661342/IvJIAhfmk)研究决定，自2020年2月24日24时起，将疫情防控应急响应级别由突发公共卫生事件一级响应调整为二级响应。<br>
 * [广西卫健委](http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovzcwj/2020/0224/69242.html)：自2月24日20时起，将广西新冠肺炎疫情防控应急响应级别由自治区重大突发公共卫生事件一级响应调整为三级响应。<br>
