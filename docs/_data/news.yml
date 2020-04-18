@@ -3548,11 +3548,34 @@
   items:
   - item_name: group
     content: "【武汉-湖北】<br>"
+  - item_name: news
+    content: "[武汉市新冠肺炎疫情防控指挥部](http://www.wuhan.gov.cn/hbgovinfo/zwgk_8265/tzgg/202004/t20200418_309737.html)：4月16日24时，武汉确诊病例核增325例，累计确诊病例数订正为50333例；确诊病例的死亡病例核增1290例，累计确诊病例的死亡数订正为3869例。出现以上数据差异的原因：一是疫情早期病人激增，导致医疗资源挤兑，收治能力严重不足，有些患者没有入院治疗，在家中病亡。二是在救治高峰期，医院超负荷运转，医务人员忙于救治，客观上存在迟报、漏报和误报现象。三是由于收治患者的定点医疗机构快速增加，既有部属、省属、市属和区属医院，也有企业、民营医院和方舱医院等，少数医疗机构未能及时与大疫情网对接、报送信息。四是有些死亡病例信息登记不全，存在重报、误报情况。"
   - item_name: group
     content: "【中国】<br>"
+  - item_name: news
+    content: "网传哈尔滨市第二医院因新冠肺炎造成院内感染，透析医护人员被全部隔离。<br>"
+  - item_name: news
+    content: "网传广东广州成为疫区，#广州疫情#登上微博热搜。<br>"
+  - item_name: news
+    content: "临床试验注册网站ClinicalTrials.gov信息显示，瑞德西韦在中国进行的针对轻型、普通型 COVID-19 患者的临床研究因「入组率低」被暂停。在 [ClinicalTrials.gov](http://clinicaltrials.gov/)网站上可查询到，目前该项研究的招募状态为「Suspended」。对于两项临床试验提前停止的解释，研究人员在原因说明中写道：“新冠病毒疫情目前已经被较好地控制，无法招募到符合要求的病人。”瑞德西韦在中国的两项COVID-19研究于2月初启动，分别针对轻型、普通型患者（NCT04252664）以及重型患者（NCT04257656），各自拟入组308和453例患者。<br>"
+  - item_name: news
+    content: "[黑龙江卫健委](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8206/navid/42/id/3)：黑龙江新增确诊11例（哈尔滨3例，俄罗斯输入8例），无症状感染者6例（哈尔滨4例，牡丹江1例，俄罗斯输入1例）。<br>"
+  - item_name: news
+    content: "[黑龙江省纪委监委](http://www.hljjjjc.gov.cn/Hljjjjc/html/news_detail.html?publish_id=f60980a8fd4e42619028690bc978d45c)：发通报，对哈尔滨市近期新冠肺炎疫情防控不力的18名党员干部和公职人员追责问责。通报指出，经省纪委监委研究决定，给予哈尔滨市副市长、市应对新冠肺炎疫情工作领导小组指挥部副总指挥陈远飞政务记过处分；给予哈尔滨医科大学党委常委、副校长，校应对新冠肺炎疫情工作领导小组副组长傅松滨党内警告、政务记过处分。<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
     content: "[tass](https://tass.ru/obschestvo/8263303)：俄罗斯总统普京宣布俄罗斯推迟原定5月9日的莫斯科红场的胜利日阅兵。<br>"
   - item_name: news
     content: "[联合早报](https://www.zaobao.com.sg/realtime/singapore/story20200416-1046042)：新加坡4月16日激增728起冠病病例，再破单日最高增幅纪录，当中多达654起来自客工宿舍。这使新加坡总病例增至4427起。<br>"
+  - item_name: news
+    content: "[盖茨基金会（The Bill & Melinda Gates Foundation）](https://www.gatesfoundation.org/TheOptimist/Articles/coronavirus-mark-suzman-funding-announcement-2)： 额外追捐1.5亿美元应对新冠。<br>"
+
+- date: 2020年4月18日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
+  - item_name: group
+    content: "【国际】<br>"
