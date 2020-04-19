@@ -113,6 +113,10 @@ pr注意严格按照上述体例编写，以免时间线条目格式混乱！
 * [江西省卫生健康委员会](http://hc.jiangxi.gov.cn/)<br>
 * [重庆市卫生健康委员会](http://wsjkw.cq.gov.cn/)<br>
 
+##### 5. 海外
+* [Government Response to Coronavirus](https://www.usa.gov/coronavirus)<br>
+* [Coronavirus Disease 2019 (COVID-19) — CDC](https://www.cdc.gov/coronavirus/2019-ncov/index.html)<br>
+
 #### （三）医院报告
 * 华山感染 （微信公众号）
 
