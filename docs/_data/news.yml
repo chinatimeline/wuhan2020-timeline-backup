@@ -288,6 +288,8 @@
     content: "武汉市第五医院消化内科吕小红主任建议本院设立发热门诊。见1月28日[冰点周刊 · 钟南山发话前，武汉这位医生向附近学校发出疫情警报](https://github.com/Pratitya/wuhan2020-timeline/issues/39#issue-558504017)。<br>"
   - item_name: news
     content: "西医内科诊所医生刘德炎不放心，想住院，夫妇赶到离诊所较近的二甲医院——武汉市红十字会医院。医院说实在没有救治能力，不敢收。他们又赶到金银潭医院，医院说没有专家证明，收不了。本日女婿小李从鄂州赶过来，开车送他们去同济医院。小李托了关系，给呼吸科赵主任打电话。他说在跟专家组一块开会。小李又打市长热线，市长热线也说，碰到不明原因肺炎，需要专家组确认以后，病人才能去指定的医院。最后，下午辗转入住同济医院中法新城院区。但刘徳炎躺在病床上还不到一个小时，负责那层楼的呼吸科医生来询问了相关病情，对小李说，这种情况要赶紧去定点医院，武汉目前只知道有这种病，但没把握能治好。小李没办法，又带着爸爸妈妈去金银潭医院，那里的医生不收，说是要走政府的正规流程。见4月7日[财新 · 特稿·与新冠病毒搏斗的民营诊所医生](https://github.com/Pratitya/COVID-19-timeline/issues/203#issue-599443011)。<br>"
+  - item_name: news
+    content: "[第一财经 · 武汉积极应对肺炎疫情，病毒类型仍在检测](https://www.yicai.com/news/100453898.html)：一位宝宝的家长张婕告诉第一财经记者，与上个月初带大宝来看流感不同的是，这次在初诊检查时，医生会主动询问“近期有没有去过华南海鲜市场”，检查项目也不单是抽血化验，增加了一项胸透的检查，如果发现肺部有感染，还需做CT检查。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
@@ -338,6 +340,8 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
+    content: "美国疾控中心主任Redfield通知Azar目前在中国发生的疫情。见[WSJ · Health Chief’s Early Missteps Set Back Coronavirus Response](https://www.wsj.com/articles/health-chiefs-early-missteps-set-back-coronavirus-response-11587570514)<br>"
+  - item_name: news
     content: "[新加坡联合早报](http://www.zaobao.com/znews/greater-china/story20200103-1017977)：武汉华南海鲜市场出现不明原因的肺炎持续发酵，相关病患已全部转入当地一家医院集中隔离治疗，截止发稿，官方未对此次肺炎的病原检测结果进行通告说明。香港、台湾等地则已提高防控层级，希望阻绝疫情入境。<br>"
   - item_name: news
     content: "[BBC](https://www.bbc.com/news/world-asia-china-50984025)：中国肺炎爆发：神秘疫情调查在武汉。<br>"
@@ -365,7 +369,9 @@
   - item_name: news
     content: "当地时间1月4日，世界卫生组织[发推](https://twitter.com/WHO/status/1213523866703814656)称，收到中国报告，武汉出现一撮肺炎患者。世界卫生组织总部、亚洲地区以及中国的工作人员密切关注此事。此条推文无配图。<br>"
   - item_name: news
-    content: "[香港特区政府公布](https://www.info.gov.hk/gia/general/202001/04/P2020010400175.htm)[《对公共卫生有重要性的新型传染病准备及应变计划》](https://www.chp.gov.hk/files/pdf/govt_preparedness_and_response_plan_for_novel_infectious_disease_of_public_health_significance_chi.pdf)，并同时启用严重应变级别，即时生效。"
+    content: "[香港特区政府公布](https://www.info.gov.hk/gia/general/202001/04/P2020010400175.htm)[《对公共卫生有重要性的新型传染病准备及应变计划》](https://www.chp.gov.hk/files/pdf/govt_preparedness_and_response_plan_for_novel_infectious_disease_of_public_health_significance_chi.pdf)，并同时启用严重应变级别，即时生效。<br>"
+  - item_name: news
+    content: "台湾医学健康信息网站康健发文[真的沒有人傳人？武漢不明病毒肺炎增至44例 香港也出現3例](https://www.commonhealth.com.tw/article/article.action?nid=80698)：2019年最後一天，中國武漢傳出爆發「不明原因肺炎」，網路一度傳出是嚴重急性呼吸道症候群（SARS）病例，當天武漢官方承認發現「不明肺炎」27例，其中7例重症，宣稱「沒有發現明顯人傳人現象」。但僅過3天、至1月3日，依武漢官方在網站上發布的數據，患者已增至44人，其中重例11例。不過官方仍堅持「未發現明顯的人傳人證據」。令當地醫界憂心的是，原本爆出的27例都在華南海鮮市場，但新增病例已不限該區。另據香港媒體報導，香港屯門醫院上個月31日收治的一名肺炎病患，過去兩周內曾去過武漢，院方緊急隔離患者，初步化驗結果排除禽流感以及SARS，讓香港民眾擔心疫情在香港擴散，今天又爆出新增兩個去過武漢後出不明肺炎病徵的病患，香港政府做出風險評估，將應變級別從「戒備」升級到「嚴重」<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
@@ -420,16 +426,20 @@
     content: "同日，湖北省委书记蒋超良到江汉区某社区卫生服务中心视察，他戴着口罩。院长方涵回忆，也就在那几天，要求我们医护人员也戴口罩。随同的人还有武汉市委书记、区委书记和武汉市卫健委的人。当时领导传达的意思是“可防可控”，“要做好医务人员防控，不要出现医务人员感染”。但此后社区卫生服务中心工作没什么变化，一直到大年二十九（1月23日）都是正常的接诊。见3月7日[八点健闻 · 武汉疫情第一道防线——社区卫生服务中心是怎样失守的？](https://github.com/Pratitya/wuhan2020-timeline/issues/150#issue-577432320)。<br>"
   - item_name: news
     content: "晚上，红会医院呼吸科主任对刘德炎的妻子陈阿姨说，**现在北京的专家来了**，我好不容易争取到一个名额，把你家刘医生转到肺科医院去。【参见1月4日条目】晚上，120救护车来的时候，陈阿姨看到了从未见过的画面。她后来对女婿小李说，就像拍电影一样，几个身穿白色防护服，戴着面罩、护目镜、口罩，全副武装的医护人员，用平板车把刘德炎送上救护车，拉走了。23点多，刘德炎被送到武汉市肺科医院（武汉市第二家收治新冠肺炎的定点医院）。次日，在肺科医院，陈阿姨也在咳嗽。医院的沈大夫看到后，让她赶快去检查。8日，CT显示陈阿姨的双肺也被感染了，随即住院。在治疗17天后，陈阿姨出院。1月30日，陈阿姨又开始发烧了。其后入住武汉市第一医院。3月17日下午，陈阿姨转到火神山医院。25日，陈阿姨从火神山医院出院，转到江汉区泛海城市广场V46公寓进行隔离。直到1月29日刘德炎抢救无效去世，陈阿姨本日入院后再也没有见到老伴一面。72岁的刘徳炎医生并不是唯一殉职的民营诊所医生。目前所知，在江汉区还有另外一位八旬老医生殉职。而据上观新闻报道，在汉阳十里铺，开西医诊所的廖庆绪医生同样因救治病人不幸感染，于2月11日殉职，享年66岁。见4月7日[财新 · 特稿·与新冠病毒搏斗的民营诊所医生](https://github.com/Pratitya/COVID-19-timeline/issues/203#issue-599443011)。<br>"
+  - item_name: news
+    content: "[丁香园 · 科普 · 武汉不明原因肺炎诊断患者增至 59 例，这 7 个问题你要知道](https://zhuanlan.zhihu.com/p/101207645)转述1月5日武汉卫健委公告。称初步调查表明，未发现明确的人传人证据，未发现医务人员感染，而且目前已排除流感、禽流感、腺病毒、传染性非典型肺炎（SARS）和中东呼吸综合征（MERS）等常见的、传染性强的呼吸道病原。病原鉴定和病因溯源工作仍在进一步进行中。没有人传人证据也没有医生护士发病，目前来看是好消息，说明防控措施已起到一定效果，大家不必恐慌。<br>"
   - item_name: group
     content: "【中国】<br>"
   - item_name: news
     content: "中国疾病预防控制中心启动二级应急响应。见[Qun Li, et al. Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia. The New England Journal of Medicine, Jan. 29, 2020（新型冠状病毒感染肺炎在中国武汉的初期传播动力学）](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316)<br>"
+  - item_name: news
+    content: "[中央社](https://buzzorange.com/2020/01/06/the-unknown-pneumonia-cases/)报道武漢不明肺炎已59例。【参见1月5日条目】台灣開啟防肺炎金鐘罩！蔡政府第一時間在桃機強化「豬瘟＋肺炎」雙防疫。"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
     content: "美国卫生与公共服务部向中国提出可以派遣一支疾控小组协助中国的公共卫生防疫努力。见[1月28日美国公共卫生机构就新冠病毒疫情举行的新闻发布会](https://github.com/Pratitya/wuhan2020-timeline/issues/30#issue-558084328)<br>"
   - item_name: news
-    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200106-1018675)：（香港中通社）再有八人从武汉返港后感不适，肺炎个案增至16宗。<br>"
+    content: "[新加坡联合早报](http://www.zaobao.com/news/china/story20200106-1018675)：（香港中通社）再有八人从武汉返港后感不适，肺炎个案增至16宗。陳時中也指示應秉持「料敵從寬、禦敵從嚴」態度，並強化實驗室診斷量能、加強通報及檢驗等各項應變措施，絕不能掉以輕心。專家認為不明原因肺炎的病原仍是個謎，即便是輕症也不能排除有傳染風險，而且感染者不一定會出現肺炎症狀，基於上述考量，專家決議擴大通報條件， 即日起凡是 14 天內曾到武漢且有發燒、上呼吸道症狀，無論是否有肺炎都須立即通報，一律就醫採檢。與會的台大兒童醫院小兒部主治醫師李秉穎。以SARS 為例，正因 SARS 具人傳人的能力，短短時間內就會造成家庭群聚、醫護群聚事件，反觀武漢不明原因肺炎群聚狀況並不嚴重，以此判斷人傳人能力應該不強。<br>"
 
 - date: 2020年1月7日
   items:
@@ -502,7 +512,7 @@
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
-    content: "世界卫生组织[发推](https://twitter.com/WHO/status/1215320529059688449)，介绍冠状病毒、SARS、MERS及个人防护措施。此条推文配图为：冠状病毒。"
+    content: "世界卫生组织发表[世卫组织关于中国武汉聚集性肺炎病例的声明](https://www.who.int/china/zh/news/detail/09-01-2020-who-statement-regarding-cluster-of-pneumonia-cases-in-wuhan-china)，表明中国研究人员通过从一名阳性患者样本中分离出的病毒进行了基因测序。在短时间内初步鉴定出一种新型病毒是一项显著成就，表明中国在管理新疫情方面的能力有所增强。又根据中国当局的说法，该病毒可以导致一些病人出现严重的疾病，并不轻易发生人际传播。因此不建议对旅行者采取任何具体措施。根据现有信息，世卫组织建议不要对中国实行任何旅行或贸易限制。同时发表[推文](https://twitter.com/WHO/status/1215320529059688449)，介绍冠状病毒、SARS、MERS及个人防护措施。此条推文配图为：冠状病毒。<br>"
   - item_name: news
     content: "[英国卫报](https://www.theguardian.com/science/2020/jan/09/china-pneumonia-outbreak-may-be-caused-by-sars-type-virus-who): 据世界卫生组织（WHO）宣布：造成新型中国肺炎的病毒可能来源于SARS的同种类型。<br>"
 
@@ -527,9 +537,13 @@
   - item_name: news
     content: "[稳健医疗](https://github.com/Pratitya/wuhan2020-timeline/issues/6#issue-556820423)决定，动员子公司唯一的口罩车间380人，春节不休假，生产N95口罩、外科口罩和护理口罩。<br>"
   - item_name: news
+    content: "中国科学院院士饶子和接受[《中国科学报》](http://news.sciencenet.cn/htmlnews/2020/1/434674.shtm)采访，表示针对冠状病毒引发的重大疾病，科学家近年来在流行病学、致病机理以及感染性疾病的防治方面开展了大量的研究工作。因此，这次冠状病毒出现后，我们并没有像2003年非典时那么紧张和恐慌。相比2003年，我们的预防体系、科研体系以及对冠状病毒的了解已不可同日而语，我们更加胸有成竹。当然，也不可以掉以轻心，还是要继续研究。<br>"
+  - item_name: news
     content: "深圳市福田区疾控中心即举办了严重呼吸道传染病应急处置人员个人防护培训班。彼时，新冠肺炎的传染源、传播途径、易感人群等信息尚未确定。当晚，港大深圳医院接诊两名发热患者。这是深圳报告的首诊病例，且首诊病例即为家庭聚集性传染。深圳拉响了警报。见3月1日[财新网 · 特稿·深圳“人传人”结论是如何得出的](http://china.caixin.com/2020-03-01/101522553.html)。<br>"
   - item_name: news
     content: "晚间，王广发接受新华社采访时表示，目前病人的病情和整体疫情处于可控状态，大部分患者病情属于轻到中度。次日[新华网微博](https://weibo.com/2810373291/IoXuKxSPG)转载报道。<br>"
+  - item_name: news
+    content: "[澎湃号 · 虎老师说：肺炎有多少不明？](https://github.com/Pratitya/COVID-19-timeline/issues/222#issue-605447404)<br>"
   - item_name: group
     content: "【国际】<br>"
   - item_name: news
