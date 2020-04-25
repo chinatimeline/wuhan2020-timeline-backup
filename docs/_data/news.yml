@@ -3733,5 +3733,16 @@
     content: "【中国】<br>"
   - item_name: news
     content: "民政部新闻发言人贾维周在[民政部第二季度例行新闻发布会](http://lyzx.mca.gov.cn:8280/asop/templates/n23/interviewlog.html)上表示，今年以来各地已向低保对象、特困人员等困难群众发放价格临时补贴资金37.1亿元，惠及8168.9万人次。湖北省对城乡低保人员、特困人员等特殊困难群体按照城市人员不低于500元、农村人员不低于300元标准，给予生活物资救助。各地对低保对象、特困人员、低收入家庭、建档立卡贫困户中确诊感染新冠肺炎的，根据困难程度每户发放1000~10000元不等的临时救助金。<br>"
+  - item_name: news
+    content: "[央视新闻](https://weibo.com/2656274875/IEQ8seajC?ref=collection&type=comment)：武汉现有重症病例清零#。国家卫健委医政医管局监察专员焦雅辉介绍：武汉现有确诊病例已降至47人，其中30多人长期核酸不转阴，为常阳患者。常阳患者只是核酸一直不转阴，但已无需治疗。现在，基本可以宣告整个医疗救治工作取得了重大胜利。<br>"
+  - item_name: group
+    content: "【国际】<br>"
+
+- date: 2020年4月25日
+  items:
+  - item_name: group
+    content: "【武汉-湖北】<br>"
+  - item_name: group
+    content: "【中国】<br>"
   - item_name: group
     content: "【国际】<br>"
