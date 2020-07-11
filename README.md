@@ -1,6 +1,6 @@
 COVID-19-timeline
 ====================
-[疫情与舆情：新冠肺炎时间线TIMELINE](https://pratitya.github.io/COVID-19-timeline/)
+[疫情与舆情：新冠肺炎时间线TIMELINE](./时间线TIMELINE.md)
 ===========================================================
 
 凡例
